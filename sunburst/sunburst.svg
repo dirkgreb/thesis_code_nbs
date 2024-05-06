@@ -1,0 +1,3974 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 500" style="enable-background:new 0 0 700 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F9F9F9;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st2{fill:#2A3F5F;}
+	.st3{font-family:'Verdana';}
+	.st4{font-size:12px;}
+	.st5{fill:#B0F4F7;stroke:#000000;stroke-linejoin:round;}
+	.st6{fill:#444444;}
+	.st7{fill:#DEBEF4;stroke:#000000;stroke-linejoin:round;}
+	.st8{fill:#56B4E9;stroke:#000000;stroke-linejoin:round;}
+	.st9{font-size:4.2948px;}
+	.st10{fill:#636EFA;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st11{font-size:0.3836px;}
+	.st12{fill:#00CC96;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st13{font-size:0.1832px;}
+	.st14{fill:#99D6C6;stroke:#000000;stroke-linejoin:round;}
+	.st15{fill:#97D3DB;stroke:#000000;stroke-linejoin:round;}
+	.st16{fill:#CBA3E2;stroke:#000000;stroke-linejoin:round;}
+	.st17{font-size:2.3254px;}
+	.st18{font-size:3.8654px;}
+	.st19{font-size:0.5858px;}
+	.st20{font-size:0.2823px;}
+	.st21{fill:#DE8F05;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st22{fill:#CA9161;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st23{font-size:5.4085px;}
+	.st24{fill:#FBAFE4;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st25{font-size:6.6656px;}
+	.st26{fill:#ECE133;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st27{font-size:3.6327px;}
+	.st28{fill:#FF97FF;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st29{font-size:2.2691px;}
+	.st30{fill:#FECB52;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st31{font-size:1.482px;}
+	.st32{fill:#FF6692;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st33{font-size:1.5029px;}
+	.st34{fill:#AB63FA;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st35{font-size:0.7934px;}
+	.st36{fill:#0173B2;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st37{fill:#D55E00;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st38{font-size:4.8047px;}
+	.st39{fill:#949494;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st40{font-size:4.2566px;}
+	.st41{fill:#19D3F3;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st42{font-size:3.7017px;}
+	.st43{fill:#029E73;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st44{font-size:9.0495px;}
+	.st45{fill:#CC78BC;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st46{font-size:10.4349px;}
+	.st47{font-size:4.2996px;}
+	.st48{fill:#FFA15A;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st49{font-size:4.5272px;}
+	.st50{fill:#B6E880;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st51{font-size:0.7948px;}
+	.st52{font-size:0.8006px;}
+	.st53{font-size:1.3437px;}
+	.st54{fill:#56B4E9;stroke:#FFFFFF;stroke-linejoin:round;}
+	.st55{font-size:3.551px;}
+	.st56{font-size:0.7964px;}
+	.st57{font-size:0.3798px;}
+	.st58{opacity:0.7;fill:#DE8F05;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st59{font-size:9.0246px;}
+	.st60{font-size:3.2904px;}
+	.st61{font-size:3.9331px;}
+	.st62{font-size:3.5367px;}
+	.st63{font-size:3.9788px;}
+	.st64{font-size:3.3148px;}
+	.st65{font-size:3.6135px;}
+	.st66{font-size:2.7956px;}
+	.st67{font-size:2.7525px;}
+	.st68{font-size:2.6282px;}
+	.st69{font-size:1.9766px;}
+	.st70{font-size:2.3646px;}
+	.st71{font-size:2.3151px;}
+	.st72{font-size:2.1884px;}
+	.st73{font-size:2.2232px;}
+	.st74{font-size:2.2441px;}
+	.st75{font-size:2.1558px;}
+	.st76{font-size:1.9434px;}
+	.st77{font-size:1.6099px;}
+	.st78{font-size:1.8577px;}
+	.st79{font-size:1.2497px;}
+	.st80{font-size:1.8106px;}
+	.st81{font-size:1.7405px;}
+	.st82{font-size:1.7365px;}
+	.st83{font-size:1.6825px;}
+	.st84{font-size:1.7337px;}
+	.st85{font-size:1.7312px;}
+	.st86{font-size:1.616px;}
+	.st87{font-size:1.6451px;}
+	.st88{font-size:1.6468px;}
+	.st89{font-size:1.6493px;}
+	.st90{font-size:1.5373px;}
+	.st91{font-size:1.5988px;}
+	.st92{font-size:1.5443px;}
+	.st93{font-size:1.432px;}
+	.st94{font-size:1.4219px;}
+	.st95{font-size:1.3924px;}
+	.st96{font-size:1.363px;}
+	.st97{font-size:1.3678px;}
+	.st98{font-size:1.3337px;}
+	.st99{font-size:1.3236px;}
+	.st100{font-size:1.2314px;}
+	.st101{font-size:1.2324px;}
+	.st102{font-size:1.1916px;}
+	.st103{font-size:1.1558px;}
+	.st104{font-size:1.1399px;}
+	.st105{font-size:1.1264px;}
+	.st106{font-size:1.096px;}
+	.st107{font-size:1.057px;}
+	.st108{font-size:1.055px;}
+	.st109{font-size:1.0387px;}
+	.st110{font-size:1.0209px;}
+	.st111{font-size:1.0191px;}
+	.st112{font-size:1.014px;}
+	.st113{font-size:1.002px;}
+	.st114{font-size:1.0037px;}
+	.st115{font-size:0.9696px;}
+	.st116{font-size:0.9797px;}
+	.st117{font-size:0.9646px;}
+	.st118{font-size:0.9739px;}
+	.st119{font-size:0.9581px;}
+	.st120{font-size:0.9482px;}
+	.st121{font-size:0.9348px;}
+	.st122{font-size:0.908px;}
+	.st123{font-size:0.907px;}
+	.st124{font-size:0.9035px;}
+	.st125{font-size:0.8997px;}
+	.st126{font-size:0.8853px;}
+	.st127{font-size:0.906px;}
+	.st128{font-size:0.827px;}
+	.st129{font-size:0.8738px;}
+	.st130{font-size:0.8481px;}
+	.st131{font-size:0.8615px;}
+	.st132{font-size:0.8504px;}
+	.st133{font-size:0.8336px;}
+	.st134{font-size:0.8317px;}
+	.st135{font-size:0.804px;}
+	.st136{font-size:0.8007px;}
+	.st137{font-size:0.7986px;}
+	.st138{font-size:0.8035px;}
+	.st139{font-size:0.7928px;}
+	.st140{font-size:0.7965px;}
+	.st141{font-size:0.7753px;}
+	.st142{font-size:0.7639px;}
+	.st143{font-size:0.7636px;}
+	.st144{font-size:0.7274px;}
+	.st145{font-size:0.711px;}
+	.st146{font-size:0.7055px;}
+	.st147{font-size:0.6978px;}
+	.st148{font-size:0.6926px;}
+	.st149{font-size:0.6966px;}
+	.st150{font-size:0.69px;}
+	.st151{font-size:0.6834px;}
+	.st152{font-size:0.6753px;}
+	.st153{font-size:0.6812px;}
+	.st154{font-size:0.6718px;}
+	.st155{font-size:0.6872px;}
+	.st156{font-size:0.6594px;}
+	.st157{font-size:0.6598px;}
+	.st158{font-size:0.658px;}
+	.st159{font-size:0.6524px;}
+	.st160{font-size:0.6552px;}
+	.st161{font-size:0.637px;}
+	.st162{font-size:0.6098px;}
+	.st163{font-size:0.594px;}
+	.st164{font-size:0.5691px;}
+	.st165{font-size:0.5263px;}
+	.st166{font-size:0.4172px;}
+	.st167{font-size:0.4194px;}
+	.st168{font-size:0.4123px;}
+	.st169{font-size:0.4084px;}
+	.st170{font-size:0.3857px;}
+	.st171{font-size:0.3711px;}
+	.st172{font-size:0.354px;}
+	.st173{font-size:0.3457px;}
+	.st174{font-size:0.3425px;}
+	.st175{font-size:0.336px;}
+	.st176{font-size:0.3356px;}
+	.st177{font-size:0.3351px;}
+	.st178{font-size:0.3315px;}
+	.st179{font-size:0.3129px;}
+	.st180{font-size:0.3066px;}
+	.st181{font-size:0.2848px;}
+	.st182{font-size:0.2048px;}
+	.st183{font-size:0.1805px;}
+	.st184{font-size:0.1717px;}
+	.st185{font-size:0.1668px;}
+	.st186{font-size:0.1627px;}
+	.st187{font-size:0.1263px;}
+	.st188{font-size:0.1082px;}
+	.st189{font-size:0.1075px;}
+	.st190{font-size:4.450655e-02px;}
+	.st191{opacity:0.7;fill:#CA9161;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st192{font-size:2.5252px;}
+	.st193{font-size:2.0648px;}
+	.st194{font-size:1.9026px;}
+	.st195{font-size:1.2713px;}
+	.st196{font-size:0.9893px;}
+	.st197{font-size:0.9606px;}
+	.st198{font-size:0.9665px;}
+	.st199{font-size:0.9338px;}
+	.st200{font-size:0.9353px;}
+	.st201{font-size:0.9227px;}
+	.st202{font-size:0.8928px;}
+	.st203{font-size:0.8747px;}
+	.st204{font-size:0.8846px;}
+	.st205{font-size:0.8832px;}
+	.st206{font-size:0.868px;}
+	.st207{font-size:0.8695px;}
+	.st208{font-size:0.8794px;}
+	.st209{font-size:0.8656px;}
+	.st210{font-size:0.7818px;}
+	.st211{font-size:0.7799px;}
+	.st212{font-size:0.7786px;}
+	.st213{font-size:0.764px;}
+	.st214{font-size:0.7739px;}
+	.st215{font-size:0.7567px;}
+	.st216{font-size:0.7548px;}
+	.st217{font-size:0.7538px;}
+	.st218{font-size:0.7555px;}
+	.st219{font-size:0.7551px;}
+	.st220{font-size:0.7481px;}
+	.st221{font-size:0.7552px;}
+	.st222{font-size:0.7459px;}
+	.st223{font-size:0.743px;}
+	.st224{font-size:0.7517px;}
+	.st225{font-size:0.7185px;}
+	.st226{font-size:0.5767px;}
+	.st227{font-size:0.5799px;}
+	.st228{font-size:0.5716px;}
+	.st229{font-size:0.5581px;}
+	.st230{font-size:0.5468px;}
+	.st231{font-size:0.5392px;}
+	.st232{font-size:0.4191px;}
+	.st233{font-size:0.4153px;}
+	.st234{font-size:0.4128px;}
+	.st235{font-size:0.4097px;}
+	.st236{font-size:0.4055px;}
+	.st237{font-size:0.4029px;}
+	.st238{font-size:0.3997px;}
+	.st239{font-size:0.3841px;}
+	.st240{font-size:0.3834px;}
+	.st241{font-size:0.3804px;}
+	.st242{font-size:0.3813px;}
+	.st243{font-size:0.374px;}
+	.st244{font-size:0.368px;}
+	.st245{font-size:0.3626px;}
+	.st246{font-size:0.3598px;}
+	.st247{opacity:0.7;fill:#FBAFE4;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st248{font-size:4.4982px;}
+	.st249{font-size:2.924px;}
+	.st250{font-size:3.1601px;}
+	.st251{font-size:2.5057px;}
+	.st252{font-size:1.9903px;}
+	.st253{font-size:1.785px;}
+	.st254{font-size:1.7771px;}
+	.st255{font-size:1.7115px;}
+	.st256{font-size:1.3684px;}
+	.st257{font-size:1.2229px;}
+	.st258{font-size:0.9446px;}
+	.st259{font-size:0.8429px;}
+	.st260{font-size:0.5185px;}
+	.st261{font-size:0.189px;}
+	.st262{font-size:0.1788px;}
+	.st263{font-size:0.1774px;}
+	.st264{opacity:0.7;fill:#ECE133;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st265{font-size:2.4777px;}
+	.st266{font-size:1.3409px;}
+	.st267{font-size:1.02px;}
+	.st268{font-size:0.9867px;}
+	.st269{font-size:0.4822px;}
+	.st270{font-size:0.185px;}
+	.st271{font-size:0.1837px;}
+	.st272{font-size:0.1761px;}
+	.st273{font-size:0.1526px;}
+	.st274{font-size:0.1494px;}
+	.st275{font-size:0.1485px;}
+	.st276{font-size:0.1479px;}
+	.st277{font-size:0.1467px;}
+	.st278{font-size:0.1408px;}
+	.st279{font-size:0.1334px;}
+	.st280{font-size:0.1277px;}
+	.st281{font-size:0.1196px;}
+	.st282{opacity:0.7;fill:#FF97FF;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st283{font-size:0.6971px;}
+	.st284{font-size:0.6972px;}
+	.st285{font-size:0.6996px;}
+	.st286{font-size:0.6864px;}
+	.st287{font-size:0.3533px;}
+	.st288{opacity:0.7;fill:#FECB52;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st289{font-size:0.972px;}
+	.st290{font-size:0.5164px;}
+	.st291{font-size:0.49px;}
+	.st292{opacity:0.7;fill:#FF6692;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st293{font-size:0.9683px;}
+	.st294{font-size:0.9727px;}
+	.st295{opacity:0.7;fill:#AB63FA;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st296{font-size:1.0078px;}
+	.st297{opacity:0.7;fill:#0173B2;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st298{font-size:3.0173px;}
+	.st299{font-size:3.4429px;}
+	.st300{font-size:3.4191px;}
+	.st301{font-size:3.6517px;}
+	.st302{font-size:1.5405px;}
+	.st303{font-size:1.1493px;}
+	.st304{font-size:3.7208px;}
+	.st305{font-size:2.9767px;}
+	.st306{font-size:3.8908px;}
+	.st307{font-size:2.7868px;}
+	.st308{font-size:2.4319px;}
+	.st309{font-size:2.8504px;}
+	.st310{font-size:2.558px;}
+	.st311{font-size:3.3167px;}
+	.st312{font-size:2.3842px;}
+	.st313{font-size:2.5457px;}
+	.st314{font-size:2.3637px;}
+	.st315{font-size:2.2773px;}
+	.st316{font-size:2.3035px;}
+	.st317{font-size:2.2124px;}
+	.st318{font-size:2.1693px;}
+	.st319{font-size:2.2152px;}
+	.st320{font-size:1.8891px;}
+	.st321{font-size:1.6904px;}
+	.st322{font-size:1.6207px;}
+	.st323{font-size:1.5229px;}
+	.st324{font-size:1.3552px;}
+	.st325{font-size:1.2877px;}
+	.st326{font-size:1.2133px;}
+	.st327{font-size:1.2142px;}
+	.st328{font-size:1.1408px;}
+	.st329{font-size:1.1322px;}
+	.st330{font-size:1.1204px;}
+	.st331{font-size:0.9903px;}
+	.st332{font-size:0.9906px;}
+	.st333{font-size:0.9907px;}
+	.st334{font-size:0.9659px;}
+	.st335{font-size:0.9579px;}
+	.st336{font-size:0.916px;}
+	.st337{font-size:0.8549px;}
+	.st338{font-size:0.8253px;}
+	.st339{font-size:0.7995px;}
+	.st340{font-size:0.6997px;}
+	.st341{font-size:0.6474px;}
+	.st342{font-size:0.6264px;}
+	.st343{font-size:0.6036px;}
+	.st344{font-size:0.5591px;}
+	.st345{font-size:0.512px;}
+	.st346{font-size:0.5039px;}
+	.st347{font-size:0.4989px;}
+	.st348{font-size:0.4962px;}
+	.st349{font-size:0.4839px;}
+	.st350{font-size:0.4731px;}
+	.st351{font-size:0.4791px;}
+	.st352{font-size:0.4377px;}
+	.st353{font-size:0.3812px;}
+	.st354{font-size:0.3189px;}
+	.st355{font-size:0.2635px;}
+	.st356{font-size:0.2629px;}
+	.st357{font-size:0.2622px;}
+	.st358{font-size:0.2383px;}
+	.st359{font-size:0.196px;}
+	.st360{font-size:0.1953px;}
+	.st361{font-size:0.1239px;}
+	.st362{font-size:0.1069px;}
+	.st363{font-size:0.1062px;}
+	.st364{font-size:9.774950e-02px;}
+	.st365{font-size:7.383703e-02px;}
+	.st366{font-size:6.795203e-02px;}
+	.st367{font-size:5.430405e-02px;}
+	.st368{font-size:4.515636e-02px;}
+	.st369{font-size:1.441898e-02px;}
+	.st370{opacity:0.7;fill:#D55E00;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st371{font-size:3.2307px;}
+	.st372{font-size:1.4794px;}
+	.st373{font-size:1.5063px;}
+	.st374{font-size:2.1157px;}
+	.st375{font-size:2.0176px;}
+	.st376{font-size:1.995px;}
+	.st377{font-size:1.037px;}
+	.st378{font-size:0.9918px;}
+	.st379{font-size:0.9758px;}
+	.st380{font-size:0.947px;}
+	.st381{font-size:0.9148px;}
+	.st382{font-size:0.8964px;}
+	.st383{font-size:0.9172px;}
+	.st384{font-size:0.7246px;}
+	.st385{font-size:0.7388px;}
+	.st386{font-size:0.6248px;}
+	.st387{font-size:0.532px;}
+	.st388{font-size:0.3352px;}
+	.st389{font-size:0.2247px;}
+	.st390{font-size:0.2042px;}
+	.st391{font-size:0.1417px;}
+	.st392{font-size:0.1349px;}
+	.st393{font-size:0.1256px;}
+	.st394{font-size:0.1178px;}
+	.st395{font-size:0.1003px;}
+	.st396{font-size:3.988749e-02px;}
+	.st397{font-size:3.858428e-02px;}
+	.st398{font-size:3.793376e-02px;}
+	.st399{opacity:0.7;fill:#949494;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st400{font-size:2.7564px;}
+	.st401{font-size:2.8299px;}
+	.st402{font-size:3.4095px;}
+	.st403{font-size:2.1638px;}
+	.st404{font-size:1.8793px;}
+	.st405{font-size:1.3947px;}
+	.st406{font-size:1.6441px;}
+	.st407{font-size:1.6896px;}
+	.st408{font-size:1.6085px;}
+	.st409{font-size:1.2665px;}
+	.st410{font-size:1.0043px;}
+	.st411{font-size:0.9752px;}
+	.st412{font-size:0.991px;}
+	.st413{font-size:0.9685px;}
+	.st414{font-size:0.9664px;}
+	.st415{font-size:0.8694px;}
+	.st416{font-size:0.7485px;}
+	.st417{font-size:0.546px;}
+	.st418{font-size:0.2971px;}
+	.st419{font-size:0.2458px;}
+	.st420{font-size:0.2147px;}
+	.st421{opacity:0.7;fill:#19D3F3;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st422{font-size:1.3312px;}
+	.st423{font-size:0.9983px;}
+	.st424{font-size:0.4778px;}
+	.st425{opacity:0.7;fill:#029E73;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st426{font-size:2.5391px;}
+	.st427{font-size:3.1694px;}
+	.st428{font-size:3.136px;}
+	.st429{font-size:2.9721px;}
+	.st430{font-size:1.8738px;}
+	.st431{font-size:1.697px;}
+	.st432{font-size:1.705px;}
+	.st433{font-size:1.6579px;}
+	.st434{font-size:1.5004px;}
+	.st435{font-size:1.4858px;}
+	.st436{font-size:1.318px;}
+	.st437{font-size:1.3228px;}
+	.st438{font-size:1.2512px;}
+	.st439{font-size:1.148px;}
+	.st440{font-size:1.0192px;}
+	.st441{font-size:0.9871px;}
+	.st442{font-size:0.9438px;}
+	.st443{font-size:0.9584px;}
+	.st444{font-size:0.9448px;}
+	.st445{font-size:0.9475px;}
+	.st446{font-size:0.9419px;}
+	.st447{font-size:0.8765px;}
+	.st448{font-size:0.8803px;}
+	.st449{font-size:0.8641px;}
+	.st450{font-size:0.8729px;}
+	.st451{font-size:0.8635px;}
+	.st452{font-size:0.8778px;}
+	.st453{font-size:0.8647px;}
+	.st454{font-size:0.8521px;}
+	.st455{font-size:0.8619px;}
+	.st456{font-size:0.8344px;}
+	.st457{font-size:0.8409px;}
+	.st458{font-size:0.7746px;}
+	.st459{font-size:0.7733px;}
+	.st460{font-size:0.7694px;}
+	.st461{font-size:0.767px;}
+	.st462{font-size:0.7702px;}
+	.st463{font-size:0.769px;}
+	.st464{font-size:0.7604px;}
+	.st465{font-size:0.7194px;}
+	.st466{font-size:0.6925px;}
+	.st467{font-size:0.7026px;}
+	.st468{font-size:0.6149px;}
+	.st469{font-size:0.5956px;}
+	.st470{font-size:0.4684px;}
+	.st471{font-size:0.4776px;}
+	.st472{font-size:0.4578px;}
+	.st473{font-size:0.4558px;}
+	.st474{font-size:0.4556px;}
+	.st475{font-size:0.455px;}
+	.st476{font-size:0.4549px;}
+	.st477{font-size:0.4507px;}
+	.st478{font-size:0.45px;}
+	.st479{font-size:0.4494px;}
+	.st480{font-size:0.4538px;}
+	.st481{font-size:0.4464px;}
+	.st482{font-size:0.4421px;}
+	.st483{font-size:0.4436px;}
+	.st484{font-size:0.4405px;}
+	.st485{font-size:0.4392px;}
+	.st486{font-size:0.4317px;}
+	.st487{opacity:0.7;fill:#CC78BC;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st488{font-size:2.8056px;}
+	.st489{font-size:2.9537px;}
+	.st490{font-size:6.2053px;}
+	.st491{font-size:3.1352px;}
+	.st492{font-size:2.406px;}
+	.st493{font-size:2.4103px;}
+	.st494{font-size:2.3728px;}
+	.st495{font-size:2.1573px;}
+	.st496{font-size:2.264px;}
+	.st497{font-size:2.2783px;}
+	.st498{font-size:2.0173px;}
+	.st499{font-size:1.897px;}
+	.st500{font-size:1.8593px;}
+	.st501{font-size:1.5884px;}
+	.st502{font-size:1.5889px;}
+	.st503{font-size:1.5586px;}
+	.st504{font-size:1.3655px;}
+	.st505{font-size:1.3152px;}
+	.st506{font-size:1.3116px;}
+	.st507{font-size:1.0137px;}
+	.st508{font-size:1.0219px;}
+	.st509{font-size:1.0079px;}
+	.st510{font-size:1.0021px;}
+	.st511{font-size:0.9909px;}
+	.st512{font-size:0.9944px;}
+	.st513{font-size:0.9759px;}
+	.st514{font-size:0.9688px;}
+	.st515{font-size:0.9901px;}
+	.st516{font-size:0.9218px;}
+	.st517{font-size:0.9214px;}
+	.st518{font-size:0.9352px;}
+	.st519{font-size:0.9153px;}
+	.st520{font-size:0.9071px;}
+	.st521{font-size:0.9109px;}
+	.st522{font-size:0.8968px;}
+	.st523{font-size:0.9165px;}
+	.st524{font-size:0.8315px;}
+	.st525{font-size:0.8303px;}
+	.st526{font-size:0.7815px;}
+	.st527{font-size:0.7645px;}
+	.st528{font-size:0.586px;}
+	.st529{font-size:2.5555px;}
+	.st530{font-size:2.5799px;}
+	.st531{font-size:2.4114px;}
+	.st532{font-size:1.9896px;}
+	.st533{font-size:1.6164px;}
+	.st534{font-size:1.0007px;}
+	.st535{font-size:0.9783px;}
+	.st536{font-size:0.9489px;}
+	.st537{font-size:0.9671px;}
+	.st538{font-size:0.9477px;}
+	.st539{font-size:0.9052px;}
+	.st540{font-size:0.7741px;}
+	.st541{font-size:0.7755px;}
+	.st542{font-size:0.7727px;}
+	.st543{font-size:0.4739px;}
+	.st544{font-size:0.4356px;}
+	.st545{font-size:0.4288px;}
+	.st546{opacity:0.7;fill:#FFA15A;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st547{font-size:2.5241px;}
+	.st548{font-size:1.3491px;}
+	.st549{font-size:0.956px;}
+	.st550{font-size:0.9625px;}
+	.st551{font-size:0.7831px;}
+	.st552{font-size:0.7855px;}
+	.st553{font-size:0.6042px;}
+	.st554{font-size:0.5932px;}
+	.st555{font-size:0.588px;}
+	.st556{font-size:0.5899px;}
+	.st557{opacity:0.7;fill:#B6E880;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st558{font-size:0.9982px;}
+	.st559{font-size:0.9756px;}
+	.st560{opacity:0.7;fill:#00CC96;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st561{font-size:1.584px;}
+	.st562{font-size:0.8506px;}
+	.st563{font-size:0.8543px;}
+	.st564{font-size:0.8032px;}
+	.st565{font-size:0.7842px;}
+	.st566{opacity:0.7;fill:#56B4E9;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st567{font-size:2.1512px;}
+	.st568{font-size:1.7873px;}
+	.st569{font-size:1.668px;}
+	.st570{font-size:1.6004px;}
+	.st571{font-size:1.163px;}
+	.st572{font-size:0.9644px;}
+	.st573{font-size:0.9638px;}
+	.st574{font-size:0.5947px;}
+	.st575{font-size:0.5968px;}
+	.st576{font-size:0.5964px;}
+	.st577{font-size:0.5944px;}
+	.st578{font-size:0.5953px;}
+	.st579{font-size:0.6167px;}
+	.st580{font-size:0.6018px;}
+	.st581{font-size:0.5949px;}
+	.st582{font-size:0.6076px;}
+	.st583{font-size:0.5984px;}
+	.st584{font-size:0.5995px;}
+	.st585{font-size:0.6031px;}
+	.st586{font-size:0.5743px;}
+	.st587{font-size:0.5873px;}
+	.st588{font-size:0.5718px;}
+	.st589{font-size:0.5862px;}
+	.st590{font-size:0.5675px;}
+	.st591{font-size:0.5734px;}
+	.st592{opacity:0.7;fill:#636EFA;stroke:#FFFFFF;stroke-linejoin:round;enable-background:new    ;}
+	.st593{font-size:0.9884px;}
+	.st594{font-size:0.4782px;}
+</style>
+<rect class="st0" width="700" height="500"/>
+<g>
+	<g>
+		<g>
+			<path class="st1" d="M350,240L350,240L350,240z M386,240c0,19.9-16.1,36-36,36s-36-16.1-36-36s16.1-36,36-36S386,220.1,386,240z"
+				/>
+			<g>
+				<text transform="matrix(1 0 0 1 318.875 244.75)" class="st2 st3 st4">Firmicutes</text>
+			</g>
+		</g>
+		<g>
+			<path class="st5" d="M386,240h36c0-39.8-32.2-72-72-72s-72,32.2-72,72c0,37.5,28.8,68.8,66.2,71.8l2.9-35.9
+				c-19.8-1.6-34.6-19-33-38.8c1.6-19.8,19-34.6,38.8-33C371.6,205.6,386,221.2,386,240z"/>
+			<g>
+				<text transform="matrix(0.7349 -0.6782 0.6782 0.7349 306.3792 218.4297)" class="st6 st3 st4">Bacilli</text>
+			</g>
+		</g>
+		<g>
+			<path class="st7" d="M347.1,275.9l-2.9,35.9c37,3,70.3-22.7,76.7-59.3l-35.5-6.2C382.2,264.5,365.6,277.4,347.1,275.9z"/>
+			<g>
+				<text transform="matrix(0.791 -0.6118 0.6118 0.791 362.5529 302.2647)" class="st6 st3 st4">Clostridia</text>
+			</g>
+		</g>
+		<g>
+			<path class="st8" d="M385.5,246.2l35.5,6.2c0.7-3.9,1-7.8,1.1-11.7l-36-0.4C386,242.3,385.8,244.3,385.5,246.2z"/>
+			<g>
+				<text transform="matrix(0.9957 9.217546e-02 -9.217546e-02 0.9957 387.1844 245.1492)" class="st6 st3 st9">Erysipelotrichia</text>
+			</g>
+		</g>
+		<g>
+			<path class="st10" d="M386,240.4l36,0.4c0-0.2,0-0.4,0-0.5l-36-0.1C386,240.2,386,240.3,386,240.4z"/>
+			<g>
+				<text transform="matrix(1 7.059597e-03 -7.059597e-03 1 419.2831 240.6409)" class="st0 st3 st11">Negativicutes</text>
+			</g>
+		</g>
+		<g>
+			<path class="st12" d="M386,240.1l36,0.1c0-0.1,0-0.2,0-0.2h-36C386,240,386,240.1,386,240.1z"/>
+			<g>
+				<text transform="matrix(1 1.702247e-03 -1.702247e-03 1 421.0066 240.2053)" class="st6 st3 st13">Tissierellia</text>
+			</g>
+		</g>
+		<g>
+			<path class="st14" d="M422,240h36c0-59.6-48.4-108-108-108c-35,0-67.9,17-88.1,45.5l29.4,20.8c23-32.4,67.9-40.1,100.4-17.1
+				C410.7,194.8,422,216.7,422,240z"/>
+			<g>
+				<text transform="matrix(0.9528 0.3034 -0.3034 0.9528 347.8629 155.3189)" class="st6 st3 st4">Bacillales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st15" d="M291.3,198.4l-29.4-20.8c-34.5,48.7-23,116.1,25.7,150.6c15.8,11.2,34.4,18,53.8,19.5l2.9-35.9
+				c-39.6-3.2-69.2-37.9-66-77.5C279.3,221.3,283.8,208.9,291.3,198.4z"/>
+			<g>
+				<text transform="matrix(0.4232 0.906 -0.906 0.4232 252.7617 237.4809)" class="st6 st3 st4">Lactobacillales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st16" d="M344.2,311.8l-2.9,35.9c54,4.3,102.8-32,114.2-84.9l-35.2-7.6C412.8,290.5,380.2,314.7,344.2,311.8z"/>
+			<g>
+				<text transform="matrix(0.8026 -0.5965 0.5965 0.8026 369.9441 334.1606)" class="st6 st3 st4">Eubacteriales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st12" d="M420.4,255.2l35.2,7.6c0.3-1.4,0.6-2.7,0.8-4.1l-35.5-6.2C420.8,253.4,420.6,254.3,420.4,255.2z"/>
+			<g>
+				<text transform="matrix(0.9814 0.1919 -0.1919 0.9814 426.5345 255.9063)" class="st6 st3 st17">Thermoanaerobacterales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st8" d="M420.9,252.5l35.5,6.2c1-5.8,1.6-11.7,1.6-17.5l-36-0.4C422,244.7,421.6,248.6,420.9,252.5z"/>
+			<g>
+				<text transform="matrix(0.9957 9.217546e-02 -9.217546e-02 0.9957 422.5509 248.2529)" class="st6 st3 st18">Erysipelotrichales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st10" d="M422,240.8l36,0.4c0-0.3,0-0.5,0-0.8l-36-0.1C422,240.4,422,240.6,422,240.8z"/>
+			<g>
+				<text transform="matrix(1 7.059598e-03 -7.059598e-03 1 452.6782 240.9572)" class="st0 st3 st19">Selenomonadales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st12" d="M422,240.2l36,0.1c0-0.1,0-0.2,0-0.4h-36C422,240.1,422,240.2,422,240.2z"/>
+			<g>
+				<text transform="matrix(1 1.702247e-03 -1.702247e-03 1 456.1618 240.3037)" class="st6 st3 st20">Tissierellales</text>
+			</g>
+		</g>
+		<g>
+			<path class="st21" d="M458,240h36c0-79.5-64.5-144-144-144c-9,0-18,0.8-26.9,2.5l6.7,35.4c58.6-11.1,115.1,27.4,126.2,86
+				C457.4,226.5,458,233.2,458,240z"/>
+			<g>
+				<text transform="matrix(0.7702 0.6378 -0.6378 0.7702 398.2228 129.6048)" class="st6 st3 st4">Bacillaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st22" d="M329.9,133.9l-6.7-35.4c-16,3-31.4,8.8-45.4,16.9l18.1,31.1C306.3,140.5,317.9,136.2,329.9,133.9z"/>
+			<g>
+				<text transform="matrix(0.937 -0.3492 0.3492 0.937 281.6086 119.7115)" class="st6 st3 st23">Paenibacillaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st24" d="M295.8,146.6l-18.1-31.1c-12.8,7.4-24.3,16.7-34.2,27.6l26.6,24.2C277.6,159.1,286.2,152.1,295.8,146.6z"/>
+			<g>
+				<text transform="matrix(0.7781 -0.6282 0.6282 0.7781 249.3284 146.9088)" class="st6 st3 st25">Listeriaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st26" d="M270.1,167.3l-26.6-24.2c-2,2.2-3.9,4.5-5.8,6.8l28.1,22.5C267.2,170.7,268.6,169,270.1,167.3z"/>
+			<g>
+				<text transform="matrix(0.7602 0.6497 -0.6497 0.7602 240.2037 148.0416)" class="st6 st3 st27">Staphylococcaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st28" d="M265.8,172.4l-28.1-22.5c-0.7,0.9-1.4,1.7-2,2.6l28.6,21.9C264.7,173.7,265.3,173,265.8,172.4z"/>
+			<g>
+				<text transform="matrix(0.787 0.6169 -0.6169 0.787 236.4231 152.1127)" class="st6 st3 st29">Planococcaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st30" d="M264.2,174.3l-28.6-21.9c-0.4,0.6-0.9,1.1-1.3,1.7l28.9,21.5C263.6,175.2,263.9,174.8,264.2,174.3z"/>
+			<g>
+				<text transform="matrix(0.7984 0.6021 -0.6021 0.7984 234.953 153.9844)" class="st6 st3 st31">Sporolactobacillaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st32" d="M263.3,175.6l-28.9-21.5c-0.4,0.6-0.8,1.1-1.2,1.7l29.2,21C262.7,176.5,263,176,263.3,175.6z"/>
+			<g>
+				<text transform="matrix(0.8072 0.5903 -0.5903 0.8072 233.6655 155.661)" class="st6 st3 st33">Alicyclobacillaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st34" d="M262.4,176.9l-29.2-21c-0.2,0.3-0.4,0.6-0.6,0.9l29.4,20.8C262,177.3,262.2,177.1,262.4,176.9z"/>
+			<g>
+				<text transform="matrix(0.8137 0.5813 -0.5813 0.8137 232.8361 156.678)" class="st6 st3 st35">Thermoactinomycetaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st36" d="M261.9,177.5l-29.4-20.8c-43.1,60.8-32.7,144.5,24.1,192.9l23.3-27.4C237.4,286,229.5,223.2,261.9,177.5z"
+				/>
+			<g>
+				<text transform="matrix(0.124 0.9923 -0.9923 0.124 221.753 202.7745)" class="st0 st3 st4">Streptococcaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st37" d="M280,322.2l-23.3,27.4c11.2,9.5,23.7,17.3,37.3,23l14-33.2C297.8,335.2,288.4,329.4,280,322.2z"/>
+			<g>
+				<text transform="matrix(0.8511 0.5251 -0.5251 0.8511 258.6654 349.7324)" class="st0 st3 st38">Enterococcaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st39" d="M307.9,339.5l-14,33.2c11.6,4.9,23.8,8.3,36.3,10l5-35.7C325.8,345.7,316.6,343.1,307.9,339.5z"/>
+			<g>
+				<text transform="matrix(0.964 0.2658 -0.2658 0.964 295.5439 372.1402)" class="st6 st3 st40">Lactobacillaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st41" d="M335.1,347l-5,35.7c2.7,0.4,5.5,0.7,8.3,0.9l2.9-35.9C339.3,347.5,337.2,347.3,335.1,347z"/>
+			<g>
+				<text transform="matrix(0.1089 -0.9941 0.9941 0.1089 335.8567 382.5381)" class="st6 st3 st42">Carnobacteriaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st43" d="M341.3,347.7l-2.9,35.9c28.8,2.3,57.7-4.1,82.8-18.4l-17.8-31.3C384.6,344.6,363,349.4,341.3,347.7z"/>
+			<g>
+				<text transform="matrix(0.9762 -0.2171 0.2171 0.9762 343.0222 381.4531)" class="st0 st3 st44">Lachnospiraceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st45" d="M403.5,333.8l17.8,31.3c24.7-14.1,44.7-35.2,57.5-60.7l-32.2-16.1C437,307.4,422,323.3,403.5,333.8z"/>
+			<g>
+				<text transform="matrix(0.6877 -0.7259 0.7259 0.6877 423.9683 360.4352)" class="st6 st3 st46">Clostridiaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st36" d="M446.6,288.3l32.2,16.1c3.5-7,6.4-14.3,8.8-21.8L453.2,272C451.4,277.6,449.2,283.1,446.6,288.3z"/>
+			<g>
+				<text transform="matrix(0.9278 0.373 -0.373 0.9278 450.3041 282.1529)" class="st0 st3 st47">Oscillospiraceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st48" d="M453.2,272l34.4,10.7c1-3.4,2-6.8,2.8-10.2l-35.1-8.1C454.6,266.9,453.9,269.4,453.2,272z"/>
+			<g>
+				<text transform="matrix(0.9654 0.2608 -0.2608 0.9654 454.5198 270.0913)" class="st6 st3 st49">Eubacteriaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st50" d="M455.2,264.3l35.1,8.1c0.1-0.3,0.2-0.7,0.2-1l-35.1-7.8C455.3,263.8,455.3,264.1,455.2,264.3z"/>
+			<g>
+				<text transform="matrix(0.9751 0.2216 -0.2216 0.9751 481.2763 270.1559)" class="st6 st3 st51">Peptostreptococcaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st34" d="M455.4,263.5l35.1,7.8c0.1-0.3,0.2-0.7,0.2-1l-35.2-7.6C455.5,263,455.5,263.3,455.4,263.5z"/>
+			<g>
+				<text transform="matrix(0.9767 0.2144 -0.2144 0.9767 484.2758 269.7959)" class="st6 st3 st52">Peptococcaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st12" d="M455.6,262.8l35.2,7.6c0.4-1.8,0.7-3.6,1.1-5.4l-35.5-6.2C456.1,260.1,455.9,261.4,455.6,262.8z"/>
+			<g>
+				<text transform="matrix(0.9814 0.1919 -0.1919 0.9814 456.6703 261.4047)" class="st6 st3 st53">Thermoanaerobacterales Family III. Incertae Sedis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st54" d="M456.4,258.7l35.5,6.2c1.4-7.7,2.1-15.5,2.2-23.4l-36-0.4C457.9,247,457.4,252.9,456.4,258.7z"/>
+			<g>
+				<text transform="matrix(0.9957 9.217546e-02 -9.217546e-02 0.9957 458.1602 251.4237)" class="st6 st3 st55">Erysipelotrichaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st10" d="M458,241.2l36,0.4c0-0.4,0-0.7,0-1.1l-36-0.1C458,240.6,458,240.9,458,241.2z"/>
+			<g>
+				<text transform="matrix(1 7.059597e-03 -7.059597e-03 1 487.4931 241.2855)" class="st0 st3 st56">Sporomusaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st12" d="M458,240.4l36,0.1c0-0.2,0-0.3,0-0.5h-36C458,240.1,458,240.2,458,240.4z"/>
+			<g>
+				<text transform="matrix(1 1.702247e-03 -1.702247e-03 1 490.7369 240.4012)" class="st6 st3 st57">Peptoniphilaceae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M494,240h36c0-24.9-5.2-49.5-15.2-72.3l-33,14.5C489.9,200.4,494,220.1,494,240z"/>
+			<g>
+				<text transform="matrix(0.2052 0.9787 -0.9787 0.2052 507.0121 172.8245)" class="st6 st3 st59">Bacillus cereus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M481.9,182.1l33-14.5c-3.5-8.1-7.7-15.9-12.3-23.3L472,163.5C475.7,169.5,479,175.7,481.9,182.1z"/>
+			<g>
+				<text transform="matrix(0.8839 -0.4678 0.4678 0.8839 478.4162 173.5125)" class="st6 st3 st60">Bacillus thuringiensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M472,163.5l30.5-19.1c-2.6-4.2-5.5-8.3-8.5-12.3l-28.8,21.6C467.6,156.8,469.9,160.1,472,163.5z"/>
+			<g>
+				<text transform="matrix(0.8244 -0.5659 0.5659 0.8244 470.128 159.4262)" class="st6 st3 st61">Bacillus mycoides</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M465.2,153.7l28.8-21.6c-1.7-2.3-3.5-4.5-5.3-6.7L461,148.3C462.5,150,463.9,151.8,465.2,153.7z"/>
+			<g>
+				<text transform="matrix(0.7858 -0.6185 0.6185 0.7858 464.4899 151.662)" class="st6 st3 st62">Bacillus wiedmannii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M461,148.3l27.8-22.9c-1.5-1.8-3-3.5-4.5-5.2l-26.9,24C458.6,145.5,459.8,146.9,461,148.3z"/>
+			<g>
+				<text transform="matrix(0.7585 -0.6516 0.6516 0.7585 460.7385 146.9403)" class="st6 st3 st63">Bacillus anthracis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M457.4,144.1l26.9-24c-1.3-1.5-2.7-3-4.1-4.4l-26,24.9C455.3,141.7,456.4,142.9,457.4,144.1z"/>
+			<g>
+				<text transform="matrix(0.7348 -0.6783 0.6783 0.7348 457.1364 142.8777)" class="st6 st3 st64">Bacillus licheniformis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M454.2,140.6l26-24.9c-1.3-1.4-2.6-2.7-3.9-4L451,137.4C452.1,138.4,453.1,139.5,454.2,140.6z"/>
+			<g>
+				<text transform="matrix(0.7125 -0.7017 0.7017 0.7125 454.3459 139.2475)" class="st6 st3 st65">Bacillus toyonensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M451,137.4l25.3-25.7c-1-1-2.1-2-3.2-3l-24.6,26.3C449.3,135.7,450.2,136.5,451,137.4z"/>
+			<g>
+				<text transform="matrix(0.6927 -0.7212 0.7212 0.6927 450.9856 136.4634)" class="st6 st3 st66">Bacillus pseudomycoides</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M448.5,134.9l24.6-26.3c-1-1-2.1-1.9-3.1-2.9l-24,26.8C446.8,133.4,447.7,134.2,448.5,134.9z"/>
+			<g>
+				<text transform="matrix(0.6753 -0.7375 0.7375 0.6753 450.1484 132.2382)" class="st6 st3 st67">Virgibacillus dakarensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M446,132.7l24-26.8c-1-0.8-1.9-1.7-2.9-2.5l-23.4,27.3C444.5,131.3,445.2,132,446,132.7z"/>
+			<g>
+				<text transform="matrix(0.6587 -0.7524 0.7524 0.6587 452.9107 124.0146)" class="st6 st3 st68">Bacillus sp. SRB_8</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M443.7,130.6l23.4-27.3c-0.9-0.8-1.9-1.6-2.8-2.3l-22.9,27.8C442.2,129.4,443,130,443.7,130.6z"/>
+			<g>
+				<text transform="matrix(0.6429 -0.766 0.766 0.6429 443.5634 129.7461)" class="st6 st3 st69">Niallia circulans (Bacillus circulans)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M441.5,128.8l22.9-27.8c-0.9-0.8-1.9-1.5-2.8-2.3L439.2,127C440,127.6,440.7,128.2,441.5,128.8z"/>
+			<g>
+				<text transform="matrix(0.6274 -0.7787 0.7787 0.6274 443.9617 124.8611)" class="st6 st3 st70">Bacillus glycinifermentans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M439.2,127l22.3-28.3c-0.9-0.7-1.7-1.3-2.6-2l-21.8,28.7C437.8,125.9,438.5,126.4,439.2,127z"/>
+			<g>
+				<text transform="matrix(0.6124 -0.7905 0.7905 0.6124 448.9082 113.8275)" class="st6 st3 st71">Bacillus aquiflavi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M437.2,125.4l21.8-28.7c-0.9-0.6-1.7-1.3-2.6-1.9l-21.3,29C435.8,124.3,436.5,124.9,437.2,125.4z"/>
+			<g>
+				<text transform="matrix(0.5981 -0.8014 0.8014 0.5981 442.714 117.2291)" class="st6 st3 st72">Bacillus sp. AFS040349</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M435.1,123.8l21.3-29c-0.9-0.6-1.7-1.3-2.6-1.9L433,122.3C433.7,122.8,434.4,123.3,435.1,123.8z"/>
+			<g>
+				<text transform="matrix(0.5838 -0.8119 0.8119 0.5838 442.3087 113.128)" class="st6 st3 st73">Cerasibacillus terrae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M433,122.3l20.8-29.4c-0.9-0.6-1.7-1.2-2.6-1.8L431,120.9C431.7,121.4,432.3,121.9,433,122.3z"/>
+			<g>
+				<text transform="matrix(0.5694 -0.822 0.822 0.5694 442.7528 107.6602)" class="st6 st3 st74">Bacillus swezeyi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M431,120.9l20.2-29.8c-0.8-0.5-1.6-1.1-2.4-1.6L429,119.6C429.7,120.1,430.3,120.5,431,120.9z"/>
+			<g>
+				<text transform="matrix(0.5556 -0.8315 0.8315 0.5556 443.8398 101.0992)" class="st6 st3 st75">Bacillus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M429,119.6l19.8-30.1c-0.7-0.5-1.5-1-2.3-1.5l-19.3,30.4C427.8,118.8,428.4,119.2,429,119.6z"/>
+			<g>
+				<text transform="matrix(0.5426 -0.84 0.84 0.5426 438.9864 103.6612)" class="st6 st3 st76">Bacillus sp. SN10</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M427.2,118.5l19.3-30.4c-0.7-0.5-1.5-0.9-2.2-1.4l-18.9,30.7C426.1,117.7,426.6,118.1,427.2,118.5z"/>
+			<g>
+				<text transform="matrix(0.5302 -0.8479 0.8479 0.5302 427.2072 117.7343)" class="st6 st3 st77">Priestia megaterium (Bacillus megaterium)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M425.5,117.4l18.9-30.7c-0.7-0.5-1.5-0.9-2.2-1.3l-18.4,30.9C424.3,116.6,424.9,117,425.5,117.4z"/>
+			<g>
+				<text transform="matrix(0.5179 -0.8554 0.8554 0.5179 434.2716 102.2254)" class="st6 st3 st78">Bacillus cytotoxicus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M423.7,116.3l18.4-30.9c-0.7-0.4-1.5-0.9-2.2-1.3l-18,31.2C422.5,115.6,423.1,115.9,423.7,116.3z"/>
+			<g>
+				<text transform="matrix(0.5056 -0.8628 0.8628 0.5056 423.5304 115.4899)" class="st6 st3 st79">Alkalihalobacillus pseudofirmus (Bacillus pseudofirmus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M421.9,115.2l18-31.2c-0.7-0.4-1.5-0.8-2.2-1.3l-17.5,31.4C420.7,114.6,421.3,114.9,421.9,115.2z"/>
+			<g>
+				<text transform="matrix(0.4932 -0.8699 0.8699 0.4932 429.3347 101.5174)" class="st6 st3 st80">Bacillus paramycoides</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M420.1,114.2l17.5-31.4c-0.7-0.4-1.5-0.8-2.2-1.2l-17.1,31.7C418.9,113.6,419.5,113.9,420.1,114.2z"/>
+			<g>
+				<text transform="matrix(0.4808 -0.8768 0.8768 0.4808 424.5467 105.4773)" class="st6 st3 st81">Anoxybacillus pushchinoensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M418.3,113.2l17.1-31.7c-0.7-0.4-1.5-0.8-2.3-1.2l-16.6,31.9C417.1,112.6,417.7,112.9,418.3,113.2z"/>
+			<g>
+				<text transform="matrix(0.4683 -0.8836 0.8836 0.4683 422.5203 104.6385)" class="st6 st3 st82">Anoxybacillus suryakundensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M416.5,112.3l16.6-31.9c-0.7-0.4-1.5-0.8-2.2-1.1l-16.2,32.2C415.3,111.7,415.9,112,416.5,112.3z"/>
+			<g>
+				<text transform="matrix(0.4558 -0.8901 0.8901 0.4558 419.5846 105.5891)" class="st6 st3 st83">Pseudogracilibacillus auburnensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M414.7,111.4l16.2-32.2c-0.7-0.4-1.5-0.7-2.2-1.1L413,110.5C413.6,110.8,414.2,111.1,414.7,111.4z"/>
+			<g>
+				<text transform="matrix(0.4435 -0.8963 0.8963 0.4435 421.0667 97.927)" class="st6 st3 st84">Terribacillus sp. 7520-G</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M413,110.5l15.7-32.4c-0.7-0.4-1.4-0.7-2.2-1l-15.3,32.6C411.8,109.9,412.4,110.2,413,110.5z"/>
+			<g>
+				<text transform="matrix(0.4313 -0.9022 0.9022 0.4313 420.4764 94.1755)" class="st6 st3 st85">Priestia veravalensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M411.2,109.7l15.3-32.6c-0.7-0.3-1.4-0.6-2.1-1l-14.9,32.8C410.1,109.2,410.7,109.4,411.2,109.7z"/>
+			<g>
+				<text transform="matrix(0.4195 -0.9077 0.9077 0.4195 417.4271 95.6258)" class="st6 st3 st86">Rossellomorea aquimaris</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M409.6,108.9l14.9-32.8c-0.7-0.3-1.4-0.6-2.1-0.9l-14.5,33C408.5,108.4,409,108.7,409.6,108.9z"/>
+			<g>
+				<text transform="matrix(0.408 -0.913 0.913 0.408 416.7888 92.1214)" class="st6 st3 st87">Bacillus sp. CH30_1T</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M407.9,108.2l14.5-33c-0.7-0.3-1.4-0.6-2.1-0.9l-14.1,33.1C406.8,107.7,407.4,107.9,407.9,108.2z"/>
+			<g>
+				<text transform="matrix(0.3963 -0.9181 0.9181 0.3963 415.151 90.7263)" class="st6 st3 st88">Bacillus coahuilensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M406.2,107.4l14.1-33.1c-0.7-0.3-1.4-0.6-2.1-0.9l-13.6,33.3C405.1,107,405.7,107.2,406.2,107.4z"/>
+			<g>
+				<text transform="matrix(0.3847 -0.923 0.923 0.3847 413.9484 88.2813)" class="st6 st3 st89">Bacillus sp. SH7-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M404.6,106.7l13.6-33.3c-0.7-0.3-1.4-0.6-2-0.8l-13.2,33.5C403.5,106.3,404,106.5,404.6,106.7z"/>
+			<g>
+				<text transform="matrix(0.3733 -0.9277 0.9277 0.3733 409.4385 93.9074)" class="st6 st3 st90">Rossellomorea vietnamensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M402.9,106.1l13.2-33.5c-0.7-0.3-1.4-0.5-2-0.8l-12.8,33.6C401.9,105.7,402.4,105.9,402.9,106.1z"/>
+			<g>
+				<text transform="matrix(0.362 -0.9322 0.9322 0.362 410.3569 86.3119)" class="st6 st3 st91">Bacillus sp. SH5-2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M401.3,105.5l12.8-33.6c-0.7-0.3-1.4-0.5-2-0.8l-12.4,33.8C400.2,105,400.8,105.2,401.3,105.5z"/>
+			<g>
+				<text transform="matrix(0.3507 -0.9365 0.9365 0.3507 406.7581 90.1621)" class="st6 st3 st92">Virgibacillus dokdonensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M399.7,104.8l12.4-33.8c-0.6-0.2-1.3-0.5-1.9-0.7l-12,33.9C398.6,104.5,399.2,104.7,399.7,104.8z"/>
+			<g>
+				<text transform="matrix(0.3396 -0.9406 0.9406 0.3396 403.7699 92.7588)" class="st6 st3 st93">Alkalihalobacillus hwajinpoensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M398.1,104.3l12-33.9c-0.6-0.2-1.3-0.4-1.9-0.7l-11.7,34.1C397.1,103.9,397.6,104.1,398.1,104.3z"/>
+			<g>
+				<text transform="matrix(0.329 -0.9443 0.9443 0.329 403.1871 89.0431)" class="st6 st3 st94">Gracilibacillus thailandensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M396.6,103.8l11.7-34.1c-0.6-0.2-1.2-0.4-1.8-0.6l-11.3,34.2C395.7,103.4,396.1,103.6,396.6,103.8z"/>
+			<g>
+				<text transform="matrix(0.3188 -0.9478 0.9478 0.3188 403.8287 81.6863)" class="st6 st3 st95">Bacillus sp. B1-b2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M395.2,103.3l11.3-34.2c-0.6-0.2-1.2-0.4-1.8-0.6l-10.9,34.3C394.3,103,394.7,103.1,395.2,103.3z"/>
+			<g>
+				<text transform="matrix(0.309 -0.9511 0.9511 0.309 401.8972 82.0011)" class="st6 st3 st96">Bacillus weihaiensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M393.8,102.8l10.9-34.3c-0.6-0.2-1.2-0.4-1.8-0.6l-10.6,34.4C392.9,102.5,393.3,102.7,393.8,102.8z"/>
+			<g>
+				<text transform="matrix(0.2992 -0.9542 0.9542 0.2992 400.6481 80.299)" class="st6 st3 st97">Mesobacillus zeae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M392.4,102.4L403,68c-0.6-0.2-1.1-0.3-1.7-0.5L391,102C391.5,102.1,391.9,102.2,392.4,102.4z"/>
+			<g>
+				<text transform="matrix(0.2896 -0.9572 0.9572 0.2896 398.9577 79.9995)" class="st6 st3 st98">Bacillus sp. MYb56</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M391,102l10.3-34.5c-0.6-0.2-1.1-0.3-1.7-0.5l-9.9,34.6C390.1,101.7,390.6,101.8,391,102z"/>
+			<g>
+				<text transform="matrix(0.28 -0.96 0.96 0.28 397.2418 79.9191)" class="st6 st3 st99">Bacillus sp. BB51/4</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M389.6,101.6l9.9-34.6c-0.5-0.2-1.1-0.3-1.6-0.5l-9.6,34.7C388.8,101.3,389.2,101.4,389.6,101.6z"/>
+			<g>
+				<text transform="matrix(0.2708 -0.9626 0.9626 0.2708 395.3494 80.5848)" class="st6 st3 st100">Bacillus sp. HUB-I-004</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M388.3,101.2l9.6-34.7c-0.5-0.1-1.1-0.3-1.6-0.4l-9.3,34.8C387.5,101,387.9,101.1,388.3,101.2z"/>
+			<g>
+				<text transform="matrix(0.2619 -0.9651 0.9651 0.2619 394.4131 78.185)" class="st6 st3 st101">Bacillus sp. AR13-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M387.1,100.9l9.3-34.8c-0.5-0.1-1-0.3-1.5-0.4l-9,34.9C386.2,100.6,386.7,100.7,387.1,100.9z"/>
+			<g>
+				<text transform="matrix(0.2531 -0.9674 0.9674 0.2531 392.9579 77.6914)" class="st6 st3 st102">Bacillus sp. COPE52</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M385.8,100.5l9-34.9c-0.5-0.1-1-0.3-1.5-0.4l-8.7,34.9C385,100.3,385.4,100.4,385.8,100.5z"/>
+			<g>
+				<text transform="matrix(0.2446 -0.9696 0.9696 0.2446 391.1449 78.7897)" class="st6 st3 st103">Virgibacillus chiguensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M384.6,100.2l8.7-34.9c-0.5-0.1-1-0.2-1.5-0.4l-8.4,35C383.8,100,384.2,100.1,384.6,100.2z"/>
+			<g>
+				<text transform="matrix(0.2363 -0.9717 0.9717 0.2363 389.8861 77.8705)" class="st6 st3 st104">Bacillus sp. HBCD-sjtu</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M383.4,99.9l8.4-35c-0.5-0.1-1-0.2-1.5-0.3l-8.1,35.1C382.6,99.7,383,99.8,383.4,99.9z"/>
+			<g>
+				<text transform="matrix(0.228 -0.9737 0.9737 0.228 388.4979 77.5513)" class="st6 st3 st105">Bacillus sp. CH126_4D</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M382.2,99.7l8.1-35.1c-0.5-0.1-1-0.2-1.4-0.3l-7.8,35.2C381.5,99.5,381.9,99.6,382.2,99.7z"/>
+			<g>
+				<text transform="matrix(0.2199 -0.9755 0.9755 0.2199 387.4654 75.7854)" class="st6 st3 st106">Bacillus paranthracis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M381.1,99.4l7.8-35.2c-0.5-0.1-0.9-0.2-1.4-0.3L380,99.2C380.4,99.2,380.7,99.3,381.1,99.4z"/>
+			<g>
+				<text transform="matrix(0.2121 -0.9772 0.9772 0.2121 386.3955 74.3072)" class="st6 st3 st107">Bacillus sp. AY18-3</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M380,99.2l7.5-35.2c-0.5-0.1-0.9-0.2-1.4-0.3l-7.2,35.3C379.3,99,379.6,99.1,380,99.2z"/>
+			<g>
+				<text transform="matrix(0.2046 -0.9789 0.9789 0.2046 385.4414 72.4406)" class="st6 st3 st108">Bacillus tropicus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M378.9,98.9l7.2-35.3c-0.5-0.1-0.9-0.2-1.4-0.3l-7,35.3C378.2,98.8,378.6,98.9,378.9,98.9z"/>
+			<g>
+				<text transform="matrix(0.197 -0.9804 0.9804 0.197 383.7892 73.9476)" class="st6 st3 st109">Bacillus sp. MYb209</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M377.8,98.7l7-35.3c-0.4-0.1-0.9-0.2-1.3-0.3l-6.7,35.4C377.1,98.6,377.5,98.6,377.8,98.7z"/>
+			<g>
+				<text transform="matrix(0.1896 -0.9819 0.9819 0.1896 382.6978 72.7815)" class="st6 st3 st110">Bacillus velezensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M376.8,98.5l6.7-35.4c-0.4-0.1-0.9-0.2-1.3-0.2l-6.4,35.4C376.1,98.4,376.4,98.4,376.8,98.5z"/>
+			<g>
+				<text transform="matrix(0.1822 -0.9833 0.9833 0.1822 381.4047 72.7459)" class="st6 st3 st111">Bacillus tequilensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M375.7,98.3l6.4-35.4c-0.4-0.1-0.9-0.2-1.3-0.2l-6.2,35.5C375,98.2,375.4,98.2,375.7,98.3z"/>
+			<g>
+				<text transform="matrix(0.1749 -0.9846 0.9846 0.1749 380.1335 72.6251)" class="st6 st3 st112">Bacillus sp. RIT694</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M374.7,98.1l6.2-35.5c-0.4-0.1-0.9-0.2-1.3-0.2l-5.9,35.5C373.9,98,374.3,98.1,374.7,98.1z"/>
+			<g>
+				<text transform="matrix(0.1675 -0.9859 0.9859 0.1675 378.615 73.959)" class="st6 st3 st113">Mesobacillus foraminis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M373.6,97.9l5.9-35.5c-0.4-0.1-0.9-0.1-1.3-0.2l-5.6,35.6C372.9,97.8,373.2,97.9,373.6,97.9z"/>
+			<g>
+				<text transform="matrix(0.1602 -0.9871 0.9871 0.1602 377.7264 71.6568)" class="st6 st3 st114">Bacillus sp. M6-12</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M372.5,97.8l5.6-35.6c-0.4-0.1-0.9-0.1-1.3-0.2l-5.4,35.6C371.9,97.7,372.2,97.7,372.5,97.8z"/>
+			<g>
+				<text transform="matrix(0.153 -0.9882 0.9882 0.153 375.8898 75.2667)" class="st6 st3 st115">Anoxybacillus amylolyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M371.5,97.6l5.4-35.6c-0.4-0.1-0.9-0.1-1.3-0.2l-5.1,35.6C370.8,97.5,371.2,97.6,371.5,97.6z"/>
+			<g>
+				<text transform="matrix(0.1458 -0.9893 0.9893 0.1458 375.0511 72.6872)" class="st6 st3 st116">Virgibacillus sp. SK37</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M370.5,97.5l5.1-35.6c-0.4-0.1-0.9-0.1-1.3-0.2l-4.9,35.7C369.8,97.4,370.1,97.4,370.5,97.5z"/>
+			<g>
+				<text transform="matrix(0.1387 -0.9903 0.9903 0.1387 373.7599 73.0717)" class="st6 st3 st117">Bacillus sp. ANT_WA51</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M369.5,97.3l4.9-35.7c-0.4-0.1-0.9-0.1-1.3-0.2l-4.6,35.7C368.8,97.2,369.1,97.3,369.5,97.3z"/>
+			<g>
+				<text transform="matrix(0.1316 -0.9913 0.9913 0.1316 372.7907 71.2296)" class="st6 st3 st118">Bacillus mojavensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M368.4,97.2l4.6-35.7c-0.4-0.1-0.8-0.1-1.3-0.2l-4.4,35.7C367.8,97.1,368.1,97.1,368.4,97.2z"/>
+			<g>
+				<text transform="matrix(0.1245 -0.9922 0.9922 0.1245 371.3384 72.9885)" class="st6 st3 st119">Terribacillus aidingensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M367.4,97.1l4.4-35.7c-0.4-0.1-0.8-0.1-1.3-0.1l-4.1,35.8C366.7,97,367.1,97,367.4,97.1z"/>
+			<g>
+				<text transform="matrix(0.1175 -0.9931 0.9931 0.1175 370.1043 73.22)" class="st6 st3 st120">Oceanobacillus iheyensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M366.4,96.9l4.1-35.8c-0.4,0-0.8-0.1-1.2-0.1l-3.9,35.8C365.8,96.9,366.1,96.9,366.4,96.9z"/>
+			<g>
+				<text transform="matrix(0.1106 -0.9939 0.9939 0.1106 369.5282 67.8686)" class="st6 st3 st121">Bacillus clarus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M365.4,96.8l3.9-35.8c-0.4,0-0.8-0.1-1.2-0.1l-3.6,35.8C364.8,96.8,365.1,96.8,365.4,96.8z"/>
+			<g>
+				<text transform="matrix(0.1039 -0.9946 0.9946 0.1039 368.1763 69.5431)" class="st6 st3 st122">Fictibacillus sp. S7</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M364.5,96.7l3.6-35.8c-0.4,0-0.8-0.1-1.2-0.1l-3.4,35.8C363.9,96.7,364.2,96.7,364.5,96.7z"/>
+			<g>
+				<text transform="matrix(9.735904e-02 -0.9952 0.9952 9.735904e-02 367.041 69.4942)" class="st6 st3 st123">Bacillus sp. OV194</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M363.5,96.6l3.4-35.8c-0.4,0-0.8-0.1-1.2-0.1l-3.1,35.9C362.9,96.6,363.2,96.6,363.5,96.6z"/>
+			<g>
+				<text transform="matrix(9.076858e-02 -0.9959 0.9959 9.076858e-02 365.8624 69.9119)" class="st6 st3 st124">Fictibacillus solisalsi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M362.6,96.6l3.1-35.9c-0.4,0-0.8-0.1-1.2-0.1l-2.9,35.9C362,96.5,362.3,96.5,362.6,96.6z"/>
+			<g>
+				<text transform="matrix(8.417866e-02 -0.9965 0.9965 8.417866e-02 364.6843 70.4099)" class="st6 st3 st125">Fictibacillus enclensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M361.6,96.5l2.9-35.9c-0.4,0-0.8-0.1-1.2-0.1l-2.7,35.9C361,96.4,361.3,96.4,361.6,96.5z"/>
+			<g>
+				<text transform="matrix(7.758731e-02 -0.997 0.997 7.758731e-02 363.3503 72.972)" class="st6 st3 st126">Virgibacillus pantothenticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M360.7,96.4l2.7-35.9c-0.4,0-0.8-0.1-1.2-0.1l-2.4,35.9C360.1,96.4,360.4,96.4,360.7,96.4z"/>
+			<g>
+				<text transform="matrix(7.100851e-02 -0.9975 0.9975 7.100851e-02 362.5861 68.2387)" class="st6 st3 st127">Bacillus salacetis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M359.8,96.3l2.4-35.9c-0.4,0-0.8-0.1-1.2-0.1l-2.2,35.9C359.1,96.3,359.4,96.3,359.8,96.3z"/>
+			<g>
+				<text transform="matrix(6.446754e-02 -0.9979 0.9979 6.446754e-02 360.5547 81.6936)" class="st6 st3 st128">Alkalihalobacillus halodurans (Bacillus halodurans)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M358.8,96.3l2.2-35.9c-0.4,0-0.8,0-1.1-0.1l-2,35.9C358.2,96.2,358.5,96.3,358.8,96.3z"/>
+			<g>
+				<text transform="matrix(5.805115e-02 -0.9983 0.9983 5.805115e-02 360.3764 67.5165)" class="st6 st3 st129">Bacillus sp. M21</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M357.9,96.2l2-35.9c-0.4,0-0.7,0-1.1-0.1l-1.8,36C357.3,96.2,357.6,96.2,357.9,96.2z"/>
+			<g>
+				<text transform="matrix(5.180538e-02 -0.9987 0.9987 5.180538e-02 359.2232 68.6795)" class="st6 st3 st130">Priestia aryabhattai</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M357,96.2l1.8-36c-0.4,0-0.7,0-1.1-0.1l-1.5,36C356.4,96.1,356.7,96.2,357,96.2z"/>
+			<g>
+				<text transform="matrix(4.563033e-02 -0.999 0.999 4.563033e-02 358.2967 65.8551)" class="st6 st3 st131">Priestia flexa</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M356.1,96.1l1.5-36c-0.4,0-0.7,0-1.1,0l-1.3,36C355.5,96.1,355.8,96.1,356.1,96.1z"/>
+			<g>
+				<text transform="matrix(3.946046e-02 -0.9992 0.9992 3.946046e-02 357.139 67.7643)" class="st6 st3 st132">Priestia koreensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M355.2,96.1l1.3-36c-0.4,0-0.7,0-1.1,0l-1.1,36C354.6,96.1,354.9,96.1,355.2,96.1z"/>
+			<g>
+				<text transform="matrix(3.329587e-02 -0.9994 0.9994 3.329587e-02 355.9629 70.927)" class="st6 st3 st133">Alkalihalobacillus macyae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M354.4,96.1l1.1-36c-0.4,0-0.7,0-1.1,0l-0.9,36C353.8,96,354.1,96.1,354.4,96.1z"/>
+			<g>
+				<text transform="matrix(2.715518e-02 -0.9996 0.9996 2.715518e-02 354.9459 70.0435)" class="st6 st3 st134">Bacillus sp. KH172YL63</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M353.5,96l0.9-36c-0.4,0-0.7,0-1.1,0l-0.7,36C352.9,96,353.2,96,353.5,96z"/>
+			<g>
+				<text transform="matrix(2.114099e-02 -0.9998 0.9998 2.114099e-02 353.9158 69.847)" class="st6 st3 st135">Bacillus sp. PAMC28748</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M352.6,96l0.7-36c-0.4,0-0.7,0-1.1,0l-0.4,36C352.1,96,352.3,96,352.6,96z"/>
+			<g>
+				<text transform="matrix(1.523309e-02 -0.9999 0.9999 1.523309e-02 352.9006 70.3994)" class="st6 st3 st136">Bacillus paralicheniformis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M351.8,96l0.4-36c-0.4,0-0.7,0-1.1,0l-0.2,36C351.2,96,351.5,96,351.8,96z"/>
+			<g>
+				<text transform="matrix(9.340636e-03 -1 1 9.340636e-03 351.904 70.0448)" class="st6 st3 st137">Gracilibacillus ureilyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M350.9,96l0.2-36c-0.3,0-0.7,0-1,0l0,36C350.4,96,350.6,96,350.9,96z"/>
+			<g>
+				<text transform="matrix(3.486471e-03 -1 1 3.486471e-03 350.9191 67.5751)" class="st6 st3 st138">Bacillus sp. HY001</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M350.1,96l0-36c-0.3,0-0.7,0-1,0l0.2,36C349.5,96,349.8,96,350.1,96z"/>
+			<g>
+				<text transform="matrix(2.319744e-03 1 -1 2.319744e-03 349.27 60.1626)" class="st6 st3 st139">Peribacillus cavernae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M349.2,96l-0.2-36c-0.3,0-0.7,0-1,0l0.4,36C348.7,96,349,96,349.2,96z"/>
+			<g>
+				<text transform="matrix(8.094191e-03 1 -1 8.094191e-03 348.2288 60.1409)" class="st6 st3 st140">Peribacillus asahii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M348.4,96L348,60c-0.3,0-0.7,0-1,0l0.6,36C347.9,96,348.1,96,348.4,96z"/>
+			<g>
+				<text transform="matrix(1.381577e-02 0.9999 -0.9999 1.381577e-02 347.2089 60.181)" class="st6 st3 st141">Neobacillus bataviensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M347.6,96L347,60c-0.3,0-0.7,0-1,0l0.8,36C347.1,96,347.3,96,347.6,96z"/>
+			<g>
+				<text transform="matrix(1.949137e-02 0.9998 -0.9998 1.949137e-02 346.1934 60.237)" class="st6 st3 st142">Mesobacillus selenatarsenatis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M346.8,96L346,60c-0.3,0-0.7,0-1,0l1,36C346.2,96,346.5,96,346.8,96z"/>
+			<g>
+				<text transform="matrix(2.512548e-02 0.9997 -0.9997 2.512548e-02 345.1805 60.2789)" class="st6 st3 st143">Bacillus sp. FJAT-18017</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M346,96.1l-1-36c-0.3,0-0.6,0-0.9,0l1.2,36C345.5,96.1,345.7,96.1,346,96.1z"/>
+			<g>
+				<text transform="matrix(3.053998e-02 0.9995 -0.9995 3.053998e-02 344.2183 60.2025)" class="st6 st3 st144">Bacillus sp. N1-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M345.2,96.1l-1.2-36c-0.3,0-0.6,0-0.9,0l1.4,36C344.7,96.1,345,96.1,345.2,96.1z"/>
+			<g>
+				<text transform="matrix(3.572589e-02 0.9994 -0.9994 3.572589e-02 343.2926 60.2484)" class="st6 st3 st145">Bacillus sp. 7586-K</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M344.5,96.1l-1.4-36c-0.3,0-0.6,0-0.9,0l1.6,36C344,96.1,344.2,96.1,344.5,96.1z"/>
+			<g>
+				<text transform="matrix(4.083341e-02 0.9992 -0.9992 4.083341e-02 342.3754 60.273)" class="st6 st3 st146">Bacillus mangrovi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M343.8,96.1l-1.6-36c-0.3,0-0.6,0-0.9,0l1.7,36C343.3,96.2,343.5,96.1,343.8,96.1z"/>
+			<g>
+				<text transform="matrix(4.590355e-02 0.9989 -0.9989 4.590355e-02 341.4672 60.3344)" class="st6 st3 st147">Salicibibacter cibarius</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M343,96.2l-1.7-36c-0.3,0-0.6,0-0.9,0l1.9,35.9C342.5,96.2,342.8,96.2,343,96.2z"/>
+			<g>
+				<text transform="matrix(5.095642e-02 0.9987 -0.9987 5.095642e-02 340.5638 60.4417)" class="st6 st3 st148">Bacillus sp. FJAT-42376</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M342.3,96.2l-1.9-35.9c-0.3,0-0.6,0-0.9,0.1l2.1,35.9C341.8,96.2,342.1,96.2,342.3,96.2z"/>
+			<g>
+				<text transform="matrix(5.598764e-02 0.9984 -0.9984 5.598764e-02 339.6537 60.4199)" class="st6 st3 st149">Peribacillus deserti</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M341.6,96.2l-2.1-35.9c-0.3,0-0.6,0-0.9,0.1l2.3,35.9C341.1,96.3,341.3,96.3,341.6,96.2z"/>
+			<g>
+				<text transform="matrix(6.098328e-02 0.9981 -0.9981 6.098328e-02 338.7531 60.4348)" class="st6 st3 st147">Bacillus albus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M340.9,96.3l-2.3-35.9c-0.3,0-0.6,0-0.9,0.1l2.5,35.9C340.4,96.3,340.6,96.3,340.9,96.3z"/>
+			<g>
+				<text transform="matrix(6.595241e-02 0.9978 -0.9978 6.595241e-02 337.8633 60.5255)" class="st6 st3 st150">Bacillus sp. OV322</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M340.1,96.3l-2.5-35.9c-0.3,0-0.6,0-0.9,0.1l2.6,35.9C339.7,96.4,339.9,96.4,340.1,96.3z"/>
+			<g>
+				<text transform="matrix(7.091301e-02 0.9975 -0.9975 7.091301e-02 336.9752 60.6101)" class="st6 st3 st151">Bacillus sp. 166amftsu</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M339.4,96.4l-2.6-35.9c-0.3,0-0.6,0-0.9,0.1l2.8,35.9C339,96.4,339.2,96.4,339.4,96.4z"/>
+			<g>
+				<text transform="matrix(7.586282e-02 0.9971 -0.9971 7.586282e-02 336.0905 60.7012)" class="st6 st3 st152">Alkalihalobacillus lonarensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M338.7,96.4l-2.8-35.9c-0.3,0-0.6,0-0.9,0.1l3,35.9C338.2,96.5,338.5,96.5,338.7,96.4z"/>
+			<g>
+				<text transform="matrix(8.080611e-02 0.9967 -0.9967 8.080611e-02 335.1978 60.7527)" class="st6 st3 st153">Bacillus sp. AFS015896</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M338,96.5l-3-35.9c-0.3,0-0.6,0.1-0.9,0.1l3.2,35.9C337.5,96.5,337.8,96.5,338,96.5z"/>
+			<g>
+				<text transform="matrix(8.573854e-02 0.9963 -0.9963 8.573854e-02 334.3175 60.8622)" class="st6 st3 st154">Fictibacillus phosphorivorans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M337.3,96.6l-3.2-35.9c-0.3,0-0.6,0.1-0.9,0.1l3.4,35.8C336.8,96.6,337.1,96.6,337.3,96.6z"/>
+			<g>
+				<text transform="matrix(9.065732e-02 0.9959 -0.9959 9.065732e-02 333.4206 60.8688)" class="st6 st3 st155">Bacillus sp. LL01</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M336.6,96.6l-3.4-35.8c-0.3,0-0.6,0.1-0.9,0.1l3.5,35.8C336.1,96.7,336.4,96.6,336.6,96.6z"/>
+			<g>
+				<text transform="matrix(9.553096e-02 0.9954 -0.9954 9.553096e-02 332.5611 61.0214)" class="st6 st3 st156">Bacillus cereus group sp. N18</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M335.9,96.7l-3.5-35.8c-0.3,0-0.6,0.1-0.9,0.1l3.7,35.8C335.4,96.7,335.7,96.7,335.9,96.7z"/>
+			<g>
+				<text transform="matrix(0.1003 0.995 -0.995 0.1003 331.6955 61.0429)" class="st6 st3 st157">Bacillus sp. 103mf</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M335.2,96.8L331.5,61c-0.3,0-0.6,0.1-0.8,0.1l3.9,35.8C334.8,96.8,335,96.8,335.2,96.8z"/>
+			<g>
+				<text transform="matrix(0.105 0.9945 -0.9945 0.105 330.8475 61.1308)" class="st6 st3 st158">Bacillus sp. 491mf</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M334.5,96.8L330.7,61c-0.3,0-0.6,0.1-0.8,0.1l4,35.8C334.1,96.9,334.3,96.9,334.5,96.8z"/>
+			<g>
+				<text transform="matrix(0.1097 0.994 -0.994 0.1097 330.0052 61.2423)" class="st6 st3 st159">Bacillus manliponensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M333.9,96.9l-4-35.8c-0.3,0-0.6,0.1-0.8,0.1l4.2,35.8C333.4,97,333.6,96.9,333.9,96.9z"/>
+			<g>
+				<text transform="matrix(0.1144 0.9934 -0.9934 0.1144 329.1581 61.3211)" class="st6 st3 st160">Bacillus sp. BD59S</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M333.2,97L329,61.2c-0.3,0-0.5,0.1-0.8,0.1l4.4,35.7C332.7,97,333,97,333.2,97z"/>
+			<g>
+				<text transform="matrix(0.119 0.9929 -0.9929 0.119 328.3352 61.4165)" class="st6 st3 st161">Bacillus sp. MYb78</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M332.5,97.1l-4.4-35.7c-0.3,0-0.5,0.1-0.8,0.1l4.5,35.7C332.1,97.1,332.3,97.1,332.5,97.1z"/>
+			<g>
+				<text transform="matrix(0.1235 0.9923 -0.9923 0.1235 327.5445 61.5334)" class="st6 st3 st162">Bacillus sp. AFS059628</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M331.9,97.1l-4.5-35.7c-0.3,0-0.5,0.1-0.8,0.1l4.7,35.7C331.5,97.2,331.7,97.2,331.9,97.1z"/>
+			<g>
+				<text transform="matrix(0.1278 0.9918 -0.9918 0.1278 326.7726 61.6293)" class="st6 st3 st163">Bacillus sp. AFS094611</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M331.3,97.2l-4.7-35.7c-0.2,0-0.5,0.1-0.7,0.1l4.8,35.7C330.9,97.3,331.1,97.2,331.3,97.2z"/>
+			<g>
+				<text transform="matrix(0.132 0.9913 -0.9913 0.132 326.0326 61.6969)" class="st6 st3 st164">Bacillus sp. CD3-5</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M330.7,97.3l-4.8-35.7c-0.2,0-0.5,0.1-0.7,0.1l5,35.7C330.3,97.3,330.5,97.3,330.7,97.3z"/>
+			<g>
+				<text transform="matrix(0.1359 0.9907 -0.9907 0.1359 325.3528 61.8439)" class="st6 st3 st165">Gracilibacillus boraciitolerans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M330.2,97.4l-5-35.7c-0.2,0-0.4,0-0.5,0.1l5.1,35.6C329.9,97.4,330,97.4,330.2,97.4z"/>
+			<g>
+				<text transform="matrix(0.1393 0.9903 -0.9903 0.1393 324.7795 61.8469)" class="st6 st3 st166">Bacillus atrophaeus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M329.7,97.4l-5.1-35.6c-0.2,0-0.4,0.1-0.5,0.1l5.2,35.6C329.5,97.5,329.6,97.5,329.7,97.4z"/>
+			<g>
+				<text transform="matrix(0.1422 0.9898 -0.9898 0.1422 324.2478 61.8935)" class="st6 st3 st167">Bacillus luti</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M329.3,97.5l-5.2-35.6c-0.2,0-0.3,0.1-0.5,0.1l5.3,35.6C329,97.5,329.2,97.5,329.3,97.5z"/>
+			<g>
+				<text transform="matrix(0.1451 0.9894 -0.9894 0.1451 323.731 61.9985)" class="st6 st3 st168">Bacillus sp. NSP9.1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M328.9,97.6l-5.3-35.6c-0.2,0-0.3,0.1-0.5,0.1l5.4,35.6C328.6,97.6,328.8,97.6,328.9,97.6z"/>
+			<g>
+				<text transform="matrix(0.148 0.989 -0.989 0.148 323.2139 62.0791)" class="st6 st3 st169">Bacillus vallismortis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M328.5,97.6L323.1,62c-0.2,0-0.3,0-0.5,0.1l5.5,35.6C328.2,97.7,328.4,97.6,328.5,97.6z"/>
+			<g>
+				<text transform="matrix(0.1508 0.9886 -0.9886 0.1508 322.7231 62.1769)" class="st6 st3 st170">Terribacillus halophilus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M328.1,97.7l-5.5-35.6c-0.2,0-0.3,0-0.5,0.1l5.6,35.6C327.8,97.7,328,97.7,328.1,97.7z"/>
+			<g>
+				<text transform="matrix(0.1534 0.9882 -0.9882 0.1534 322.2446 62.2052)" class="st6 st3 st171">Bacillus sp. SJS</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M327.7,97.7l-5.6-35.6c-0.2,0-0.3,0-0.5,0.1l5.7,35.6C327.5,97.8,327.6,97.8,327.7,97.7z"/>
+			<g>
+				<text transform="matrix(0.156 0.9878 -0.9878 0.156 321.8005 62.339)" class="st6 st3 st172">Metabacillus indicus (Bacillus indicus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M327.4,97.8l-5.7-35.6c-0.1,0-0.3,0-0.4,0.1l5.7,35.5C327.1,97.8,327.2,97.8,327.4,97.8z"/>
+			<g>
+				<text transform="matrix(0.1585 0.9874 -0.9874 0.1585 321.3501 62.3437)" class="st6 st3 st173">Bacillus sp. L27</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M327,97.8l-5.7-35.5c-0.1,0-0.3,0-0.4,0.1l5.8,35.5C326.8,97.9,326.9,97.9,327,97.8z"/>
+			<g>
+				<text transform="matrix(0.1609 0.987 -0.987 0.1609 320.9211 62.4236)" class="st6 st3 st174">Bacillus sp. BF9-10</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M326.7,97.9l-5.8-35.5c-0.1,0-0.3,0-0.4,0.1l5.9,35.5C326.4,97.9,326.6,97.9,326.7,97.9z"/>
+			<g>
+				<text transform="matrix(0.1632 0.9866 -0.9866 0.1632 320.4981 62.4946)" class="st6 st3 st175">Bacillus sp. BPN334</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M326.3,98l-5.9-35.5c-0.1,0-0.3,0-0.4,0.1l6,35.5C326.1,98,326.2,98,326.3,98z"/>
+			<g>
+				<text transform="matrix(0.1656 0.9862 -0.9862 0.1656 320.0768 62.5691)" class="st6 st3 st176">Bacillus sp. AY1-10</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M326,98l-6-35.5c-0.1,0-0.3,0-0.4,0.1l6.1,35.5C325.8,98.1,325.9,98,326,98z"/>
+			<g>
+				<text transform="matrix(0.1679 0.9858 -0.9858 0.1679 319.6536 62.6262)" class="st6 st3 st177">Bacillus pacificus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M325.7,98.1l-6.1-35.5c-0.1,0-0.3,0-0.4,0.1l6.2,35.5C325.4,98.1,325.5,98.1,325.7,98.1z"/>
+			<g>
+				<text transform="matrix(0.1702 0.9854 -0.9854 0.1702 319.2375 62.697)" class="st6 st3 st178">Bacillus sp. BH2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M325.3,98.1l-6.2-35.5c-0.1,0-0.3,0-0.4,0.1l6.2,35.5C325.1,98.2,325.2,98.1,325.3,98.1z"/>
+			<g>
+				<text transform="matrix(0.1725 0.985 -0.985 0.1725 318.8447 62.7835)" class="st6 st3 st179">Bacillus sp. AFS075960</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M325,98.2l-6.2-35.5c-0.1,0-0.3,0-0.4,0.1l6.3,35.4C324.8,98.2,324.9,98.2,325,98.2z"/>
+			<g>
+				<text transform="matrix(0.1746 0.9846 -0.9846 0.1746 318.457 62.8504)" class="st6 st3 st180">Bacillus sp. AFS018417</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M324.7,98.2l-6.3-35.4c-0.1,0-0.2,0-0.4,0.1l6.4,35.4C324.5,98.3,324.6,98.3,324.7,98.2z"/>
+			<g>
+				<text transform="matrix(0.1767 0.9843 -0.9843 0.1767 318.0978 62.9346)" class="st6 st3 st181">Terribacillus saccharophilus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M324.4,98.3L318,62.9c-0.1,0-0.2,0-0.3,0l6.4,35.4C324.3,98.3,324.3,98.3,324.4,98.3z"/>
+			<g>
+				<text transform="matrix(0.1784 0.984 -0.984 0.1784 317.8181 62.9668)" class="st6 st3 st182">Alkalihalobacillus hemicellulosilyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M324.2,98.3l-6.4-35.4c-0.1,0-0.1,0-0.2,0l6.5,35.4C324.1,98.4,324.1,98.3,324.2,98.3z"/>
+			<g>
+				<text transform="matrix(0.1797 0.9837 -0.9837 0.1797 317.5792 62.9654)" class="st6 st3 st183">Bacillus lacus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M324,98.4L317.5,63c-0.1,0-0.1,0-0.2,0l6.5,35.4C323.9,98.4,324,98.4,324,98.4z"/>
+			<g>
+				<text transform="matrix(0.181 0.9835 -0.9835 0.181 317.3667 63.0232)" class="st6 st3 st184">Lentibacillus sp. CBA3610</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M323.9,98.4L317.3,63c-0.1,0-0.1,0-0.2,0l6.6,35.4C323.7,98.4,323.8,98.4,323.9,98.4z"/>
+			<g>
+				<text transform="matrix(0.1821 0.9833 -0.9833 0.1821 317.1571 63.0569)" class="st6 st3 st185">Allobacillus sp. SKP4-8</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M323.7,98.4L317.1,63c-0.1,0-0.1,0-0.2,0l6.6,35.4C323.6,98.4,323.6,98.4,323.7,98.4z"/>
+			<g>
+				<text transform="matrix(0.1833 0.9831 -0.9831 0.1833 316.9549 63.0963)" class="st6 st3 st186">Oceanobacillus halophilus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M323.5,98.5l-6.6-35.4c-0.1,0-0.1,0-0.2,0l6.6,35.4C323.4,98.5,323.5,98.5,323.5,98.5z"/>
+			<g>
+				<text transform="matrix(0.1843 0.9829 -0.9829 0.1843 316.7876 63.1155)" class="st6 st3 st187">Oceanobacillus sp. E9</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M323.4,98.5l-6.6-35.4c0,0-0.1,0-0.1,0l6.7,35.4C323.3,98.5,323.4,98.5,323.4,98.5z"/>
+			<g>
+				<text transform="matrix(0.1851 0.9827 -0.9827 0.1851 316.6497 63.1437)" class="st6 st3 st188">Terribacillus goriensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M323.3,98.5l-6.7-35.4c0,0-0.1,0-0.1,0l6.7,35.4C323.2,98.5,323.3,98.5,323.3,98.5z"/>
+			<g>
+				<text transform="matrix(0.1858 0.9826 -0.9826 0.1858 316.5154 63.1648)" class="st6 st3 st189">Virgibacillus massiliensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st58" d="M323.2,98.5l-6.7-35.4c0,0,0,0-0.1,0L323.2,98.5C323.2,98.5,323.2,98.5,323.2,98.5z"/>
+			<g>
+				<text transform="matrix(0.1863 0.9825 -0.9825 0.1863 316.4438 63.1637)" class="st6 st3 st190">Bacillus sp. SRB_331</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M323.1,98.5l-6.7-35.4c-1.3,0.3-2.6,0.5-4,0.8l7.5,35.2C321,98.9,322.1,98.7,323.1,98.5z"/>
+			<g>
+				<text transform="matrix(0.1975 0.9803 -0.9803 0.1975 313.597 64.3692)" class="st6 st3 st192">Paenibacillus dendritiformis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M320,99.2L312.5,64c-1.3,0.3-2.6,0.6-3.9,0.9l8.3,35C317.9,99.6,318.9,99.4,320,99.2z"/>
+			<g>
+				<text transform="matrix(0.2193 0.9756 -0.9756 0.2193 309.8638 65.1968)" class="st6 st3 st193">Paenibacillus alvei (Bacillus alvei)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M316.9,99.9l-8.3-35c-1.2,0.3-2.4,0.6-3.6,0.9l9,34.9C314.9,100.3,315.9,100.1,316.9,99.9z"/>
+			<g>
+				<text transform="matrix(0.2402 0.9707 -0.9707 0.2402 306.1908 66.0602)" class="st6 st3 st194">Paenibacillus lautus (Bacillus lautus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M314,100.6l-9-34.9c-0.6,0.2-1.3,0.3-1.9,0.5l9.4,34.8C313,100.8,313.5,100.7,314,100.6z"/>
+			<g>
+				<text transform="matrix(0.2555 0.9668 -0.9668 0.2555 303.6853 66.6985)" class="st6 st3 st195">Paenibacillus thiaminolyticus (Bacillus thiaminolyticus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M312.4,101l-9.4-34.8c-0.4,0.1-0.9,0.2-1.3,0.4l9.6,34.7C311.8,101.2,312.1,101.1,312.4,101z"/>
+			<g>
+				<text transform="matrix(0.2644 0.9644 -0.9644 0.2644 302.0905 66.7428)" class="st6 st3 st196">Paenibacillus chitinolyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M311.4,101.3l-9.6-34.7c-0.4,0.1-0.8,0.2-1.3,0.4l9.9,34.6C310.7,101.5,311.1,101.4,311.4,101.3z"/>
+			<g>
+				<text transform="matrix(0.2715 0.9624 -0.9624 0.2715 300.8361 67.1124)" class="st6 st3 st197">Paenibacillus sp. FSL R5-808</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M310.4,101.6l-9.9-34.6c-0.4,0.1-0.8,0.2-1.2,0.4l10.1,34.5C309.7,101.7,310.1,101.6,310.4,101.6z"/>
+			<g>
+				<text transform="matrix(0.2784 0.9605 -0.9605 0.2784 299.5746 67.4235)" class="st6 st3 st198">Paenibacillus sp. HGF5</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M309.4,101.8l-10.1-34.5c-0.4,0.1-0.8,0.2-1.2,0.4l10.4,34.5C308.8,102,309.1,101.9,309.4,101.8z"/>
+			<g>
+				<text transform="matrix(0.2853 0.9584 -0.9584 0.2853 298.3773 67.8671)" class="st6 st3 st199">Geobacillus sp. (strain Y412MC10)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M308.4,102.1L298,67.7c-0.4,0.1-0.8,0.2-1.2,0.4l10.6,34.4C307.8,102.3,308.1,102.2,308.4,102.1z"/>
+			<g>
+				<text transform="matrix(0.292 0.9564 -0.9564 0.292 297.1386 68.1222)" class="st6 st3 st200">Paenibacillus vortex</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M307.5,102.4L296.8,68c-0.4,0.1-0.8,0.2-1.2,0.4l10.9,34.3C306.9,102.6,307.2,102.5,307.5,102.4z"/>
+			<g>
+				<text transform="matrix(0.2986 0.9544 -0.9544 0.2986 295.9752 68.5192)" class="st6 st3 st201">Paenibacillus sp. GM2FR</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M306.5,102.7l-10.9-34.3c-0.4,0.1-0.8,0.2-1.1,0.4l11.1,34.2C305.9,102.9,306.2,102.8,306.5,102.7z"/>
+			<g>
+				<text transform="matrix(0.305 0.9524 -0.9524 0.305 294.8317 68.8746)" class="st6 st3 st202">Paenibacillus sp. LC231</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M305.6,103l-11.1-34.2c-0.4,0.1-0.8,0.2-1.1,0.4l11.3,34.2C305,103.2,305.3,103.1,305.6,103z"/>
+			<g>
+				<text transform="matrix(0.3112 0.9503 -0.9503 0.3112 293.7263 69.2808)" class="st6 st3 st203">Paenibacillus sp. FSL H7-0326</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M304.7,103.3l-11.3-34.2c-0.4,0.1-0.7,0.2-1.1,0.4l11.5,34.1C304.1,103.5,304.4,103.4,304.7,103.3z"/>
+			<g>
+				<text transform="matrix(0.3175 0.9483 -0.9483 0.3175 292.5891 69.6101)" class="st6 st3 st204">Paenibacillus sp. cl141a</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M303.8,103.6l-11.5-34.1c-0.4,0.1-0.7,0.3-1.1,0.4l11.8,34C303.2,103.8,303.5,103.7,303.8,103.6z"/>
+			<g>
+				<text transform="matrix(0.3236 0.9462 -0.9462 0.3236 291.4772 69.9891)" class="st6 st3 st205">Paenibacillus sp. PDC88</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M303,103.9l-11.8-34c-0.4,0.1-0.7,0.3-1.1,0.4l12,33.9C302.4,104.1,302.7,104,303,103.9z"/>
+			<g>
+				<text transform="matrix(0.3298 0.9441 -0.9441 0.3298 290.362 70.3491)" class="st6 st3 st126">Paenibacillus ihbetae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M302.1,104.2l-12-33.9c-0.4,0.1-0.7,0.3-1.1,0.4l12.2,33.9C301.5,104.4,301.8,104.3,302.1,104.2z"/>
+			<g>
+				<text transform="matrix(0.3359 0.9419 -0.9419 0.3359 289.2856 70.7818)" class="st6 st3 st206">Paenibacillus glucanolyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M301.2,104.5L289,70.7c-0.4,0.1-0.7,0.3-1.1,0.4l12.4,33.8C300.6,104.7,300.9,104.6,301.2,104.5z"/>
+			<g>
+				<text transform="matrix(0.342 0.9397 -0.9397 0.342 288.1866 71.1578)" class="st6 st3 st207">Paenibacillus sp. DMB20</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M300.3,104.8l-12.4-33.8c-0.4,0.1-0.7,0.3-1.1,0.4l12.6,33.7C299.7,105.1,300,104.9,300.3,104.8z"/>
+			<g>
+				<text transform="matrix(0.348 0.9375 -0.9375 0.348 287.0854 71.5216)" class="st6 st3 st208">Paenibacillus solani</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M299.5,105.2l-12.6-33.7c-0.4,0.1-0.7,0.3-1.1,0.4l12.9,33.6C298.9,105.4,299.2,105.3,299.5,105.2z"/>
+			<g>
+				<text transform="matrix(0.354 0.9352 -0.9352 0.354 286.0282 71.9673)" class="st6 st3 st209">Paenibacillus sp. TCA20</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M298.6,105.5l-12.9-33.6c-0.3,0.1-0.7,0.3-1,0.4l13.1,33.5C298,105.7,298.3,105.6,298.6,105.5z"/>
+			<g>
+				<text transform="matrix(0.3598 0.933 -0.933 0.3598 285.0563 72.4717)" class="st6 st3 st210">Aneurinibacillus migulanus (Bacillus migulanus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M297.8,105.8l-13.1-33.5c-0.3,0.1-0.6,0.2-0.9,0.4l13.2,33.5C297.3,106,297.5,105.9,297.8,105.8z"/>
+			<g>
+				<text transform="matrix(0.3653 0.9309 -0.9309 0.3653 284.0068 72.6839)" class="st6 st3 st211">Paenibacillus faecis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M297,106.1l-13.2-33.5c-0.3,0.1-0.6,0.3-0.9,0.4l13.4,33.4C296.5,106.3,296.8,106.2,297,106.1z"/>
+			<g>
+				<text transform="matrix(0.3706 0.9288 -0.9288 0.3706 283.0634 73.0638)" class="st6 st3 st212">Paenibacillus oralis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M296.3,106.4L282.8,73c-0.3,0.1-0.6,0.3-0.9,0.4l13.6,33.3C295.8,106.6,296,106.5,296.3,106.4z"/>
+			<g>
+				<text transform="matrix(0.3758 0.9267 -0.9267 0.3758 282.1424 73.4667)" class="st6 st3 st213">Paenibacillus sp. Leaf72</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M295.5,106.7l-13.6-33.3c-0.3,0.1-0.6,0.3-0.9,0.4l13.8,33.2C295,106.9,295.3,106.8,295.5,106.7z"/>
+			<g>
+				<text transform="matrix(0.381 0.9246 -0.9246 0.381 281.1895 73.8065)" class="st6 st3 st214">Paenibacillus pini</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M294.8,107L281,73.8c-0.3,0.1-0.6,0.3-0.9,0.4l14,33.2C294.3,107.2,294.5,107.1,294.8,107z"/>
+			<g>
+				<text transform="matrix(0.3861 0.9224 -0.9224 0.3861 280.2915 74.2413)" class="st6 st3 st215">Paenibacillus sp. HJL G12</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M294,107.3l-14-33.2c-0.3,0.1-0.6,0.3-0.9,0.4l14.2,33.1C293.5,107.5,293.8,107.4,294,107.3z"/>
+			<g>
+				<text transform="matrix(0.3912 0.9203 -0.9203 0.3912 279.3736 74.6365)" class="st6 st3 st216">Paenibacillus sp. SDF0028</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M293.3,107.6l-14.2-33.1c-0.3,0.1-0.6,0.3-0.9,0.4l14.4,33C292.8,107.8,293,107.7,293.3,107.6z"/>
+			<g>
+				<text transform="matrix(0.3964 0.9181 -0.9181 0.3964 278.4571 75.0322)" class="st6 st3 st217">Paenibacillus sp. VMFN-D1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M292.6,108l-14.4-33c-0.3,0.1-0.6,0.3-0.9,0.4l14.5,32.9C292.1,108.2,292.3,108.1,292.6,108z"/>
+			<g>
+				<text transform="matrix(0.4014 0.9159 -0.9159 0.4014 277.5352 75.4156)" class="st6 st3 st218">Paenibacillus sp. AR247</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M291.8,108.3l-14.5-32.9c-0.3,0.1-0.6,0.3-0.9,0.4l14.7,32.9C291.3,108.5,291.6,108.4,291.8,108.3z"/>
+			<g>
+				<text transform="matrix(0.4065 0.9137 -0.9137 0.4065 276.6265 75.8189)" class="st6 st3 st219">Paenibacillus sp. XY044</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M291.1,108.6l-14.7-32.9c-0.3,0.1-0.6,0.3-0.9,0.4l14.9,32.8C290.6,108.8,290.9,108.7,291.1,108.6z"/>
+			<g>
+				<text transform="matrix(0.4115 0.9114 -0.9114 0.4115 275.7347 76.2516)" class="st6 st3 st220">Paenibacillus rhizosphaerae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M290.4,108.9l-14.9-32.8c-0.3,0.1-0.6,0.3-0.9,0.4l15.1,32.7C289.9,109.1,290.1,109,290.4,108.9z"/>
+			<g>
+				<text transform="matrix(0.4166 0.9091 -0.9091 0.4166 274.8144 76.6341)" class="st6 st3 st221">Paenibacillus sp. cl6col</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M289.7,109.3l-15.1-32.7c-0.3,0.1-0.6,0.3-0.9,0.4l15.3,32.6C289.2,109.5,289.4,109.4,289.7,109.3z"/>
+			<g>
+				<text transform="matrix(0.4216 0.9068 -0.9068 0.4216 273.9321 77.0793)" class="st6 st3 st222">Paenibacillus sp. NAIST15-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M288.9,109.6L273.7,77c-0.3,0.1-0.6,0.3-0.9,0.4l15.4,32.5C288.5,109.8,288.7,109.7,288.9,109.6z"/>
+			<g>
+				<text transform="matrix(0.4266 0.9045 -0.9045 0.4266 273.0121 77.4633)" class="st6 st3 st215">Paenibacillus sp. KS1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M288.2,109.9l-15.4-32.5c-0.3,0.1-0.6,0.3-0.9,0.4l15.6,32.4C287.7,110.2,288,110,288.2,109.9z"/>
+			<g>
+				<text transform="matrix(0.4315 0.9021 -0.9021 0.4315 272.1438 77.9317)" class="st6 st3 st223">Paenibacillus sp. IHBB 10380</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M287.5,110.3l-15.6-32.4c-0.3,0.1-0.6,0.3-0.9,0.4l15.8,32.3C287,110.5,287.3,110.4,287.5,110.3z"/>
+			<g>
+				<text transform="matrix(0.4365 0.8997 -0.8997 0.4365 271.2344 78.3322)" class="st6 st3 st224">Paenibacillus sp. P1XP2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M286.8,110.6L271,78.3c-0.3,0.1-0.6,0.3-0.9,0.4l16,32.3C286.3,110.8,286.6,110.7,286.8,110.6z"/>
+			<g>
+				<text transform="matrix(0.4413 0.8973 -0.8973 0.4413 270.3806 78.7609)" class="st6 st3 st225">Paenibacillus amylolyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M286.1,111l-16-32.3c-0.2,0.1-0.5,0.2-0.7,0.3l16.1,32.2C285.7,111.1,285.9,111,286.1,111z"/>
+			<g>
+				<text transform="matrix(0.4456 0.8952 -0.8952 0.4456 269.6577 79.0948)" class="st6 st3 st226">Paenibacillus sp. JCM 10914</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M285.6,111.2L269.5,79c-0.2,0.1-0.4,0.2-0.7,0.3l16.2,32.1C285.2,111.4,285.4,111.3,285.6,111.2z"/>
+			<g>
+				<text transform="matrix(0.4493 0.8934 -0.8934 0.4493 268.9622 79.3883)" class="st6 st3 st227">Paenibacillus lactis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M285,111.5l-16.2-32.1c-0.2,0.1-0.4,0.2-0.7,0.3l16.4,32.1C284.7,111.7,284.9,111.6,285,111.5z"/>
+			<g>
+				<text transform="matrix(0.453 0.8915 -0.8915 0.453 268.3059 79.7299)" class="st6 st3 st228">Paenibacillus lemnae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M284.5,111.8l-16.4-32.1c-0.2,0.1-0.4,0.2-0.6,0.3l16.5,32C284.2,111.9,284.3,111.8,284.5,111.8z"/>
+			<g>
+				<text transform="matrix(0.4566 0.8896 -0.8896 0.4566 267.6721 80.0917)" class="st6 st3 st229">Paenibacillus sp. HB172198</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M284,112l-16.5-32c-0.2,0.1-0.4,0.2-0.6,0.3l16.6,31.9C283.6,112.2,283.8,112.1,284,112z"/>
+			<g>
+				<text transform="matrix(0.4602 0.8878 -0.8878 0.4602 267.0205 80.3849)" class="st6 st3 st230">Paenibacillus uliginis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M283.5,112.3l-16.6-31.9c-0.2,0.1-0.4,0.2-0.6,0.3l16.8,31.9C283.2,112.5,283.3,112.4,283.5,112.3z"/>
+			<g>
+				<text transform="matrix(0.4637 0.886 -0.886 0.4637 266.4075 80.7226)" class="st6 st3 st231">Paenibacillus sp. 453mf</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M283,112.5l-16.8-31.9c-0.2,0.1-0.3,0.2-0.5,0.3l16.8,31.8C282.7,112.7,282.9,112.6,283,112.5z"/>
+			<g>
+				<text transform="matrix(0.4667 0.8844 -0.8844 0.4667 265.8835 80.9501)" class="st6 st3 st232">Paenibacillus pabuli</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M282.6,112.7l-16.8-31.8c-0.2,0.1-0.3,0.2-0.5,0.3l16.9,31.8C282.4,112.9,282.5,112.8,282.6,112.7z"/>
+			<g>
+				<text transform="matrix(0.4693 0.883 -0.883 0.4693 265.4209 81.2188)" class="st6 st3 st233">Paenibacillus sp. JGP012</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M282.2,112.9l-16.9-31.8c-0.2,0.1-0.3,0.2-0.5,0.3l17,31.7C282,113.1,282.1,113,282.2,112.9z"/>
+			<g>
+				<text transform="matrix(0.4719 0.8816 -0.8816 0.4719 264.9521 81.4707)" class="st6 st3 st234">Paenibacillus xylanilyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M281.9,113.1l-17-31.7c-0.2,0.1-0.3,0.2-0.5,0.3l17.1,31.7C281.6,113.3,281.7,113.2,281.9,113.1z"/>
+			<g>
+				<text transform="matrix(0.4745 0.8802 -0.8802 0.4745 264.4912 81.7314)" class="st6 st3 st235">Paenibacillus sp. JNUCC-31</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M281.5,113.3l-17.1-31.7c-0.2,0.1-0.3,0.2-0.5,0.2l17.2,31.6C281.2,113.5,281.4,113.4,281.5,113.3z"/>
+			<g>
+				<text transform="matrix(0.4771 0.8788 -0.8788 0.4771 264.012 81.9409)" class="st6 st3 st236">Paenibacillus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M281.1,113.5l-17.2-31.6c-0.2,0.1-0.3,0.2-0.5,0.2l17.3,31.6C280.9,113.7,281,113.6,281.1,113.5z"/>
+			<g>
+				<text transform="matrix(0.4796 0.8775 -0.8775 0.4796 263.5663 82.1976)" class="st6 st3 st237">Paenibacillus silvae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M280.8,113.7l-17.3-31.6c-0.2,0.1-0.3,0.2-0.5,0.2l17.4,31.5C280.5,113.9,280.6,113.8,280.8,113.7z"/>
+			<g>
+				<text transform="matrix(0.4821 0.8761 -0.8761 0.4821 263.1229 82.4572)" class="st6 st3 st238">Paenibacillus illinoisensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M280.4,113.9L263,82.4c-0.1,0.1-0.3,0.2-0.4,0.2l17.5,31.5C280.2,114.1,280.3,114,280.4,113.9z"/>
+			<g>
+				<text transform="matrix(0.4846 0.8748 -0.8748 0.4846 262.6841 82.6893)" class="st6 st3 st239">Paenibacillus sp. 7541</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M280,114.1l-17.5-31.5c-0.1,0.1-0.3,0.2-0.4,0.2l17.6,31.4C279.8,114.3,279.9,114.2,280,114.1z"/>
+			<g>
+				<text transform="matrix(0.487 0.8734 -0.8734 0.487 262.254 82.9281)" class="st6 st3 st240">Paenibacillus sp. 7516</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M279.7,114.3l-17.6-31.4c-0.1,0.1-0.3,0.2-0.4,0.2l17.7,31.4C279.5,114.5,279.6,114.4,279.7,114.3z"/>
+			<g>
+				<text transform="matrix(0.4893 0.8721 -0.8721 0.4893 261.8352 83.1826)" class="st6 st3 st241">Paenibacillus campinasensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M279.4,114.5l-17.7-31.4c-0.1,0.1-0.3,0.2-0.4,0.2l17.7,31.3C279.1,114.6,279.3,114.6,279.4,114.5z"/>
+			<g>
+				<text transform="matrix(0.4917 0.8708 -0.8708 0.4917 261.4037 83.414)" class="st6 st3 st242">Paenibacillus sp. 7523-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M279,114.7l-17.7-31.3c-0.1,0.1-0.3,0.2-0.4,0.2l17.8,31.3C278.8,114.8,278.9,114.8,279,114.7z"/>
+			<g>
+				<text transform="matrix(0.4941 0.8694 -0.8694 0.4941 260.9916 83.6677)" class="st6 st3 st243">Paenibacillus sp. FSL R5-0765</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M278.7,114.9l-17.8-31.3c-0.1,0.1-0.3,0.2-0.4,0.2l17.9,31.2C278.5,115,278.6,115,278.7,114.9z"/>
+			<g>
+				<text transform="matrix(0.4964 0.8681 -0.8681 0.4964 260.5798 83.9086)" class="st6 st3 st244">Paenibacillus polysaccharolyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M278.4,115.1l-17.9-31.2c-0.1,0.1-0.3,0.2-0.4,0.2l18,31.2C278.1,115.2,278.2,115.1,278.4,115.1z"/>
+			<g>
+				<text transform="matrix(0.4987 0.8668 -0.8668 0.4987 260.1642 84.1264)" class="st6 st3 st245">Paenibacillus xylanivorans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st191" d="M278,115.3l-18-31.2c-0.1,0.1-0.3,0.2-0.4,0.2l18.1,31.1C277.8,115.4,277.9,115.3,278,115.3z"/>
+			<g>
+				<text transform="matrix(0.5009 0.8655 -0.8655 0.5009 259.7588 84.3509)" class="st6 st3 st246">Paenibacillus sp. MAEPY2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M277.7,115.5l-18.1-31.1c-5.4,3.2-10.7,6.6-15.8,10.3l21.2,29.1C269.1,120.7,273.4,118,277.7,115.5z"/>
+			<g>
+				<text transform="matrix(0.5466 0.8374 -0.8374 0.5466 250.4568 90.7721)" class="st6 st3 st248">Listeria booriae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M265.1,123.7l-21.2-29.1c-2.9,2.1-5.7,4.3-8.4,6.5l22.9,27.8C260.5,127.1,262.8,125.4,265.1,123.7z"/>
+			<g>
+				<text transform="matrix(0.6134 0.7898 -0.7898 0.6134 239.0539 99.0303)" class="st6 st3 st249">Listeria monocytogenes</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M258.4,128.9l-22.9-27.8c-1.3,1-2.5,2.1-3.7,3.2l23.7,27.1C256.4,130.6,257.3,129.8,258.4,128.9z"/>
+			<g>
+				<text transform="matrix(0.6468 0.7626 -0.7626 0.6468 232.9948 103.9841)" class="st6 st3 st250">Listeria fleischmannii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M255.4,131.5l-23.7-27.1c-0.9,0.8-1.8,1.6-2.6,2.3l24.2,26.7C254,132.7,254.7,132.1,255.4,131.5z"/>
+			<g>
+				<text transform="matrix(0.6645 0.7473 -0.7473 0.6645 229.8824 106.4098)" class="st6 st3 st251">Listeria innocua</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M253.3,133.3l-24.2-26.7c-0.7,0.6-1.4,1.2-2,1.9l24.6,26.3C252.2,134.3,252.7,133.8,253.3,133.3z"/>
+			<g>
+				<text transform="matrix(0.6775 0.7355 -0.7355 0.6775 227.6875 108.3735)" class="st6 st3 st252">Listeria floridensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M251.6,134.8L227,108.5c-0.6,0.6-1.2,1.1-1.8,1.7l24.9,26C250.7,135.7,251.2,135.3,251.6,134.8z"/>
+			<g>
+				<text transform="matrix(0.6881 0.7256 -0.7256 0.6881 225.81 110.0579)" class="st6 st3 st253">Listeria aquatica</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M250.2,136.2l-24.9-26c-0.6,0.6-1.2,1.1-1.7,1.7l25.3,25.6C249.3,137.1,249.7,136.6,250.2,136.2z"/>
+			<g>
+				<text transform="matrix(0.6978 0.7163 -0.7163 0.6978 224.0731 111.7561)" class="st6 st3 st254">Listeria kieliensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M248.8,137.5l-25.3-25.6c-0.6,0.6-1.1,1.1-1.7,1.7l25.6,25.3C247.9,138.4,248.4,138,248.8,137.5z"/>
+			<g>
+				<text transform="matrix(0.7073 0.7069 -0.7069 0.7073 222.4012 113.4245)" class="st6 st3 st255">Listeria cossartiae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M247.5,138.9l-25.6-25.3c-0.5,0.5-0.9,0.9-1.3,1.4l25.9,25C246.8,139.6,247.1,139.2,247.5,138.9z"/>
+			<g>
+				<text transform="matrix(0.7156 0.6985 -0.6985 0.7156 221.0484 114.8947)" class="st6 st3 st256">Listeria weihenstephanensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M246.4,140l-25.9-25c-0.4,0.4-0.7,0.8-1.1,1.2l26.1,24.8C245.8,140.6,246.1,140.3,246.4,140z"/>
+			<g>
+				<text transform="matrix(0.7225 0.6914 -0.6914 0.7225 219.7361 116.0007)" class="st6 st3 st257">Listeria riparia</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M245.5,140.9l-26.1-24.8c-0.3,0.3-0.6,0.6-0.8,0.9l26.3,24.6C245.1,141.4,245.3,141.1,245.5,140.9z"/>
+			<g>
+				<text transform="matrix(0.7279 0.6857 -0.6857 0.7279 218.8156 116.9327)" class="st6 st3 st258">Listeria marthii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M244.8,141.6L218.6,117c-0.3,0.3-0.5,0.6-0.8,0.8l26.4,24.4C244.4,142.1,244.6,141.8,244.8,141.6z"/>
+			<g>
+				<text transform="matrix(0.7324 0.6809 -0.6809 0.7324 218.1265 117.8549)" class="st6 st3 st259">Listeria grayi (Listeria murrayi)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M244.2,142.3l-26.4-24.4c-0.2,0.2-0.3,0.3-0.5,0.5l26.5,24.3C244,142.5,244.1,142.4,244.2,142.3z"/>
+			<g>
+				<text transform="matrix(0.7358 0.6772 -0.6772 0.7358 217.4785 118.31)" class="st6 st3 st260">Listeria rocourtiae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M243.9,142.7l-26.5-24.3c-0.1,0.1-0.1,0.1-0.2,0.2l26.6,24.3C243.8,142.8,243.8,142.7,243.9,142.7z"/>
+			<g>
+				<text transform="matrix(0.7375 0.6754 -0.6754 0.7375 217.2237 118.5127)" class="st6 st3 st261">Listeria welshimeri</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M243.7,142.8l-26.6-24.3c-0.1,0.1-0.1,0.1-0.2,0.2l26.6,24.3C243.7,142.9,243.7,142.9,243.7,142.8z"/>
+			<g>
+				<text transform="matrix(0.7384 0.6744 -0.6744 0.7384 217.0665 118.6784)" class="st6 st3 st262">Listeria immobilis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st247" d="M243.6,143L217,118.7c-0.1,0.1-0.1,0.1-0.2,0.2l26.6,24.2C243.5,143,243.6,143,243.6,143z"/>
+			<g>
+				<text transform="matrix(0.7392 0.6735 -0.6735 0.7392 216.9186 118.8468)" class="st6 st3 st263">Listeria grandensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M243.5,143.1l-26.6-24.2c-0.8,0.9-1.7,1.8-2.5,2.8l27.1,23.7C242.2,144.6,242.8,143.8,243.5,143.1z"/>
+			<g>
+				<text transform="matrix(0.7465 0.6654 -0.6654 0.7465 215.3559 121.3033)" class="st6 st3 st265">Staphylococcus aureus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M241.5,145.3l-27.1-23.7c-0.4,0.5-0.8,0.9-1.2,1.4l27.4,23.4C240.9,146.1,241.2,145.7,241.5,145.3z"/>
+			<g>
+				<text transform="matrix(0.7567 0.6537 -0.6537 0.7567 213.6915 122.9473)" class="st6 st3 st266">Staphylococcus epidermidis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M240.5,146.4L213.2,123c-0.3,0.3-0.6,0.7-0.9,1l27.5,23.2C240.1,147,240.3,146.7,240.5,146.4z"/>
+			<g>
+				<text transform="matrix(0.7626 0.6469 -0.6469 0.7626 212.6036 123.9683)" class="st6 st3 st267">Macrococcus canis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M239.8,147.3l-27.5-23.2c-0.3,0.3-0.6,0.7-0.9,1l27.7,23C239.4,147.8,239.6,147.5,239.8,147.3z"/>
+			<g>
+				<text transform="matrix(0.7673 0.6412 -0.6412 0.7673 211.7971 125.0193)" class="st6 st3 st268">Staphylococcus devriesei</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M239.2,148.1l-27.7-23c-0.1,0.2-0.3,0.3-0.4,0.5l27.8,22.9C239,148.3,239.1,148.2,239.2,148.1z"/>
+			<g>
+				<text transform="matrix(0.7708 0.6371 -0.6371 0.7708 211.2092 125.5388)" class="st6 st3 st269">Staphylococcus microti</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.8,148.5l-27.8-22.9c0,0.1-0.1,0.1-0.1,0.2l27.8,22.9C238.8,148.6,238.8,148.5,238.8,148.5z"/>
+			<g>
+				<text transform="matrix(0.7723 0.6352 -0.6352 0.7723 210.97 125.7437)" class="st6 st3 st270">Staphylococcus sp. SB1-57</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.7,148.6l-27.8-22.9c0,0.1-0.1,0.1-0.1,0.2l27.8,22.8C238.6,148.7,238.7,148.6,238.7,148.6z"/>
+			<g>
+				<text transform="matrix(0.7731 0.6342 -0.6342 0.7731 210.8288 125.9309)" class="st6 st3 st271">Staphylococcus sp. HMSC063F10</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.6,148.7l-27.8-22.8c0,0.1-0.1,0.1-0.1,0.2l27.9,22.8C238.5,148.8,238.6,148.8,238.6,148.7z"/>
+			<g>
+				<text transform="matrix(0.774 0.6332 -0.6332 0.774 210.6757 126.0969)" class="st6 st3 st272">Staphylococcus argenteus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.5,148.9l-27.9-22.8c0,0-0.1,0.1-0.1,0.1l27.9,22.7C238.4,149,238.5,148.9,238.5,148.9z"/>
+			<g>
+				<text transform="matrix(0.7747 0.6323 -0.6323 0.7747 210.5425 126.2444)" class="st6 st3 st273">Staphylococcus agnetis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.4,149l-27.9-22.7c0,0-0.1,0.1-0.1,0.1l27.9,22.7C238.3,149.1,238.4,149,238.4,149z"/>
+			<g>
+				<text transform="matrix(0.7754 0.6315 -0.6315 0.7754 210.424 126.3919)" class="st6 st3 st274">Staphylococcus argensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.3,149.1l-27.9-22.7c0,0-0.1,0.1-0.1,0.1l27.9,22.7C238.2,149.2,238.3,149.2,238.3,149.1z"/>
+			<g>
+				<text transform="matrix(0.776 0.6307 -0.6307 0.776 210.3095 126.5404)" class="st6 st3 st275">Staphylococcus pettenkoferi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.2,149.2l-27.9-22.7c0,0-0.1,0.1-0.1,0.1l28,22.7C238.1,149.3,238.2,149.3,238.2,149.2z"/>
+			<g>
+				<text transform="matrix(0.7767 0.6299 -0.6299 0.7767 210.1905 126.686)" class="st6 st3 st276">Staphylococcus schweitzeri</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238.1,149.4l-28-22.7c0,0-0.1,0.1-0.1,0.1l28,22.6C238,149.4,238.1,149.4,238.1,149.4z"/>
+			<g>
+				<text transform="matrix(0.7773 0.6291 -0.6291 0.7773 210.0721 126.8282)" class="st6 st3 st277">Staphylococcus edaphicus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M238,149.5l-28-22.6c0,0-0.1,0.1-0.1,0.1l28,22.6C238,149.5,238,149.5,238,149.5z"/>
+			<g>
+				<text transform="matrix(0.778 0.6283 -0.6283 0.778 209.9612 126.969)" class="st6 st3 st278">Mammaliicoccus stepanovicii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M237.9,149.6l-28-22.6c0,0-0.1,0.1-0.1,0.1l28,22.6C237.9,149.6,237.9,149.6,237.9,149.6z"/>
+			<g>
+				<text transform="matrix(0.7786 0.6276 -0.6276 0.7786 209.8566 127.1038)" class="st6 st3 st279">Staphylococcus sp. HMSC036D05</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M237.8,149.7l-28-22.6c0,0-0.1,0.1-0.1,0.1l28.1,22.6C237.8,149.8,237.8,149.7,237.8,149.7z"/>
+			<g>
+				<text transform="matrix(0.7791 0.6269 -0.6269 0.7791 209.7536 127.2297)" class="st6 st3 st280">Staphylococcus sp. HMSC071G07</text>
+			</g>
+		</g>
+		<g>
+			<path class="st264" d="M237.8,149.8l-28.1-22.6c0,0-0.1,0.1-0.1,0.1L237.8,149.8C237.7,149.8,237.7,149.8,237.8,149.8z"/>
+			<g>
+				<text transform="matrix(0.7797 0.6262 -0.6262 0.7797 209.6505 127.3443)" class="st6 st3 st281">Staphylococcus lugdunensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st282" d="M237.7,149.9l-28.1-22.5c-0.2,0.2-0.4,0.5-0.6,0.7l28.2,22.4C237.4,150.3,237.5,150.1,237.7,149.9z"/>
+			<g>
+				<text transform="matrix(0.7815 0.6239 -0.6239 0.7815 209.2781 128.0229)" class="st6 st3 st283">Bhargavaea cecembensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st282" d="M237.2,150.5L209,128.1c-0.2,0.2-0.4,0.5-0.6,0.7l28.3,22.2C236.9,150.8,237.1,150.6,237.2,150.5z"/>
+			<g>
+				<text transform="matrix(0.7847 0.6199 -0.6199 0.7847 208.7021 128.7353)" class="st6 st3 st284">Sporosarcina sp. JAI121</text>
+			</g>
+		</g>
+		<g>
+			<path class="st282" d="M236.8,151l-28.3-22.2c-0.2,0.2-0.4,0.5-0.6,0.7l28.4,22.1C236.5,151.4,236.6,151.2,236.8,151z"/>
+			<g>
+				<text transform="matrix(0.7878 0.6159 -0.6159 0.7878 208.1107 129.432)" class="st6 st3 st285">Filibacter tadaridae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st282" d="M236.3,151.6l-28.4-22.1c-0.2,0.2-0.4,0.5-0.5,0.7l28.5,22C236,152,236.2,151.8,236.3,151.6z"/>
+			<g>
+				<text transform="matrix(0.7909 0.6119 -0.6119 0.7909 207.5743 130.1508)" class="st6 st3 st286">Bhargavaea ginsengi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st282" d="M235.9,152.2l-28.5-22c-0.1,0.1-0.2,0.2-0.3,0.4l28.6,21.9C235.7,152.4,235.8,152.3,235.9,152.2z"/>
+			<g>
+				<text transform="matrix(0.7932 0.6089 -0.6089 0.7932 207.2498 130.5916)" class="st6 st3 st287">Sporosarcina globispora (Bacillus globisporus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st288" d="M235.7,152.5l-28.6-21.9c-0.3,0.4-0.5,0.7-0.8,1.1l28.7,21.7C235.2,153,235.4,152.7,235.7,152.5z"/>
+			<g>
+				<text transform="matrix(0.7963 0.605 -0.605 0.7963 206.6581 131.5771)" class="st6 st3 st289">Sporolactobacillus sp. THM19-2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st288" d="M235,153.3l-28.7-21.7c-0.1,0.2-0.3,0.4-0.4,0.5l28.8,21.6C234.8,153.6,234.9,153.5,235,153.3z"/>
+			<g>
+				<text transform="matrix(0.7996 0.6005 -0.6005 0.7996 206.0415 132.1385)" class="st6 st3 st290">Sporolactobacillus terrae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st288" d="M234.7,153.7l-28.8-21.6c-0.1,0.2-0.3,0.3-0.4,0.5l28.9,21.5C234.5,154,234.6,153.9,234.7,153.7z"/>
+			<g>
+				<text transform="matrix(0.8018 0.5976 -0.5976 0.8018 205.6715 132.666)" class="st6 st3 st291">Sporolactobacillus nakayamae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st292" d="M234.4,154.1l-28.9-21.5c-0.3,0.4-0.5,0.7-0.8,1.1l29.1,21.2C234,154.7,234.2,154.4,234.4,154.1z"/>
+			<g>
+				<text transform="matrix(0.805 0.5932 -0.5932 0.805 205.1212 133.7192)" class="st6 st3 st293">Tumebacillus permanentifrigoris</text>
+			</g>
+		</g>
+		<g>
+			<path class="st292" d="M233.8,155l-29.1-21.2c-0.3,0.4-0.5,0.7-0.8,1.1l29.2,21C233.3,155.6,233.6,155.3,233.8,155z"/>
+			<g>
+				<text transform="matrix(0.8094 0.5873 -0.5873 0.8094 204.2924 134.7433)" class="st6 st3 st294">Tumebacillus flagellatus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st295" d="M233.1,155.8l-29.2-21c-0.3,0.4-0.5,0.7-0.8,1.1l29.4,20.8C232.7,156.4,232.9,156.1,233.1,155.8z"/>
+			<g>
+				<text transform="matrix(0.8137 0.5813 -0.5813 0.8137 203.4771 135.8068)" class="st6 st3 st296">Shimazuella sp. KC615</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M232.5,156.7l-29.4-20.8c-7.5,10.5-13.8,21.8-18.8,33.7l33.1,14.1C221.5,174.2,226.5,165.2,232.5,156.7z"
+				/>
+			<g>
+				<text transform="matrix(0.4874 -0.8732 0.8732 0.4874 187.4785 170.2042)" class="st0 st3 st298">Streptococcus sanguinis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M217.5,183.7l-33.1-14.1c-4.5,10.6-8,21.6-10.4,32.8l35.2,7.5C211.1,201,213.9,192.2,217.5,183.7z"/>
+			<g>
+				<text transform="matrix(0.9536 0.3012 -0.3012 0.9536 178.5605 187.2827)" class="st0 st3 st299">Streptococcus oralis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M209.2,210l-35.2-7.5c-1.4,6.7-2.5,13.6-3.1,20.4l35.8,3.4C207.2,220.8,208,215.4,209.2,210z"/>
+			<g>
+				<text transform="matrix(0.9884 0.1521 -0.1521 0.9884 172.4878 214.0956)" class="st0 st3 st62">Streptococcus mitis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M206.7,226.3l-35.8-3.4c-0.5,4.8-0.7,9.5-0.8,14.3l36,0.6C206.1,233.9,206.3,230.1,206.7,226.3z"/>
+			<g>
+				<text transform="matrix(0.9985 5.541428e-02 -5.541428e-02 0.9985 170.8141 231.4109)" class="st0 st3 st300">Lactococcus piscium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M206,237.7l-36-0.6c-0.1,4.3,0,8.6,0.3,12.9l35.9-2C206,244.7,206,241.2,206,237.7z"/>
+			<g>
+				<text transform="matrix(0.9998 -2.030480e-02 2.030480e-02 0.9998 170.6817 245.0869)" class="st0 st3 st301">Streptococcus equi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M206.2,248.1l-35.9,2c0.2,3.1,0.4,6.3,0.8,9.4l35.8-3.9C206.6,253.1,206.4,250.6,206.2,248.1z"/>
+			<g>
+				<text transform="matrix(0.9966 -8.232559e-02 8.232559e-02 0.9966 171.2681 255.3766)" class="st0 st3 st302">Streptococcus equinus (Streptococcus bovis)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M206.8,255.6l-35.8,3.9c0.3,3.1,0.8,6.2,1.3,9.3l35.5-5.8C207.5,260.6,207.1,258.1,206.8,255.6z"/>
+			<g>
+				<text transform="matrix(0.991 -0.1342 0.1342 0.991 172.2924 264.5298)" class="st0 st3 st303">Lactococcus lactis subsp. cremoris (Streptococcus cremoris)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M207.9,263l-35.5,5.8c0.5,3,1,5.9,1.7,8.8l35.2-7.5C208.7,267.8,208.2,265.4,207.9,263z"/>
+			<g>
+				<text transform="matrix(0.9828 -0.1845 0.1845 0.9828 173.9679 274.5526)" class="st0 st3 st304">Streptococcus suis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M209.2,270.1l-35.2,7.5c0.6,2.6,1.2,5.3,1.9,7.9l34.8-9.1C210.1,274.3,209.6,272.2,209.2,270.1z"/>
+			<g>
+				<text transform="matrix(0.973 -0.2309 0.2309 0.973 175.7341 282.5736)" class="st0 st3 st305">Streptococcus cristatus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M210.7,276.4l-34.8,9.1c0.7,2.5,1.4,5.1,2.2,7.6l34.4-10.6C211.8,280.5,211.2,278.4,210.7,276.4z"/>
+			<g>
+				<text transform="matrix(0.9618 -0.2739 0.2739 0.9618 177.8987 290.6163)" class="st0 st3 st306">Lactococcus lactis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M212.4,282.5L178,293.1c0.7,2.4,1.5,4.8,2.4,7.1l33.9-12C213.6,286.3,213,284.4,212.4,282.5z"/>
+			<g>
+				<text transform="matrix(0.9492 -0.3148 0.3148 0.9492 180.0756 297.5175)" class="st0 st3 st307">Streptococcus agalactiae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M214.3,288.2l-33.9,12c0.6,1.8,1.3,3.5,2,5.3l33.5-13.1C215.3,291,214.8,289.6,214.3,288.2z"/>
+			<g>
+				<text transform="matrix(0.937 -0.3493 0.3493 0.937 182.2411 303.5577)" class="st0 st3 st308">Streptococcus acidominimus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M215.9,292.4l-33.5,13.1c0.6,1.6,1.2,3.1,1.9,4.7l33.2-14C216.9,294.9,216.4,293.7,215.9,292.4z"/>
+			<g>
+				<text transform="matrix(0.9262 -0.3769 0.3769 0.9262 184.2779 308.6564)" class="st0 st3 st309">Lactococcus allomyrinae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M217.4,296.1l-33.2,14c0.6,1.5,1.3,3,2,4.5l32.8-14.9C218.4,298.6,217.9,297.4,217.4,296.1z"/>
+			<g>
+				<text transform="matrix(0.9154 -0.4025 0.4025 0.9154 186.1848 313.125)" class="st0 st3 st310">Lactococcus reticulitermitis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M219,299.8l-32.8,14.9c0.7,1.5,1.4,2.9,2.1,4.4l32.3-15.8C220.1,302.1,219.5,300.9,219,299.8z"/>
+			<g>
+				<text transform="matrix(0.9041 -0.4273 0.4273 0.9041 188.254 317.8896)" class="st0 st3 st311">Lactococcus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M220.7,303.3l-32.3,15.8c0.7,1.4,1.4,2.9,2.2,4.3l31.9-16.7C221.8,305.6,221.2,304.4,220.7,303.3z"/>
+			<g>
+				<text transform="matrix(0.8923 -0.4514 0.4514 0.8923 190.3653 321.8019)" class="st0 st3 st312">Streptococcus pluranimalium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M222.4,306.7l-31.9,16.7c0.6,1.1,1.2,2.3,1.8,3.4l31.5-17.3C223.3,308.5,222.8,307.6,222.4,306.7z"/>
+			<g>
+				<text transform="matrix(0.8813 -0.4725 0.4725 0.8813 192.292 325.7041)" class="st0 st3 st313">Streptococcus gordonii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M223.8,309.4l-31.5,17.3c0.6,1,1.1,2.1,1.7,3.1l31.2-18C224.7,311,224.3,310.2,223.8,309.4z"/>
+			<g>
+				<text transform="matrix(0.8715 -0.4905 0.4905 0.8715 194.0531 328.844)" class="st0 st3 st314">Lactococcus raffinolactis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M225.2,311.9l-31.2,18c0.6,1,1.2,2,1.8,3l30.8-18.6C226.2,313.5,225.7,312.7,225.2,311.9z"/>
+			<g>
+				<text transform="matrix(0.8617 -0.5075 0.5075 0.8617 195.8621 331.8209)" class="st0 st3 st315">Lactococcus sp. KACC 19320</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M226.6,314.3l-30.8,18.6c0.6,1,1.2,2,1.8,3l30.5-19.2C227.6,315.9,227.1,315.1,226.6,314.3z"/>
+			<g>
+				<text transform="matrix(0.8516 -0.5241 0.5241 0.8516 197.6418 334.8411)" class="st0 st3 st316">Streptococcus intermedius</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M228.1,316.7l-30.5,19.2c0.6,0.9,1.2,1.9,1.8,2.8l30.1-19.7C229.1,318.2,228.6,317.4,228.1,316.7z"/>
+			<g>
+				<text transform="matrix(0.8416 -0.5402 0.5402 0.8416 199.435 337.6833)" class="st0 st3 st317">Lactococcus paracarnosus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M229.5,318.9l-30.1,19.7c0.6,0.9,1.2,1.8,1.8,2.7l29.8-20.3C230.5,320.3,230,319.6,229.5,318.9z"/>
+			<g>
+				<text transform="matrix(0.8316 -0.5554 0.5554 0.8316 201.2089 340.4123)" class="st0 st3 st318">Streptococcus pantholopis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M231,321.1l-29.8,20.3c0.6,0.9,1.2,1.8,1.8,2.6l29.4-20.8C231.9,322.5,231.5,321.8,231,321.1z"/>
+			<g>
+				<text transform="matrix(0.8215 -0.5702 0.5702 0.8215 202.9746 343.1184)" class="st0 st3 st319">Streptococcus sp. 45</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M232.4,323.2L203,343.9c0.5,0.7,1,1.5,1.6,2.2l29.1-21.2C233.3,324.3,232.9,323.7,232.4,323.2z"/>
+			<g>
+				<text transform="matrix(0.812 -0.5836 0.5836 0.812 204.5866 345.4297)" class="st0 st3 st320">Streptococcus macacae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M233.7,324.9l-29.1,21.2c0.5,0.6,0.9,1.3,1.4,1.9l28.8-21.6C234.5,325.9,234.1,325.4,233.7,324.9z"/>
+			<g>
+				<text transform="matrix(0.8037 -0.595 0.595 0.8037 206.004 347.441)" class="st0 st3 st321">Lactococcus plantarum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M234.8,326.4L206,348.1c0.5,0.6,0.9,1.2,1.4,1.9l28.5-22C235.6,327.4,235.2,326.9,234.8,326.4z"/>
+			<g>
+				<text transform="matrix(0.7958 -0.6055 0.6055 0.7958 207.4713 349.2479)" class="st0 st3 st322">Streptococcus parasanguinis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M236,327.9l-28.5,22c0.4,0.6,0.9,1.1,1.3,1.7l28.2-22.3C236.7,328.8,236.3,328.4,236,327.9z"/>
+			<g>
+				<text transform="matrix(0.7883 -0.6153 0.6153 0.7883 208.7407 351.0354)" class="st0 st3 st323">Streptococcus sp. M143</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M237,329.3l-28.2,22.3c0.4,0.5,0.8,1,1.1,1.4l28-22.6C237.6,330,237.3,329.7,237,329.3z"/>
+			<g>
+				<text transform="matrix(0.7814 -0.624 0.624 0.7814 209.859 352.5875)" class="st0 st3 st324">Streptococcus ferus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M237.9,330.4l-28,22.6c0.4,0.5,0.7,0.9,1.1,1.4l27.8-22.9C238.5,331.1,238.2,330.8,237.9,330.4z"/>
+			<g>
+				<text transform="matrix(0.7752 -0.6317 0.6317 0.7752 210.9771 353.9499)" class="st0 st3 st325">Streptococcus sp. KR</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M238.8,331.5L211,354.4c0.4,0.4,0.7,0.9,1.1,1.3l27.6-23.1C239.4,332.2,239.1,331.9,238.8,331.5z"/>
+			<g>
+				<text transform="matrix(0.7691 -0.6391 0.6391 0.7691 212.147 355.1848)" class="st0 st3 st326">Streptococcus sp. NLAE-zl-C503</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M239.7,332.6l-27.6,23.1c0.4,0.4,0.7,0.8,1.1,1.3l27.4-23.4C240.3,333.2,240,332.9,239.7,332.6z"/>
+			<g>
+				<text transform="matrix(0.7631 -0.6463 0.6463 0.7631 213.1602 356.5293)" class="st0 st3 st327">Streptococcus salivarius</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M240.5,333.6L213.2,357c0.3,0.4,0.7,0.8,1,1.2l27.2-23.6C241.1,334.2,240.8,333.9,240.5,333.6z"/>
+			<g>
+				<text transform="matrix(0.7573 -0.6531 0.6531 0.7573 214.1631 357.7371)" class="st0 st3 st328">Streptococcus australis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M241.4,334.5l-27.2,23.6c0.3,0.4,0.7,0.8,1,1.2l27-23.9C241.9,335.1,241.6,334.8,241.4,334.5z"/>
+			<g>
+				<text transform="matrix(0.7517 -0.6595 0.6595 0.7517 215.1733 358.8897)" class="st0 st3 st329">Streptococcus sp. AS14</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M242.2,335.4l-27,23.9c0.3,0.4,0.7,0.8,1,1.1l26.8-24.1C242.7,336,242.4,335.7,242.2,335.4z"/>
+			<g>
+				<text transform="matrix(0.7461 -0.6658 0.6658 0.7461 216.1555 360.0424)" class="st0 st3 st330">Lactococcus carnosus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M243,336.3l-26.8,24.1c0.3,0.3,0.6,0.7,0.9,1l26.6-24.3C243.5,336.9,243.2,336.6,243,336.3z"/>
+			<g>
+				<text transform="matrix(0.7408 -0.6718 0.6718 0.7408 217.1353 361.0184)" class="st0 st3 st331">Streptococcus sp. HMSC069D09</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M243.7,337.1l-26.6,24.3c0.3,0.3,0.6,0.7,0.9,1l26.4-24.5C244.2,337.7,243.9,337.4,243.7,337.1z"/>
+			<g>
+				<text transform="matrix(0.7357 -0.6773 0.6773 0.7357 217.9828 362.0627)" class="st0 st3 st332">Lactococcus termiticola</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M244.4,337.9L218,362.4c0.3,0.3,0.6,0.6,0.9,1l26.2-24.7C244.9,338.4,244.7,338.2,244.4,337.9z"/>
+			<g>
+				<text transform="matrix(0.7307 -0.6827 0.6827 0.7307 218.8574 363.0483)" class="st0 st3 st333">Floricoccus tropicus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M245.1,338.7l-26.2,24.7c0.3,0.3,0.6,0.6,0.9,0.9l26-24.9C245.6,339.2,245.4,338.9,245.1,338.7z"/>
+			<g>
+				<text transform="matrix(0.7258 -0.6879 0.6879 0.7258 219.7552 363.972)" class="st0 st3 st334">Streptococcus cuniculi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M245.8,339.4l-26,24.9c0.3,0.3,0.6,0.6,0.9,0.9l25.9-25C246.3,339.9,246.1,339.7,245.8,339.4z"/>
+			<g>
+				<text transform="matrix(0.7209 -0.6931 0.6931 0.7209 220.6405 364.8935)" class="st0 st3 st335">Lactococcus sp. DD01</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M246.5,340.2l-25.9,25c0.3,0.3,0.6,0.6,0.9,0.9l25.7-25.2C247,340.6,246.8,340.4,246.5,340.2z"/>
+			<g>
+				<text transform="matrix(0.716 -0.6981 0.6981 0.716 221.5246 365.7589)" class="st0 st3 st336">Lactococcus chungangensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M247.2,340.9l-25.7,25.2c0.3,0.3,0.5,0.5,0.8,0.8l25.5-25.4C247.7,341.3,247.5,341.1,247.2,340.9z"/>
+			<g>
+				<text transform="matrix(0.7114 -0.7028 0.7028 0.7114 222.337 366.5934)" class="st0 st3 st337">Streptococcus gwangjuense</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M247.9,341.5l-25.5,25.4c0.3,0.3,0.5,0.5,0.8,0.8l25.4-25.5C248.3,341.9,248.1,341.7,247.9,341.5z"/>
+			<g>
+				<text transform="matrix(0.707 -0.7072 0.7072 0.707 223.1001 367.399)" class="st0 st3 st338">Streptococcus sp. BS35b</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M248.5,342.1l-25.4,25.5c0.2,0.2,0.5,0.5,0.8,0.7l25.2-25.7C248.9,342.5,248.7,342.3,248.5,342.1z"/>
+			<g>
+				<text transform="matrix(0.7028 -0.7114 0.7114 0.7028 223.8465 368.1606)" class="st0 st3 st339">Streptococcus sp. 1643</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M249.1,342.7l-25.2,25.7c0.2,0.2,0.4,0.4,0.7,0.6l25.1-25.8C249.5,343.1,249.3,342.9,249.1,342.7z"/>
+			<g>
+				<text transform="matrix(0.6989 -0.7153 0.7153 0.6989 224.4927 368.8496)" class="st0 st3 st340">Streptococcus uberis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M249.6,343.3l-25.1,25.8c0.2,0.2,0.4,0.4,0.6,0.6l25-25.9C250,343.6,249.8,343.4,249.6,343.3z"/>
+			<g>
+				<text transform="matrix(0.6953 -0.7187 0.7187 0.6953 225.1292 369.4295)" class="st0 st3 st341">Streptococcus sp. HSISS3</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M250.1,343.7l-25,25.9c0.2,0.2,0.4,0.4,0.6,0.6l24.9-26C250.4,344,250.3,343.9,250.1,343.7z"/>
+			<g>
+				<text transform="matrix(0.692 -0.7219 0.7219 0.692 225.7559 369.9775)" class="st0 st3 st342">Streptococcus sp. WB01_FAA12</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M250.6,344.2l-24.9,26c0.2,0.2,0.4,0.4,0.6,0.6l24.7-26.2C250.9,344.5,250.7,344.3,250.6,344.2z"/>
+			<g>
+				<text transform="matrix(0.6887 -0.725 0.725 0.6887 226.3242 370.5486)" class="st0 st3 st343">Streptococcus sp. HMSC061E03</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M251.1,344.6l-24.7,26.2c0.2,0.2,0.4,0.3,0.5,0.5l24.6-26.3C251.3,344.9,251.2,344.8,251.1,344.6z"/>
+			<g>
+				<text transform="matrix(0.6856 -0.728 0.728 0.6856 226.8364 371.0937)" class="st0 st3 st344">Streptococcus gallolyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M251.5,345l-24.6,26.3c0.2,0.2,0.3,0.3,0.5,0.5l24.5-26.3C251.7,345.3,251.6,345.1,251.5,345z"/>
+			<g>
+				<text transform="matrix(0.6828 -0.7306 0.7306 0.6828 227.3479 371.5449)" class="st0 st3 st345">Streptococcus sp. HMSC063B03</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M251.9,345.4l-24.5,26.3c0.2,0.1,0.3,0.3,0.5,0.4l24.4-26.4C252.1,345.6,252,345.5,251.9,345.4z"/>
+			<g>
+				<text transform="matrix(0.6801 -0.7331 0.7331 0.6801 227.8094 372.016)" class="st0 st3 st346">Streptococcus chenjunshii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M252.3,345.7l-24.4,26.4c0.2,0.1,0.3,0.3,0.5,0.4l24.3-26.5C252.5,346,252.4,345.9,252.3,345.7z"/>
+			<g>
+				<text transform="matrix(0.6774 -0.7356 0.7356 0.6774 228.3069 372.4377)" class="st0 st3 st347">Streptococcus sp. HMSC070B10</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M252.6,346.1l-24.3,26.5c0.2,0.1,0.3,0.3,0.5,0.4l24.2-26.6C252.9,346.3,252.8,346.2,252.6,346.1z"/>
+			<g>
+				<text transform="matrix(0.6748 -0.738 0.738 0.6748 228.7595 372.9004)" class="st0 st3 st348">Streptococcus sp. DD11</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M253,346.5l-24.2,26.6c0.2,0.1,0.3,0.3,0.5,0.4l24.2-26.7C253.3,346.7,253.1,346.6,253,346.5z"/>
+			<g>
+				<text transform="matrix(0.6721 -0.7404 0.7404 0.6721 229.247 373.306)" class="st0 st3 st349">Streptococcus sp. CCUG 49591</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M253.4,346.8l-24.2,26.7c0.2,0.1,0.3,0.3,0.5,0.4l24.1-26.8C253.6,347,253.5,346.9,253.4,346.8z"/>
+			<g>
+				<text transform="matrix(0.6696 -0.7428 0.7428 0.6696 229.7143 373.7133)" class="st0 st3 st350">Streptococcus sp. oral taxon 058</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M253.8,347.1l-24.1,26.8c0.2,0.1,0.3,0.3,0.5,0.4l24-26.9C254,347.3,253.9,347.2,253.8,347.1z"/>
+			<g>
+				<text transform="matrix(0.667 -0.7451 0.7451 0.667 230.1418 374.1671)" class="st0 st3 st351">Streptococcus infantis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M254.1,347.5l-24,26.9c0.1,0.1,0.3,0.3,0.4,0.4l23.9-26.9C254.4,347.7,254.2,347.6,254.1,347.5z"/>
+			<g>
+				<text transform="matrix(0.6646 -0.7472 0.7472 0.6646 230.5804 374.5405)" class="st0 st3 st352">Streptococcus ruminantium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M254.5,347.8l-23.9,26.9c0.1,0.1,0.2,0.2,0.4,0.3l23.8-27C254.7,347.9,254.6,347.8,254.5,347.8z"/>
+			<g>
+				<text transform="matrix(0.6624 -0.7492 0.7492 0.6624 230.9475 374.8881)" class="st0 st3 st353">Streptococcus sp. HSISB1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M254.8,348L231,375c0.1,0.1,0.2,0.2,0.3,0.3l23.7-27.1C254.9,348.2,254.8,348.1,254.8,348z"/>
+			<g>
+				<text transform="matrix(0.6605 -0.7508 0.7508 0.6605 231.2575 375.1794)" class="st0 st3 st354">Streptococcus sp. CNU G2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M255,348.2l-23.7,27.1c0.1,0.1,0.2,0.1,0.3,0.2l23.7-27.1C255.1,348.3,255.1,348.3,255,348.2z"/>
+			<g>
+				<text transform="matrix(0.6589 -0.7522 0.7522 0.6589 231.509 375.4226)" class="st0 st3 st355">Streptococcus sp. zg-70</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M255.2,348.4l-23.7,27.1c0.1,0.1,0.2,0.1,0.3,0.2l23.6-27.1C255.3,348.5,255.3,348.5,255.2,348.4z"/>
+			<g>
+				<text transform="matrix(0.6575 -0.7534 0.7534 0.6575 231.7607 375.6429)" class="st0 st3 st356">Streptococcus sp. zg-36</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M255.4,348.6l-23.6,27.1c0.1,0.1,0.2,0.1,0.3,0.2l23.6-27.2C255.6,348.7,255.5,348.6,255.4,348.6z"/>
+			<g>
+				<text transform="matrix(0.6561 -0.7547 0.7547 0.6561 232.0135 375.8629)" class="st0 st3 st357">Streptococcus sp. zg-86</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M255.6,348.8L232,375.9c0.1,0.1,0.2,0.1,0.2,0.2l23.5-27.2C255.7,348.9,255.7,348.8,255.6,348.8z"/>
+			<g>
+				<text transform="matrix(0.6548 -0.7558 0.7558 0.6548 232.2572 376.0529)" class="st0 st3 st358">Streptococcus sp. FDAARGOS_256</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M255.8,348.9l-23.5,27.2c0.1,0.1,0.1,0.1,0.2,0.2L256,349C255.9,349,255.9,349,255.8,348.9z"/>
+			<g>
+				<text transform="matrix(0.6536 -0.7568 0.7568 0.6536 232.436 376.2448)" class="st0 st3 st359">Streptococcus sp. GMD6S</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256,349l-23.5,27.3c0.1,0.1,0.1,0.1,0.2,0.2l23.5-27.3C256.1,349.1,256,349.1,256,349z"/>
+			<g>
+				<text transform="matrix(0.6526 -0.7577 0.7577 0.6526 232.6236 376.4059)" class="st0 st3 st360">Streptococcus sp. GMD4S</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.1,349.2l-23.5,27.3c0,0,0.1,0.1,0.1,0.1L256.1,349.2C256.2,349.2,256.1,349.2,256.1,349.2z"/>
+			<g>
+				<text transform="matrix(0.6517 -0.7585 0.7585 0.6517 232.7512 376.5251)" class="st0 st3 st361">Streptococcus sp. oral taxon 064</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.2,349.3l-23.5,27.3c0,0,0.1,0.1,0.1,0.1L256.2,349.3C256.3,349.3,256.2,349.3,256.2,349.3z"/>
+			<g>
+				<text transform="matrix(0.6511 -0.759 0.759 0.6511 232.846 376.6278)" class="st0 st3 st362">Streptococcus sp. CM6</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.3,349.3l-23.4,27.3c0,0,0.1,0.1,0.1,0.1L256.3,349.3C256.3,349.4,256.3,349.4,256.3,349.3z"/>
+			<g>
+				<text transform="matrix(0.6505 -0.7595 0.7595 0.6505 232.9473 376.7148)" class="st0 st3 st363">Streptococcus sp. SR1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.4,349.4L233,376.7c0,0,0.1,0.1,0.1,0.1L256.4,349.4C256.4,349.4,256.4,349.4,256.4,349.4z"/>
+			<g>
+				<text transform="matrix(0.65 -0.7599 0.7599 0.65 233.0419 376.7956)" class="st0 st3 st364">Streptococcus sp. SK643</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.4,349.5L233,376.8c0,0,0,0,0.1,0.1L256.4,349.5C256.5,349.5,256.5,349.5,256.4,349.5z"/>
+			<g>
+				<text transform="matrix(0.6495 -0.7603 0.7603 0.6495 233.1125 376.8672)" class="st0 st3 st365">Streptococcus symci</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.5,349.5l-23.4,27.4c0,0,0,0,0.1,0.1L256.5,349.5C256.5,349.5,256.5,349.5,256.5,349.5z"/>
+			<g>
+				<text transform="matrix(0.6492 -0.7606 0.7606 0.6492 233.1779 376.9215)" class="st0 st3 st366">Streptococcus sp. AN2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.5,349.6l-23.4,27.4c0,0,0,0,0.1,0L256.5,349.6C256.6,349.6,256.6,349.6,256.5,349.6z"/>
+			<g>
+				<text transform="matrix(0.6488 -0.7609 0.7609 0.6488 233.2298 376.9719)" class="st0 st3 st367">Streptococcus azizii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.6,349.6L233.2,377c0,0,0,0,0,0L256.6,349.6C256.6,349.6,256.6,349.6,256.6,349.6z"/>
+			<g>
+				<text transform="matrix(0.6486 -0.7611 0.7611 0.6486 233.2742 377.0105)" class="st0 st3 st368">Streptococcus sp. NM</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M256.6,349.6L233.3,377c0,0,0,0,0,0L256.6,349.6C256.6,349.6,256.6,349.6,256.6,349.6z"/>
+			<g>
+				<text transform="matrix(0.6484 -0.7613 0.7613 0.6484 233.29 377.0305)" class="st0 st3 st369">Streptococcus sp. HMSC077D04</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M256.6,349.6L233.3,377c4.3,3.7,8.8,7.1,13.4,10.4l20.7-29.5C263.6,355.3,260.1,352.6,256.6,349.6z"/>
+			<g>
+				<text transform="matrix(0.6119 -0.7909 0.7909 0.6119 241.2444 382.6682)" class="st0 st3 st371">Enterococcus mundtii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M267.3,357.9l-20.7,29.5c2.6,1.8,5.2,3.6,7.9,5.3l19.1-30.5C271.5,360.8,269.4,359.4,267.3,357.9z"/>
+			<g>
+				<text transform="matrix(0.5522 -0.8337 0.8337 0.5522 251.4214 389.8863)" class="st0 st3 st372">Enterococcus faecium (Streptococcus faecium)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M273.7,362.1l-19.1,30.5c1.5,0.9,3,1.8,4.5,2.7l18.2-31.1C276.1,363.6,274.9,362.9,273.7,362.1z"/>
+			<g>
+				<text transform="matrix(0.5176 -0.8556 0.8556 0.5176 257.6598 393.8081)" class="st0 st3 st373">Enterococcus faecalis (Streptococcus faecalis)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M277.3,364.3l-18.2,31.1c0.9,0.5,1.8,1,2.6,1.5l17.7-31.4C278.7,365.1,278,364.7,277.3,364.3z"/>
+			<g>
+				<text transform="matrix(0.4977 -0.8673 0.8673 0.4977 261.3387 396.192)" class="st0 st3 st374">Enterococcus termitis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M279.4,365.5l-17.7,31.4c0.9,0.5,1.7,1,2.6,1.4l17.1-31.7C280.8,366.3,280.1,365.9,279.4,365.5z"/>
+			<g>
+				<text transform="matrix(0.4832 -0.8755 0.8755 0.4832 263.9243 397.6012)" class="st0 st3 st375">Enterococcus plantarum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M281.4,366.6l-17.1,31.7c0.8,0.5,1.7,0.9,2.5,1.3l16.6-31.9C282.8,367.4,282.1,367,281.4,366.6z"/>
+			<g>
+				<text transform="matrix(0.4691 -0.8831 0.8831 0.4691 266.4425 398.992)" class="st0 st3 st376">Enterococcus rivorum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M283.5,367.7l-16.6,31.9c0.4,0.2,0.8,0.4,1.2,0.6l16.4-32.1C284.1,368,283.8,367.9,283.5,367.7z"/>
+			<g>
+				<text transform="matrix(0.4586 -0.8886 0.8886 0.4586 267.9209 399.9321)" class="st0 st3 st377">Enterococcus quebecensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M284.5,368.2l-16.4,32.1c0.4,0.2,0.8,0.4,1.2,0.6l16.1-32.2C285.1,368.5,284.8,368.4,284.5,368.2z"/>
+			<g>
+				<text transform="matrix(0.4518 -0.8921 0.8921 0.4518 269.1477 400.5248)" class="st0 st3 st378">Catellicoccus marimammalium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M285.4,368.7l-16.1,32.2c0.4,0.2,0.8,0.4,1.2,0.6l15.9-32.3C286.1,369,285.7,368.9,285.4,368.7z"/>
+			<g>
+				<text transform="matrix(0.4451 -0.8955 0.8955 0.4451 270.3307 401.1309)" class="st0 st3 st379">Vagococcus salmoninarum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M286.4,369.2l-15.9,32.3c0.4,0.2,0.8,0.4,1.2,0.6l15.7-32.4C287,369.5,286.7,369.3,286.4,369.2z"/>
+			<g>
+				<text transform="matrix(0.4387 -0.8987 0.8987 0.4387 271.4861 401.7035)" class="st0 st3 st380">Enterococcus sp. NBRC 3427</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M287.3,369.6L271.6,402c0.4,0.2,0.8,0.4,1.1,0.5l15.5-32.5C287.9,369.9,287.6,369.8,287.3,369.6z"/>
+			<g>
+				<text transform="matrix(0.4323 -0.9017 0.9017 0.4323 272.6241 402.2286)" class="st0 st3 st381">Enterococcus sp. 10F3_DIV0382</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M288.2,370.1l-15.5,32.5c0.4,0.2,0.8,0.4,1.1,0.5l15.2-32.6C288.8,370.3,288.5,370.2,288.2,370.1z"/>
+			<g>
+				<text transform="matrix(0.426 -0.9047 0.9047 0.426 273.7719 402.7056)" class="st0 st3 st382">Enterococcus sp. (strain 3G1_DIV0629)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M289.1,370.5l-15.2,32.6c0.4,0.2,0.7,0.3,1.1,0.5l15-32.7C289.7,370.8,289.4,370.6,289.1,370.5z"/>
+			<g>
+				<text transform="matrix(0.4198 -0.9076 0.9076 0.4198 274.8267 403.3703)" class="st0 st3 st383">Enterococcus caccae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M290,370.9l-15,32.7c0.3,0.1,0.6,0.3,0.9,0.4l14.8-32.8C290.5,371.1,290.2,371,290,370.9z"/>
+			<g>
+				<text transform="matrix(0.4143 -0.9101 0.9101 0.4143 275.7609 403.7639)" class="st0 st3 st384">Enterococcus haemoperoxidus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M290.7,371.2L275.9,404c0.3,0.1,0.6,0.3,0.9,0.4l14.7-32.9C291.2,371.4,290.9,371.3,290.7,371.2z"/>
+			<g>
+				<text transform="matrix(0.4095 -0.9123 0.9123 0.4095 276.6174 404.222)" class="st0 st3 st385">Enterococcus hirae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M291.4,371.5l-14.7,32.9c0.3,0.1,0.5,0.2,0.8,0.3l14.5-33C291.8,371.7,291.6,371.6,291.4,371.5z"/>
+			<g>
+				<text transform="matrix(0.4049 -0.9144 0.9144 0.4049 277.4124 404.5262)" class="st0 st3 st386">Enterococcus sp. 7F3_DIV0205</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M292,371.8l-14.5,33c0.2,0.1,0.4,0.2,0.6,0.3l14.4-33C292.3,372,292.2,371.9,292,371.8z"/>
+			<g>
+				<text transform="matrix(0.401 -0.9161 0.9161 0.401 278.0665 404.8396)" class="st0 st3 st387">Enterococcus sp. 3H8_DIV0648</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M292.5,372l-14.4,33c0.1,0.1,0.3,0.1,0.4,0.2l14.3-33C292.7,372.1,292.6,372.1,292.5,372z"/>
+			<g>
+				<text transform="matrix(0.3982 -0.9173 0.9173 0.3982 278.4732 405.1193)" class="st0 st3 st388">Enterococcus rotai</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M292.8,372.2l-14.3,33c0.1,0,0.2,0.1,0.3,0.1l14.2-33.1C293,372.2,292.9,372.2,292.8,372.2z"/>
+			<g>
+				<text transform="matrix(0.3964 -0.9181 0.9181 0.3964 278.7578 405.249)" class="st0 st3 st389">Enterococcus ureasiticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293,372.3l-14.2,33.1c0.1,0,0.2,0.1,0.2,0.1l14.2-33.1C293.2,372.3,293.1,372.3,293,372.3z"/>
+			<g>
+				<text transform="matrix(0.395 -0.9187 0.9187 0.395 279.0006 405.3525)" class="st0 st3 st390">Enterococcus moraviensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.2,372.3L279,405.4c0.1,0,0.1,0,0.2,0.1l14.2-33.1C293.3,372.4,293.3,372.4,293.2,372.3z"/>
+			<g>
+				<text transform="matrix(0.3938 -0.9192 0.9192 0.3938 279.1778 405.4351)" class="st0 st3 st391">Enterococcus sp. 12C11_DIV0727</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.4,372.4l-14.2,33.1c0.1,0,0.1,0,0.2,0.1l14.1-33.1C293.4,372.4,293.4,372.4,293.4,372.4z"/>
+			<g>
+				<text transform="matrix(0.3929 -0.9196 0.9196 0.3929 279.3272 405.5211)" class="st0 st3 st392">Enterococcus ratti</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.5,372.4l-14.1,33.1c0,0,0.1,0,0.1,0.1l14.1-33.1C293.6,372.5,293.5,372.5,293.5,372.4z"/>
+			<g>
+				<text transform="matrix(0.3921 -0.9199 0.9199 0.3921 279.4765 405.5807)" class="st0 st3 st393">Enterococcus ureilyticus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.6,372.5l-14.1,33.1c0,0,0.1,0,0.1,0.1l14.1-33.1C293.7,372.5,293.6,372.5,293.6,372.5z"/>
+			<g>
+				<text transform="matrix(0.3913 -0.9203 0.9203 0.3913 279.614 405.6414)" class="st0 st3 st394">Enterococcus silesiacus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.7,372.5l-14.1,33.1c0,0,0.1,0,0.1,0L293.7,372.5C293.8,372.6,293.7,372.6,293.7,372.5z"/>
+			<g>
+				<text transform="matrix(0.3906 -0.9206 0.9206 0.3906 279.7344 405.6926)" class="st0 st3 st395">Enterococcus malodoratus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.8,372.6l-14.1,33.1c0,0,0,0,0,0L293.8,372.6C293.8,372.6,293.8,372.6,293.8,372.6z"/>
+			<g>
+				<text transform="matrix(0.3902 -0.9207 0.9207 0.3902 279.7878 405.7291)" class="st0 st3 st396">Enterococcus sp. 7D2_DIV0200</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.8,372.6l-14,33.1c0,0,0,0,0,0L293.8,372.6C293.9,372.6,293.8,372.6,293.8,372.6z"/>
+			<g>
+				<text transform="matrix(0.3899 -0.9208 0.9208 0.3899 279.8326 405.749)" class="st0 st3 st397">Enterococcus sp. 4G2_DIV0659</text>
+			</g>
+		</g>
+		<g>
+			<path class="st370" d="M293.9,372.6l-14,33.2c0,0,0,0,0,0L293.9,372.6C293.9,372.6,293.9,372.6,293.9,372.6z"/>
+			<g>
+				<text transform="matrix(0.3897 -0.921 0.921 0.3897 279.8756 405.7668)" class="st0 st3 st398">Enterococcus sp. 7E2_DIV0204</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M293.9,372.6l-14,33.2c2.5,1,4.9,2,7.5,3l12.5-33.7C297.9,374.2,295.9,373.5,293.9,372.6z"/>
+			<g>
+				<text transform="matrix(0.3689 -0.9295 0.9295 0.3689 284.8372 407.1152)" class="st6 st3 st400">Latilactobacillus graminis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M299.9,375l-12.5,33.7c1.9,0.7,3.8,1.4,5.6,2l11.4-34.1C302.9,376.1,301.4,375.5,299.9,375z"/>
+			<g>
+				<text transform="matrix(0.3325 -0.9431 0.9431 0.3325 291.4055 409.5528)" class="st6 st3 st401">Ligilactobacillus murinus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M304.4,376.6L293,410.7c1.6,0.5,3.2,1.1,4.9,1.5l10.4-34.5C307,377.4,305.7,377,304.4,376.6z"/>
+			<g>
+				<text transform="matrix(0.3034 -0.9529 0.9529 0.3034 296.8613 411.3667)" class="st6 st3 st402">Weissella oryzae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M308.3,377.8l-10.4,34.5c1.2,0.4,2.4,0.7,3.6,1.1l9.7-34.7C310.2,378.4,309.2,378.1,308.3,377.8z"/>
+			<g>
+				<text transform="matrix(0.2797 -0.9601 0.9601 0.2797 300.6414 412.4712)" class="st6 st3 st403">Limosilactobacillus equigenerosi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M311.2,378.7l-9.7,34.7c0.8,0.2,1.7,0.5,2.5,0.7l9.2-34.8C312.5,379,311.8,378.9,311.2,378.7z"/>
+			<g>
+				<text transform="matrix(0.2626 -0.9649 0.9649 0.2626 303.5306 413.5851)" class="st6 st3 st404">Lactobacillus casei</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M313.2,379.2L304,414c0.8,0.2,1.6,0.4,2.4,0.6l8.7-34.9C314.5,379.6,313.8,379.4,313.2,379.2z"/>
+			<g>
+				<text transform="matrix(0.2489 -0.9685 0.9685 0.2489 305.8857 413.8612)" class="st6 st3 st405">Latilactobacillus curvatus (Lactobacillus curvatus)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M315.1,379.7l-8.7,34.9c0.8,0.2,1.5,0.4,2.3,0.6l8.3-35C316.3,380,315.7,379.9,315.1,379.7z"/>
+			<g>
+				<text transform="matrix(0.2359 -0.9718 0.9718 0.2359 308.2654 414.6967)" class="st6 st3 st406">Latilactobacillus fuchuensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M317,380.2l-8.3,35c0.7,0.2,1.5,0.3,2.2,0.5l7.8-35.1C318.1,380.4,317.5,380.3,317,380.2z"/>
+			<g>
+				<text transform="matrix(0.2233 -0.9748 0.9748 0.2233 310.5151 415.3583)" class="st6 st3 st407">Lactobacillus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M318.7,380.6l-7.8,35.1c0.7,0.2,1.5,0.3,2.2,0.5l7.4-35.2C319.9,380.8,319.3,380.7,318.7,380.6z"/>
+			<g>
+				<text transform="matrix(0.2109 -0.9775 0.9775 0.2109 312.7363 415.7394)" class="st6 st3 st408">Ligilactobacillus pobuzihii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M320.5,381l-7.4,35.2c0.6,0.1,1.1,0.2,1.7,0.3l7-35.3C321.4,381.1,321,381,320.5,381z"/>
+			<g>
+				<text transform="matrix(0.2001 -0.9798 0.9798 0.2001 314.523 416.2288)" class="st6 st3 st409">Weissella muntiaci</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M321.9,381.2l-7,35.3c0.5,0.1,0.9,0.2,1.4,0.3l6.8-35.4C322.6,381.4,322.2,381.3,321.9,381.2z"/>
+			<g>
+				<text transform="matrix(0.1916 -0.9815 0.9815 0.1916 315.9834 416.3691)" class="st6 st3 st410">Lacticaseibacillus zeae (Lactobacillus zeae)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M323,381.4l-6.8,35.4c0.4,0.1,0.9,0.2,1.3,0.2l6.5-35.4C323.7,381.6,323.3,381.5,323,381.4z"/>
+			<g>
+				<text transform="matrix(0.184 -0.9829 0.9829 0.184 317.3168 416.7174)" class="st6 st3 st411">Companilactobacillus salsicarnum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M324,381.6l-6.5,35.4c0.4,0.1,0.9,0.2,1.3,0.2l6.2-35.5C324.7,381.8,324.4,381.7,324,381.6z"/>
+			<g>
+				<text transform="matrix(0.1766 -0.9843 0.9843 0.1766 318.6326 417.0109)" class="st6 st3 st412">Ligilactobacillus salivarius</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M325.1,381.8l-6.2,35.5c0.4,0.1,0.9,0.1,1.3,0.2l6-35.5C325.8,381.9,325.4,381.9,325.1,381.8z"/>
+			<g>
+				<text transform="matrix(0.1694 -0.9855 0.9855 0.1694 319.9244 417.2419)" class="st6 st3 st413">Furfurilactobacillus rossiae</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M326.1,382l-6,35.5c0.4,0.1,0.9,0.1,1.3,0.2l5.7-35.5C326.8,382.1,326.5,382.1,326.1,382z"/>
+			<g>
+				<text transform="matrix(0.1622 -0.9868 0.9868 0.1622 321.2096 417.4567)" class="st6 st3 st414">Bombilactobacillus mellifer</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M327.2,382.2l-5.7,35.5c0.4,0.1,0.8,0.1,1.2,0.2l5.5-35.6C327.8,382.3,327.5,382.2,327.2,382.2z"/>
+			<g>
+				<text transform="matrix(0.1554 -0.9878 0.9878 0.1554 322.3975 417.6375)" class="st6 st3 st415">Schleiferilactobacillus perolens</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M328.1,382.3l-5.5,35.6c0.3,0,0.6,0.1,1,0.1l5.3-35.6C328.6,382.4,328.3,382.4,328.1,382.3z"/>
+			<g>
+				<text transform="matrix(0.1495 -0.9888 0.9888 0.1495 323.4065 417.8635)" class="st6 st3 st416">Pediococcus acidilactici</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M328.9,382.4l-5.3,35.6c0.2,0,0.5,0.1,0.7,0.1l5.1-35.6C329.2,382.5,329,382.5,328.9,382.4z"/>
+			<g>
+				<text transform="matrix(0.1448 -0.9895 0.9895 0.1448 324.1633 417.9985)" class="st6 st3 st417">Ligilactobacillus salitolerans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M329.4,382.5l-5.1,35.6c0.1,0,0.3,0,0.4,0.1l5.1-35.6C329.6,382.6,329.5,382.5,329.4,382.5z"/>
+			<g>
+				<text transform="matrix(0.1418 -0.9899 0.9899 0.1418 324.5969 418.1307)" class="st6 st3 st418">Liquorilactobacillus hordei</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M329.7,382.6l-5.1,35.6c0.1,0,0.2,0,0.3,0l5-35.7C329.9,382.6,329.8,382.6,329.7,382.6z"/>
+			<g>
+				<text transform="matrix(0.1399 -0.9902 0.9902 0.1399 324.9168 418.1927)" class="st6 st3 st419">Lactobacillus rodentium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st399" d="M330,382.6l-5,35.7c0.1,0,0.2,0,0.3,0l5-35.7C330.1,382.6,330,382.6,330,382.6z"/>
+			<g>
+				<text transform="matrix(0.1383 -0.9904 0.9904 0.1383 325.1927 418.2368)" class="st6 st3 st420">Liquorilactobacillus mali</text>
+			</g>
+		</g>
+		<g>
+			<path class="st421" d="M330.2,382.6l-5,35.7c2.8,0.4,5.6,0.7,8.4,1l3.3-35.9C334.7,383.2,332.4,382.9,330.2,382.6z"/>
+			<g>
+				<text transform="matrix(0.1142 -0.9935 0.9935 0.1142 330.0294 418.2709)" class="st6 st3 st422">Carnobacterium divergens (Lactobacillus divergens)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st421" d="M336.9,383.4l-3.3,35.9c0.4,0,0.9,0.1,1.3,0.1l3-35.9C337.6,383.5,337.3,383.4,336.9,383.4z"/>
+			<g>
+				<text transform="matrix(8.722777e-02 -0.9962 0.9962 8.722777e-02 334.7068 419.1961)" class="st6 st3 st423">Isobaculum melis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st421" d="M338,383.5l-3,35.9c0.2,0,0.4,0,0.6,0.1l2.9-35.9C338.3,383.5,338.1,383.5,338,383.5z"/>
+			<g>
+				<text transform="matrix(8.188272e-02 -0.9966 0.9966 8.188272e-02 335.4581 419.3115)" class="st6 st3 st424">Granulicatella adiacens</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M338.5,383.5l-2.9,35.9c7.7,0.6,15.4,0.7,23.1,0.4l-1.7-36C350.8,384.1,344.6,384,338.5,383.5z"/>
+			<g>
+				<text transform="matrix(1.607375e-02 -0.9999 0.9999 1.607375e-02 348.1217 419.3625)" class="st0 st3 st426">Lachnospiraceae bacterium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M356.9,383.8l1.7,36c2.1-0.1,4.3-0.2,6.4-0.4l-3-35.9C360.4,383.6,358.6,383.8,356.9,383.8z"/>
+			<g>
+				<text transform="matrix(6.597514e-02 0.9978 -0.9978 6.597514e-02 358.2873 384.3717)" class="st0 st3 st427">[Eubacterium] rectale</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M362.1,383.5l3,35.9c1.6-0.1,3.3-0.3,4.9-0.5l-4-35.8C364.7,383.3,363.4,383.4,362.1,383.5z"/>
+			<g>
+				<text transform="matrix(9.752006e-02 0.9952 -0.9952 9.752006e-02 362.8687 384.0613)" class="st0 st3 st428">Ruminococcus gnavus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M366,383.1l4,35.8c1.6-0.2,3.1-0.4,4.7-0.6l-4.9-35.7C368.5,382.8,367.3,383,366,383.1z"/>
+			<g>
+				<text transform="matrix(0.1243 0.9922 -0.9922 0.1243 366.8163 383.7011)" class="st0 st3 st429">Roseburia inulinivorans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M369.8,382.6l4.9,35.7c1.3-0.2,2.5-0.4,3.8-0.6l-5.7-35.5C371.8,382.3,370.8,382.5,369.8,382.6z"/>
+			<g>
+				<text transform="matrix(0.1479 0.989 -0.989 0.1479 370.649 383.137)" class="st0 st3 st430">Lachnospiraceae bacterium XPB1003</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M372.8,382.2l5.7,35.5c1.3-0.2,2.5-0.4,3.7-0.6l-6.4-35.4C374.8,381.9,373.8,382,372.8,382.2z"/>
+			<g>
+				<text transform="matrix(0.1687 0.9857 -0.9857 0.1687 373.7365 382.641)" class="st0 st3 st431">Anaerosacchariphilus polymeriproducens</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M375.8,381.7l6.4,35.4c0.9-0.2,1.7-0.3,2.6-0.5l-7-35.3C377.2,381.4,376.5,381.5,375.8,381.7z"/>
+			<g>
+				<text transform="matrix(0.1863 0.9825 -0.9825 0.1863 376.8389 385.202)" class="st0 st3 st432">Lachnospiraceae bacterium XBB2008</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M377.8,381.3l7,35.3c0.7-0.1,1.5-0.3,2.2-0.5l-7.4-35.2C379,381,378.4,381.2,377.8,381.3z"/>
+			<g>
+				<text transform="matrix(0.1996 0.9799 -0.9799 0.1996 381.9663 400.2195)" class="st0 st3 st433">Coprococcus comes</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M379.6,380.9l7.4,35.2c0.7-0.1,1.3-0.3,2-0.4l-7.8-35.1C380.7,380.7,380.2,380.8,379.6,380.9z"/>
+			<g>
+				<text transform="matrix(0.2114 0.9774 -0.9774 0.2114 384.205 400.9562)" class="st0 st3 st434">Butyrivibrio sp. M55</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M381.2,380.6l7.8,35.1c0.7-0.1,1.3-0.3,2-0.5l-8.2-35.1C382.3,380.3,381.8,380.5,381.2,380.6z"/>
+			<g>
+				<text transform="matrix(0.2225 0.9749 -0.9749 0.2225 385.8051 399.5114)" class="st0 st3 st435">Coprococcus eutactus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M382.8,380.2l8.2,35.1c0.6-0.1,1.2-0.3,1.8-0.4l-8.6-35C383.8,380,383.3,380.1,382.8,380.2z"/>
+			<g>
+				<text transform="matrix(0.2331 0.9724 -0.9724 0.2331 386.5842 394.8457)" class="st0 st3 st436">Mobilisporobacter senegalensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M384.3,379.9l8.6,35c0.6-0.1,1.2-0.3,1.8-0.4l-8.9-34.9C385.2,379.6,384.8,379.7,384.3,379.9z"/>
+			<g>
+				<text transform="matrix(0.243 0.97 -0.97 0.243 389.5114 399.8481)" class="st0 st3 st437">Dorea formicigenerans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M385.7,379.5l8.9,34.9c0.6-0.1,1.2-0.3,1.7-0.5l-9.3-34.8C386.6,379.3,386.2,379.4,385.7,379.5z"/>
+			<g>
+				<text transform="matrix(0.2527 0.9675 -0.9675 0.2527 389.4212 392.8792)" class="st0 st3 st438">Lachnospiraceae bacterium KH1T2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M387.1,379.1l9.3,34.8c0.5-0.1,1-0.3,1.5-0.4l-9.6-34.7C387.9,378.9,387.5,379,387.1,379.1z"/>
+			<g>
+				<text transform="matrix(0.2618 0.9651 -0.9651 0.2618 392.3855 398.0099)" class="st0 st3 st439">Pseudobutyrivibrio sp. YE44</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M388.3,378.8l9.6,34.7c0.4-0.1,0.9-0.2,1.3-0.4l-9.8-34.6C389,378.6,388.6,378.7,388.3,378.8z"/>
+			<g>
+				<text transform="matrix(0.2696 0.963 -0.963 0.2696 395.9951 405.7997)" class="st0 st3 st440">Butyrivibrio sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M389.3,378.5l9.8,34.6c0.4-0.1,0.8-0.2,1.3-0.4l-10.1-34.6C390,378.3,389.7,378.4,389.3,378.5z"/>
+			<g>
+				<text transform="matrix(0.2767 0.961 -0.961 0.2767 396.3143 402.2835)" class="st0 st3 st441">Anaerostipes sp. 992a</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M390.3,378.2l10.1,34.6c0.4-0.1,0.8-0.2,1.3-0.4l-10.3-34.5C391,378,390.7,378.1,390.3,378.2z"/>
+			<g>
+				<text transform="matrix(0.2837 0.9589 -0.9589 0.2837 395.5975 395.45)" class="st0 st3 st442">Lachnospiraceae bacterium KHCPX20</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M391.4,377.9l10.3,34.5c0.4-0.1,0.8-0.2,1.2-0.4l-10.6-34.4C392,377.7,391.7,377.8,391.4,377.9z"/>
+			<g>
+				<text transform="matrix(0.2905 0.9569 -0.9569 0.2905 399.1825 403.283)" class="st0 st3 st443">Roseburia sp. 40_7</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M392.3,377.6l10.6,34.4c0.4-0.1,0.8-0.2,1.2-0.4l-10.8-34.3C393,377.4,392.6,377.5,392.3,377.6z"/>
+			<g>
+				<text transform="matrix(0.2972 0.9548 -0.9548 0.2972 400.2307 402.6223)" class="st0 st3 st444">Blautia sp. AM28-10</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M393.3,377.3l10.8,34.3c0.4-0.1,0.8-0.3,1.2-0.4L394.2,377C393.9,377.1,393.6,377.2,393.3,377.3z"/>
+			<g>
+				<text transform="matrix(0.3038 0.9527 -0.9527 0.3038 401.5357 402.8271)" class="st0 st3 st445">Blautia sp. AM47-4</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M394.2,377l11.1,34.3c0.4-0.1,0.8-0.3,1.2-0.4l-11.3-34.2C394.9,376.8,394.5,376.9,394.2,377z"/>
+			<g>
+				<text transform="matrix(0.3104 0.9506 -0.9506 0.3104 402.3925 401.6295)" class="st0 st3 st446">Blautia sp. AF17-9LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M395.2,376.7l11.3,34.2c0.4-0.1,0.8-0.3,1.2-0.4l-11.5-34.1C395.8,376.5,395.5,376.6,395.2,376.7z"/>
+			<g>
+				<text transform="matrix(0.317 0.9484 -0.9484 0.317 401.1147 394.0488)" class="st0 st3 st208">Lachnospiraceae bacterium 7_1_58FAA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M396.1,376.4l11.5,34.1c0.4-0.1,0.7-0.3,1.1-0.4l-11.7-34C396.7,376.2,396.4,376.3,396.1,376.4z"/>
+			<g>
+				<text transform="matrix(0.3232 0.9463 -0.9463 0.3232 404.3409 400.158)" class="st0 st3 st447">[Ruminococcus] torques</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M397,376.1l11.7,34c0.4-0.1,0.7-0.3,1.1-0.4l-12-34C397.6,375.9,397.3,376,397,376.1z"/>
+			<g>
+				<text transform="matrix(0.3293 0.9442 -0.9442 0.3293 406.4461 402.8915)" class="st0 st3 st448">Tyzzerella nexilis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M397.9,375.8l12,34c0.4-0.1,0.7-0.3,1.1-0.4l-12.2-33.9C398.4,375.6,398.1,375.7,397.9,375.8z"/>
+			<g>
+				<text transform="matrix(0.3354 0.9421 -0.9421 0.3354 406.5953 400.0093)" class="st0 st3 st449">Roseburia sp. CAG:471</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M398.7,375.5l12.2,33.9c0.4-0.1,0.7-0.3,1.1-0.4l-12.4-33.8C399.3,375.3,399,375.4,398.7,375.5z"/>
+			<g>
+				<text transform="matrix(0.3413 0.9399 -0.9399 0.3413 408.2219 401.3341)" class="st0 st3 st450">Blautia sp. CAG:52</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M399.6,375.2L412,409c0.4-0.1,0.7-0.3,1.1-0.4l-12.6-33.7C400.2,375,399.9,375.1,399.6,375.2z"/>
+			<g>
+				<text transform="matrix(0.3473 0.9377 -0.9377 0.3473 408.7105 399.4984)" class="st0 st3 st451">Roseburia sp. AF02-12</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M400.4,374.9l12.6,33.7c0.4-0.1,0.7-0.3,1.1-0.4l-12.8-33.6C401,374.7,400.7,374.8,400.4,374.9z"/>
+			<g>
+				<text transform="matrix(0.3533 0.9355 -0.9355 0.3533 410.6896 401.6979)" class="st0 st3 st452">Blautia faecicola</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M401.3,374.6l12.8,33.6c0.4-0.1,0.7-0.3,1.1-0.4l-13-33.6C401.9,374.3,401.6,374.4,401.3,374.6z"/>
+			<g>
+				<text transform="matrix(0.3592 0.9333 -0.9333 0.3592 410.8513 399.0489)" class="st0 st3 st453">uncultured Blautia sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M402.2,374.2l13,33.6c0.4-0.1,0.7-0.3,1.1-0.4L403,373.9C402.7,374,402.4,374.1,402.2,374.2z"/>
+			<g>
+				<text transform="matrix(0.3651 0.931 -0.931 0.3651 411.023 396.511)" class="st0 st3 st454">uncultured Coprococcus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M403,373.9l13.3,33.5c0.4-0.1,0.7-0.3,1.1-0.4l-13.5-33.4C403.6,373.7,403.3,373.8,403,373.9z"/>
+			<g>
+				<text transform="matrix(0.371 0.9286 -0.9286 0.371 413.0254 398.6648)" class="st0 st3 st455">Lachnotalea glycerini</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M403.8,373.6l13.5,33.4c0.3-0.1,0.7-0.3,1-0.4l-13.7-33.3C404.4,373.3,404.1,373.4,403.8,373.6z"/>
+			<g>
+				<text transform="matrix(0.3768 0.9263 -0.9263 0.3768 412.9548 395.625)" class="st0 st3 st456">Pseudobutyrivibrio sp. OR37</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M404.7,373.2l13.7,33.3c0.3-0.1,0.7-0.3,1-0.4l-13.9-33.2C405.2,373,405,373.1,404.7,373.2z"/>
+			<g>
+				<text transform="matrix(0.3826 0.9239 -0.9239 0.3826 415.0195 397.9006)" class="st0 st3 st457">Porcincola intestinalis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M405.5,372.9l13.9,33.2c0.3-0.1,0.6-0.3,0.9-0.4l-14.1-33.1C406,372.7,405.8,372.8,405.5,372.9z"/>
+			<g>
+				<text transform="matrix(0.388 0.9216 -0.9216 0.388 415.7368 396.9259)" class="st0 st3 st458">Butyrivibrio sp. YAB3001</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M406.3,372.6l14.1,33.1c0.3-0.1,0.6-0.3,0.9-0.4L407,372.2C406.8,372.3,406.5,372.5,406.3,372.6z"/>
+			<g>
+				<text transform="matrix(0.3933 0.9194 -0.9194 0.3933 416.5673 396.4016)" class="st0 st3 st459">Oribacterium sp. KHPX15</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M407,372.2l14.3,33.1c0.3-0.1,0.6-0.3,0.9-0.4l-14.4-33C407.5,372,407.3,372.1,407,372.2z"/>
+			<g>
+				<text transform="matrix(0.3985 0.9172 -0.9172 0.3985 417.3909 395.8719)" class="st0 st3 st460">Coprococcus sp. CAG:131</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M407.8,371.9l14.4,33c0.3-0.1,0.6-0.3,0.9-0.4l-14.6-32.9C408.3,371.7,408,371.8,407.8,371.9z"/>
+			<g>
+				<text transform="matrix(0.4037 0.9149 -0.9149 0.4037 418.1298 395.1604)" class="st0 st3 st461">Coprococcus sp. BIOML-A2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M408.5,371.6l14.6,32.9c0.3-0.1,0.6-0.3,0.9-0.4l-14.8-32.8C409,371.4,408.8,371.5,408.5,371.6z"/>
+			<g>
+				<text transform="matrix(0.4089 0.9126 -0.9126 0.4089 419.4356 395.7321)" class="st0 st3 st462">Coprococcus sp. AF16-5</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M409.2,371.2l14.8,32.8c0.3-0.1,0.6-0.3,0.9-0.4l-15-32.7C409.7,371,409.5,371.1,409.2,371.2z"/>
+			<g>
+				<text transform="matrix(0.414 0.9103 -0.9103 0.414 420.321 395.3513)" class="st0 st3 st463">Coprococcus sp. AF38-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M410,370.9l15,32.7c0.3-0.1,0.6-0.3,0.9-0.4l-15.2-32.6C410.5,370.7,410.2,370.8,410,370.9z"/>
+			<g>
+				<text transform="matrix(0.4191 0.9079 -0.9079 0.4191 420.4693 393.3693)" class="st0 st3 st464">Coprococcus sp. OM06-34AC</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M410.7,370.6l15.2,32.6c0.3-0.1,0.6-0.3,0.9-0.4l-15.4-32.6C411.2,370.4,411,370.5,410.7,370.6z"/>
+			<g>
+				<text transform="matrix(0.4241 0.9056 -0.9056 0.4241 422.446 395.3862)" class="st0 st3 st465">Roseburia sp. CAG:197</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M411.4,370.3l15.4,32.6c0.3-0.1,0.6-0.3,0.8-0.4l-15.5-32.5C411.9,370,411.6,370.1,411.4,370.3z"/>
+			<g>
+				<text transform="matrix(0.4288 0.9034 -0.9034 0.4288 422.283 392.9456)" class="st0 st3 st466">Lachnospiraceae bacterium C7</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M412.1,369.9l15.5,32.5c0.3-0.1,0.6-0.3,0.8-0.4l-15.7-32.4C412.5,369.7,412.3,369.8,412.1,369.9z"/>
+			<g>
+				<text transform="matrix(0.4334 0.9012 -0.9012 0.4334 424.1769 394.8939)" class="st0 st3 st467">Lachnobacterium bovis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M412.7,369.6l15.7,32.4c0.2-0.1,0.5-0.2,0.7-0.3l-15.8-32.3C413.1,369.4,412.9,369.5,412.7,369.6z"/>
+			<g>
+				<text transform="matrix(0.4377 0.8991 -0.8991 0.4377 426.4698 397.6597)" class="st0 st3 st468">Bilifractor porci</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M413.3,369.3l15.8,32.3c0.2-0.1,0.5-0.2,0.7-0.3l-16-32.3C413.7,369.2,413.5,369.2,413.3,369.3z"/>
+			<g>
+				<text transform="matrix(0.4416 0.8972 -0.8972 0.4416 424.9991 392.9155)" class="st0 st3 st469">Lachnospiraceae bacterium TB5</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M413.9,369.1l16,32.3c0.2-0.1,0.4-0.2,0.6-0.3l-16.1-32.2C414.2,368.9,414,369,413.9,369.1z"/>
+			<g>
+				<text transform="matrix(0.4451 0.8955 -0.8955 0.4451 425.7552 392.8299)" class="st0 st3 st470">Lachnospiraceae bacterium 3_1_46FAA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M414.3,368.8l16.1,32.2c0.2-0.1,0.4-0.2,0.5-0.3l-16.2-32.2C414.6,368.7,414.5,368.8,414.3,368.8z"/>
+			<g>
+				<text transform="matrix(0.4481 0.894 -0.894 0.4481 428.6582 397.3297)" class="st0 st3 st471">Epulopiscium sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M414.8,368.6l16.2,32.2c0.2-0.1,0.4-0.2,0.5-0.3l-16.3-32.1C415,368.5,414.9,368.5,414.8,368.6z"/>
+			<g>
+				<text transform="matrix(0.4512 0.8924 -0.8924 0.4512 426.8919 392.5002)" class="st0 st3 st472">Lachnospiraceae bacterium 1_1_57FAA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M415.2,368.4l16.3,32.1c0.2-0.1,0.4-0.2,0.5-0.3l-16.4-32C415.5,368.3,415.3,368.3,415.2,368.4z"/>
+			<g>
+				<text transform="matrix(0.4541 0.8909 -0.8909 0.4541 428.2127 393.8382)" class="st0 st3 st473">Pseudobutyrivibrio xylanivorans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M415.6,368.2l16.4,32c0.2-0.1,0.3-0.2,0.5-0.3L416,368C415.9,368,415.7,368.1,415.6,368.2z"/>
+			<g>
+				<text transform="matrix(0.4571 0.8894 -0.8894 0.4571 429.3218 394.7534)" class="st0 st3 st474">Roseburia sp. OM04-10AA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M416,368l16.5,32c0.2-0.1,0.3-0.2,0.5-0.3l-16.6-31.9C416.3,367.8,416.2,367.9,416,368z"/>
+			<g>
+				<text transform="matrix(0.46 0.8879 -0.8879 0.46 429.832 394.5009)" class="st0 st3 st475">Roseburia sp. OM04-15AA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M416.4,367.8l16.6,31.9c0.2-0.1,0.3-0.2,0.5-0.3l-16.7-31.9C416.7,367.6,416.6,367.7,416.4,367.8z"/>
+			<g>
+				<text transform="matrix(0.4629 0.8864 -0.8864 0.4629 430.4434 394.4417)" class="st0 st3 st476">Roseburia sp. AF12-17LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M416.9,367.5l16.7,31.9c0.2-0.1,0.3-0.2,0.5-0.3l-16.8-31.8C417.1,367.4,417,367.5,416.9,367.5z"/>
+			<g>
+				<text transform="matrix(0.4658 0.8849 -0.8849 0.4658 431.2107 394.6793)" class="st0 st3 st473">Roseburia sp. AF15-21</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M417.3,367.3l16.8,31.8c0.2-0.1,0.3-0.2,0.5-0.3l-16.9-31.8C417.6,367.2,417.4,367.2,417.3,367.3z"/>
+			<g>
+				<text transform="matrix(0.4686 0.8834 -0.8834 0.4686 431.4745 393.9631)" class="st0 st3 st477">Roseburia sp. AF25-15LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M417.7,367.1l16.9,31.8c0.2-0.1,0.3-0.2,0.5-0.3l-17-31.7C418,367,417.8,367,417.7,367.1z"/>
+			<g>
+				<text transform="matrix(0.4715 0.8819 -0.8819 0.4715 431.9768 393.7066)" class="st0 st3 st478">Roseburia sp. AF25-13LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M418.1,366.9l17,31.7c0.2-0.1,0.3-0.2,0.5-0.3l-17.1-31.7C418.4,366.7,418.2,366.8,418.1,366.9z"/>
+			<g>
+				<text transform="matrix(0.4743 0.8803 -0.8803 0.4743 432.4765 393.4465)" class="st0 st3 st479">Roseburia sp. AF25-25LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M418.5,366.7l17.1,31.7c0.2-0.1,0.3-0.2,0.5-0.3l-17.2-31.6C418.8,366.5,418.6,366.6,418.5,366.7z"/>
+			<g>
+				<text transform="matrix(0.4772 0.8788 -0.8788 0.4772 434.2303 395.5055)" class="st0 st3 st480">Roseburia sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M418.9,366.4l17.2,31.6c0.2-0.1,0.3-0.2,0.5-0.3l-17.3-31.6C419.2,366.3,419,366.4,418.9,366.4z"/>
+			<g>
+				<text transform="matrix(0.48 0.8773 -0.8773 0.48 433.481 392.9486)" class="st0 st3 st481">Roseburia sp. AF25-18LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M419.3,366.2l17.3,31.6c0.2-0.1,0.3-0.2,0.5-0.3L419.7,366C419.6,366.1,419.5,366.1,419.3,366.2z"/>
+			<g>
+				<text transform="matrix(0.4828 0.8757 -0.8757 0.4828 433.996 392.7298)" class="st0 st3 st482">Roseburia sp. AF20-18LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M419.7,366l17.4,31.5c0.2-0.1,0.3-0.2,0.5-0.3l-17.5-31.4C420,365.8,419.9,365.9,419.7,366z"/>
+			<g>
+				<text transform="matrix(0.4855 0.8742 -0.8742 0.4855 434.8816 393.1869)" class="st0 st3 st483">Roseburia sp. AF42-8</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M420.1,365.8l17.5,31.4c0.2-0.1,0.3-0.2,0.5-0.3l-17.6-31.4C420.4,365.6,420.2,365.7,420.1,365.8z"/>
+			<g>
+				<text transform="matrix(0.4883 0.8727 -0.8727 0.4883 435.7553 393.6157)" class="st0 st3 st484">Roseburia sp. 499</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M420.5,365.6l17.6,31.4c0.2-0.1,0.3-0.2,0.5-0.3l-17.7-31.3C420.8,365.4,420.6,365.5,420.5,365.6z"/>
+			<g>
+				<text transform="matrix(0.491 0.8711 -0.8711 0.491 436.1053 393.1154)" class="st0 st3 st485">Roseburia sp. 831b</text>
+			</g>
+		</g>
+		<g>
+			<path class="st425" d="M420.9,365.3l17.7,31.3c0.2-0.1,0.3-0.2,0.5-0.3l-17.8-31.3C421.2,365.2,421,365.3,420.9,365.3z"/>
+			<g>
+				<text transform="matrix(0.4937 0.8696 -0.8696 0.4937 436.0046 391.8261)" class="st0 st3 st486">uncultured Roseburia sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M421.3,365.1l17.8,31.3c3.5-2,6.9-4.1,10.2-6.3l-19.9-30C426.8,361.9,424.1,363.5,421.3,365.1z"/>
+			<g>
+				<text transform="matrix(0.5238 0.8519 -0.8519 0.5238 424.7925 363.7629)" class="st6 st3 st488">Clostridiaceae bacterium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M429.5,360.1l19.9,30c3.1-2,6.1-4.2,9.1-6.4L436.7,355C434.4,356.7,431.9,358.5,429.5,360.1z"/>
+			<g>
+				<text transform="matrix(0.5773 0.8165 -0.8165 0.5773 432.5304 358.759)" class="st6 st3 st489">Sarcina sp. DSM 11001</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M436.7,355l21.7,28.7c2.6-2,5.2-4,7.7-6.1l-23.2-27.5C440.9,351.8,438.8,353.4,436.7,355z"/>
+			<g>
+				<text transform="matrix(0.6237 0.7816 -0.7816 0.6237 438.2935 354.5875)" class="st6 st3 st490">Sarcina sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M442.9,350.1l23.2,27.5c1.4-1.2,2.7-2.3,4.1-3.6l-24-26.8C445,348.2,444,349.1,442.9,350.1z"/>
+			<g>
+				<text transform="matrix(0.6562 0.7546 -0.7546 0.6562 443.9573 349.9269)" class="st6 st3 st491">Clostridium botulinum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M446.1,347.2l24,26.8c0.9-0.8,1.8-1.6,2.7-2.5l-24.6-26.3C447.6,345.9,446.8,346.6,446.1,347.2z"/>
+			<g>
+				<text transform="matrix(0.675 0.7378 -0.7378 0.675 450.2661 351.0118)" class="st6 st3 st492">Clostridium sp. CAG:417</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M448.3,345.3l24.6,26.3c0.8-0.8,1.7-1.6,2.5-2.4l-25.1-25.8C449.6,344,448.9,344.6,448.3,345.3z"/>
+			<g>
+				<text transform="matrix(0.6894 0.7243 -0.7243 0.6894 456.8267 353.6177)" class="st6 st3 st493">Clostridium roseum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M450.3,343.3l25.1,25.8c0.8-0.8,1.7-1.6,2.5-2.5l-25.6-25.3C451.6,342,451,342.7,450.3,343.3z"/>
+			<g>
+				<text transform="matrix(0.7033 0.7109 -0.7109 0.7033 457.42 349.9045)" class="st6 st3 st494">Clostridium felsineum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M452.3,341.4l25.6,25.3c0.8-0.8,1.5-1.5,2.3-2.3l-26-24.9C453.5,340.1,452.9,340.8,452.3,341.4z"/>
+			<g>
+				<text transform="matrix(0.7165 0.6976 -0.6976 0.7165 456.8546 345.2243)" class="st6 st3 st495">Clostridium acetobutylicum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M454.1,339.5l26,24.9c0.7-0.8,1.5-1.6,2.2-2.4l-26.5-24.4C455.3,338.3,454.7,338.9,454.1,339.5z"/>
+			<g>
+				<text transform="matrix(0.729 0.6846 -0.6846 0.729 464.2374 348.507)" class="st6 st3 st496">Clostridium sp. NJ4</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M455.9,337.6l26.5,24.4c0.7-0.8,1.4-1.6,2.1-2.3l-26.9-23.9C457,336.4,456.4,337,455.9,337.6z"/>
+			<g>
+				<text transform="matrix(0.741 0.6715 -0.6715 0.741 469.7997 349.7751)" class="st6 st3 st497">Clostridium sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M457.6,335.8l26.9,23.9c0.7-0.7,1.3-1.5,2-2.2L459.1,334C458.6,334.6,458.1,335.2,457.6,335.8z"/>
+			<g>
+				<text transform="matrix(0.7524 0.6587 -0.6587 0.7524 464.4072 341.2317)" class="st6 st3 st498">uncultured Clostridium sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M459.1,334l27.3,23.5c0.6-0.7,1.2-1.4,1.8-2.1l-27.6-23.1C460.1,332.9,459.6,333.4,459.1,334z"/>
+			<g>
+				<text transform="matrix(0.7627 0.6467 -0.6467 0.7627 469.4486 342.2723)" class="st6 st3 st499">Clostridium sp. CAG:43</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M460.5,332.3l27.6,23.1c0.6-0.7,1.1-1.4,1.7-2l-28-22.7C461.4,331.2,461,331.8,460.5,332.3z"/>
+			<g>
+				<text transform="matrix(0.7723 0.6353 -0.6353 0.7723 471.861 341.2012)" class="st6 st3 st500">Clostridium sp. chh4-2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M461.9,330.7l28,22.7c0.5-0.6,0.9-1.2,1.4-1.8L463,329.3C462.6,329.7,462.3,330.2,461.9,330.7z"/>
+			<g>
+				<text transform="matrix(0.7808 0.6247 -0.6247 0.7808 474.0328 340.0437)" class="st6 st3 st501">Clostridium sartagoforme</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M463,329.3l28.2,22.3c0.5-0.6,0.9-1.2,1.4-1.8l-28.5-22C463.7,328.3,463.4,328.8,463,329.3z"/>
+			<g>
+				<text transform="matrix(0.7885 0.615 -0.615 0.7885 476.8537 339.7358)" class="st6 st3 st502">Clostridium disporicum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M464.1,327.9l28.5,22c0.5-0.6,0.9-1.2,1.3-1.8l-28.8-21.6C464.8,326.9,464.5,327.4,464.1,327.9z"/>
+			<g>
+				<text transform="matrix(0.796 0.6052 -0.6052 0.796 476.0033 336.5779)" class="st6 st3 st503">Clostridium paraputrificum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M465.2,326.4l28.8,21.6c0.4-0.5,0.8-1,1.1-1.5l-29-21.3C465.8,325.6,465.5,326,465.2,326.4z"/>
+			<g>
+				<text transform="matrix(0.8029 0.5962 -0.5962 0.8029 481.0297 337.9661)" class="st6 st3 st504">Clostridium sporogenes</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M466.1,325.2l29,21.3c0.4-0.5,0.7-1,1.1-1.5l-29.2-21C466.6,324.4,466.4,324.8,466.1,325.2z"/>
+			<g>
+				<text transform="matrix(0.809 0.5878 -0.5878 0.809 480.281 335.3091)" class="st6 st3 st505">Clostridium nexile CAG:348</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M466.9,324.1l29.2,21c0.3-0.5,0.7-1,1-1.4l-29.4-20.7C467.5,323.3,467.2,323.7,466.9,324.1z"/>
+			<g>
+				<text transform="matrix(0.8148 0.5797 -0.5797 0.8148 485.468 337.0106)" class="st6 st3 st506">Clostridium kluyveri</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M467.7,322.9l29.4,20.7c0.3-0.4,0.5-0.7,0.8-1.1L468.4,322C468.2,322.3,468,322.6,467.7,322.9z"/>
+			<g>
+				<text transform="matrix(0.8199 0.5726 -0.5726 0.8199 487.2561 336.3458)" class="st6 st3 st507">Clostridium bornimense</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M468.4,322l29.6,20.5c0.3-0.4,0.5-0.7,0.8-1.1L469,321.1C468.8,321.4,468.6,321.7,468.4,322z"/>
+			<g>
+				<text transform="matrix(0.8242 0.5664 -0.5664 0.8242 489.7387 336.5197)" class="st6 st3 st508">Clostridium sp. P21</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M469,321.1l29.7,20.3c0.3-0.4,0.5-0.7,0.8-1.1l-29.9-20.1C469.4,320.5,469.2,320.8,469,321.1z"/>
+			<g>
+				<text transform="matrix(0.8284 0.5602 -0.5602 0.8284 490.081 335.2092)" class="st6 st3 st509">Fonticella tunisiensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M469.6,320.2l29.9,20.1c0.2-0.4,0.5-0.7,0.7-1.1l-30-19.8C470,319.6,469.8,319.9,469.6,320.2z"/>
+			<g>
+				<text transform="matrix(0.8325 0.554 -0.554 0.8325 490.4115 333.9136)" class="st6 st3 st510">Hungatella hathewayi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M470.2,319.3l30,19.8c0.2-0.4,0.5-0.7,0.7-1.1l-30.2-19.6C470.6,318.7,470.4,319,470.2,319.3z"/>
+			<g>
+				<text transform="matrix(0.8366 0.5478 -0.5478 0.8366 489.89 332.0698)" class="st6 st3 st511">Clostridium sp. AM42-36</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M470.8,318.4L501,338c0.2-0.4,0.5-0.7,0.7-1.1l-30.3-19.4C471.1,317.8,471,318.1,470.8,318.4z"/>
+			<g>
+				<text transform="matrix(0.8406 0.5416 -0.5416 0.8406 491.6462 331.7301)" class="st6 st3 st512">Clostridium butyricum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M471.3,317.5l30.3,19.4c0.2-0.4,0.5-0.7,0.7-1.1l-30.5-19.2C471.7,317,471.5,317.2,471.3,317.5z"/>
+			<g>
+				<text transform="matrix(0.8446 0.5354 -0.5354 0.8446 490.8355 329.7408)" class="st6 st3 st513">Clostridium sp. DSM 8431</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M471.9,316.7l30.5,19.2c0.2-0.4,0.5-0.7,0.7-1.1l-30.6-18.9C472.3,316.1,472.1,316.4,471.9,316.7z"/>
+			<g>
+				<text transform="matrix(0.8485 0.5293 -0.5293 0.8485 492.1291 329.1128)" class="st6 st3 st514">Clostridium sp. CAG:609</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M472.5,315.8l30.6,18.9c0.2-0.4,0.5-0.7,0.7-1.1L473,314.9C472.8,315.2,472.6,315.5,472.5,315.8z"/>
+			<g>
+				<text transform="matrix(0.8522 0.5231 -0.5231 0.8522 496.5703 330.43)" class="st6 st3 st515">Sarcina sp. JB2</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M473,314.9l30.7,18.7c0.2-0.4,0.4-0.7,0.7-1.1L473.5,314C473.4,314.3,473.2,314.6,473,314.9z"/>
+			<g>
+				<text transform="matrix(0.856 0.517 -0.517 0.856 487.3297 323.3706)" class="st6 st3 st516">Sarcina ventriculi (Clostridium ventriculi)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M473.5,314l30.9,18.5c0.2-0.4,0.4-0.7,0.7-1.1l-31-18.3C473.9,313.4,473.7,313.7,473.5,314z"/>
+			<g>
+				<text transform="matrix(0.8597 0.5108 -0.5108 0.8597 488.1229 322.4993)" class="st6 st3 st517">Clostridium saccharoperbutylacetonicum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M474.1,313.1l31,18.3c0.2-0.4,0.4-0.7,0.6-1.1l-31.1-18.1C474.4,312.5,474.2,312.8,474.1,313.1z"/>
+			<g>
+				<text transform="matrix(0.8633 0.5048 -0.5048 0.8633 494.9972 325.209)" class="st6 st3 st518">Clostridium sp. CAG:245</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M474.6,312.3l31.1,18.1c0.2-0.4,0.4-0.7,0.6-1.1l-31.3-17.8C474.9,311.7,474.7,312,474.6,312.3z"/>
+			<g>
+				<text transform="matrix(0.8668 0.4987 -0.4987 0.8668 492.7295 322.5455)" class="st6 st3 st519">Clostridium sp. CAG:245_30_32</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M475.1,311.4l31.3,17.8c0.2-0.4,0.4-0.7,0.6-1.1l-31.4-17.6C475.4,310.8,475.2,311.1,475.1,311.4z"/>
+			<g>
+				<text transform="matrix(0.8701 0.4928 -0.4928 0.8701 496.473 323.3651)" class="st6 st3 st520">Clostridium sp. CAG:265</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M475.5,310.5l31.4,17.6c0.2-0.4,0.4-0.7,0.6-1.1L476,309.7C475.9,310,475.7,310.3,475.5,310.5z"/>
+			<g>
+				<text transform="matrix(0.8734 0.4869 -0.4869 0.8734 497.7224 322.7642)" class="st6 st3 st521">Clostridium sp. NSJ-42</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M476,309.7l31.5,17.4c0.2-0.4,0.4-0.7,0.6-1.1l-31.6-17.2C476.3,309.1,476.2,309.4,476,309.7z"/>
+			<g>
+				<text transform="matrix(0.8767 0.481 -0.481 0.8767 496.7263 320.9142)" class="st6 st3 st522">Clostridium sp. 7_2_43FAA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M476.5,308.8l31.6,17.2c0.2-0.4,0.4-0.7,0.6-1.1l-31.7-17C476.8,308.3,476.6,308.6,476.5,308.8z"/>
+			<g>
+				<text transform="matrix(0.8799 0.4752 -0.4752 0.8799 500.6284 321.7553)" class="st6 st3 st523">Clostridium sp. C8</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M476.9,308l31.7,17c0.2-0.3,0.3-0.6,0.5-1l-31.8-16.8C477.2,307.5,477.1,307.7,476.9,308z"/>
+			<g>
+				<text transform="matrix(0.8829 0.4695 -0.4695 0.8829 499.4931 319.8683)" class="st6 st3 st524">Clostridium sp. CAG:914</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M477.3,307.2l31.8,16.8c0.2-0.3,0.3-0.7,0.5-1l-31.9-16.6C477.6,306.7,477.5,307,477.3,307.2z"/>
+			<g>
+				<text transform="matrix(0.8858 0.4641 -0.4641 0.8858 499.9928 318.9556)" class="st6 st3 st525">Clostridium sp. CAG:524</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M477.8,306.4l31.9,16.6c0.2-0.3,0.3-0.6,0.5-0.9l-32-16.4C478,306,477.9,306.2,477.8,306.4z"/>
+			<g>
+				<text transform="matrix(0.8885 0.4588 -0.4588 0.8885 502.6983 319.2041)" class="st6 st3 st526">Clostridium celatum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M478.1,305.7l32,16.4c0.2-0.3,0.3-0.6,0.5-0.9L478.5,305C478.4,305.2,478.3,305.5,478.1,305.7z"/>
+			<g>
+				<text transform="matrix(0.8911 0.4538 -0.4538 0.8911 501.4221 317.4554)" class="st6 st3 st527">Clostridium amylolyticum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st487" d="M478.5,305l32.1,16.2c0.1-0.2,0.2-0.5,0.4-0.7l-32.2-16.1C478.7,304.6,478.6,304.8,478.5,305z"/>
+			<g>
+				<text transform="matrix(0.8933 0.4494 -0.4494 0.8933 501.0451 316.2387)" class="st6 st3 st528">Clostridiaceae bacterium OM02-2AC</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M478.8,304.4l32.2,16.1c0.6-1.2,1.2-2.4,1.7-3.6l-32.5-15.4C479.7,302.5,479.3,303.5,478.8,304.4z"/>
+			<g>
+				<text transform="matrix(0.8992 0.4375 -0.4375 0.8992 480.0794 304.4176)" class="st0 st3 st529">Oscillospiraceae bacterium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M480.2,301.6l32.5,15.4c0.6-1.2,1.1-2.4,1.6-3.5l-32.9-14.7C481.1,299.7,480.6,300.6,480.2,301.6z"/>
+			<g>
+				<text transform="matrix(0.9086 0.4178 -0.4178 0.9086 485.4906 303.4235)" class="st0 st3 st530">[Eubacterium] siraeum</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M481.5,298.7l32.9,14.7c0.5-1,0.9-2.1,1.4-3.2l-33.1-14.1C482.2,297.1,481.8,297.9,481.5,298.7z"/>
+			<g>
+				<text transform="matrix(0.9169 0.3992 -0.3992 0.9169 494.4341 303.9188)" class="st0 st3 st531">Ruminococcus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M482.6,296.2l33.1,14.1c0.4-0.9,0.8-1.9,1.2-2.8l-33.4-13.5C483.2,294.7,482.9,295.5,482.6,296.2z"/>
+			<g>
+				<text transform="matrix(0.924 0.3825 -0.3825 0.924 484.8972 296.6963)" class="st0 st3 st532">Pseudobacteroides cellulosolvens</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M483.5,293.9l33.4,13.5c0.3-0.7,0.6-1.5,0.9-2.2l-33.6-13C484,292.8,483.7,293.4,483.5,293.9z"/>
+			<g>
+				<text transform="matrix(0.9296 0.3685 -0.3685 0.9296 494.1322 297.8292)" class="st0 st3 st533">Pseudoflavonifractor sp. An44</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M484.2,292.2l33.6,13c0.2-0.4,0.3-0.8,0.5-1.3l-33.6-12.8C484.5,291.5,484.3,291.9,484.2,292.2z"/>
+			<g>
+				<text transform="matrix(0.9334 0.3589 -0.3589 0.9334 504.6928 299.9154)" class="st0 st3 st534">Ruminococcus sp. CAG:488</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M484.6,291.2l33.6,12.8c0.2-0.4,0.3-0.8,0.5-1.3L485,290.2C484.9,290.5,484.7,290.8,484.6,291.2z"/>
+			<g>
+				<text transform="matrix(0.936 0.3519 -0.3519 0.936 502.5755 297.7752)" class="st0 st3 st535">Ruminococcaceae bacterium BL-4</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M485,290.2l33.7,12.5c0.2-0.4,0.3-0.8,0.5-1.2l-33.8-12.3C485.2,289.5,485.1,289.8,485,290.2z"/>
+			<g>
+				<text transform="matrix(0.9386 0.345 -0.345 0.9386 502.539 296.4619)" class="st0 st3 st536">Ruminococcaceae bacterium KH2T8</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M485.3,289.2l33.8,12.3c0.1-0.4,0.3-0.8,0.4-1.2l-33.9-12C485.6,288.5,485.5,288.9,485.3,289.2z"/>
+			<g>
+				<text transform="matrix(0.9411 0.3381 -0.3381 0.9411 506.3245 296.5689)" class="st0 st3 st537">Faecalibacterium prausnitzii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M485.7,288.2l33.9,12c0.1-0.4,0.3-0.8,0.4-1.2l-34-11.8C485.9,287.5,485.8,287.9,485.7,288.2z"/>
+			<g>
+				<text transform="matrix(0.9435 0.3313 -0.3313 0.9435 507.1026 295.5655)" class="st0 st3 st538">Ruminococcus sp. CAG:177</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M486,287.2l34,11.8c0.1-0.4,0.3-0.8,0.4-1.2l-34.1-11.6C486.2,286.6,486.1,286.9,486,287.2z"/>
+			<g>
+				<text transform="matrix(0.9458 0.3248 -0.3248 0.9458 508.0294 294.6413)" class="st0 st3 st539">Faecalibacterium sp. An192</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M486.4,286.3l34.1,11.6c0.1-0.3,0.2-0.7,0.3-1l-34.2-11.4C486.5,285.8,486.4,286,486.4,286.3z"/>
+			<g>
+				<text transform="matrix(0.9478 0.3188 -0.3188 0.9478 508.8219 293.7462)" class="st0 st3 st540">Pseudoflavonifractor sp. An187</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M486.6,285.5l34.2,11.4c0.1-0.3,0.2-0.7,0.3-1l-34.2-11.2C486.8,285,486.7,285.3,486.6,285.5z"/>
+			<g>
+				<text transform="matrix(0.9496 0.3134 -0.3134 0.9496 510.6516 293.3338)" class="st0 st3 st541">Ruminococcus sp. AF16-40</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M486.9,284.7l34.2,11.2c0.1-0.3,0.2-0.7,0.3-1l-34.3-11C487,284.2,487,284.5,486.9,284.7z"/>
+			<g>
+				<text transform="matrix(0.9514 0.3079 -0.3079 0.9514 510.7729 292.3528)" class="st0 st3 st542">Faecalibacterium sp. An122</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M487.1,283.9l34.3,11c0.1-0.2,0.1-0.4,0.2-0.6l-34.3-10.9C487.2,283.6,487.2,283.8,487.1,283.9z"/>
+			<g>
+				<text transform="matrix(0.9528 0.3035 -0.3035 0.9528 513.9026 292.4137)" class="st0 st3 st543">[Ruminococcus] torques CAG:61</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M487.3,283.5l34.3,10.9c0.1-0.2,0.1-0.4,0.2-0.5L487.4,283C487.4,283.2,487.3,283.3,487.3,283.5z"/>
+			<g>
+				<text transform="matrix(0.9538 0.3004 -0.3004 0.9538 517.348 292.8919)" class="st0 st3 st544">Ruminococcus albus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st297" d="M487.4,283l34.4,10.8c0.1-0.2,0.1-0.4,0.2-0.5l-34.4-10.7C487.5,282.8,487.5,282.9,487.4,283z"/>
+			<g>
+				<text transform="matrix(0.9547 0.2975 -0.2975 0.9547 515.6757 291.799)" class="st0 st3 st545">uncultured Ruminococcus sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M487.5,282.6l34.4,10.7c0.4-1.1,0.7-2.3,1-3.4l-34.6-10C488.1,280.8,487.8,281.7,487.5,282.6z"/>
+			<g>
+				<text transform="matrix(0.9581 0.2865 -0.2865 0.9581 502.085 286.5185)" class="st6 st3 st547">Eubacterium sp.</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M488.4,279.9l34.6,10c0.2-0.6,0.3-1.2,0.5-1.8l-34.7-9.6C488.6,278.9,488.5,279.4,488.4,279.9z"/>
+			<g>
+				<text transform="matrix(0.9623 0.272 -0.272 0.9623 508.9215 285.481)" class="st6 st3 st548">Eubacterium ramulus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M488.8,278.5l34.7,9.6c0.1-0.4,0.2-0.8,0.3-1.2l-34.8-9.4C488.9,277.8,488.9,278.1,488.8,278.5z"/>
+			<g>
+				<text transform="matrix(0.9646 0.2637 -0.2637 0.9646 511.3059 284.4833)" class="st6 st3 st549">Eubacterium sp. CAG:146</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M489,277.5l34.8,9.4c0.1-0.4,0.2-0.8,0.3-1.2l-34.8-9.1C489.2,276.8,489.1,277.1,489,277.5z"/>
+			<g>
+				<text transform="matrix(0.9665 0.2568 -0.2568 0.9665 512.8033 283.6458)" class="st6 st3 st550">Eubacterium sp. 38_16</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M489.3,276.5l34.8,9.1c0.1-0.3,0.2-0.7,0.3-1l-34.9-8.9C489.4,275.9,489.4,276.2,489.3,276.5z"/>
+			<g>
+				<text transform="matrix(0.9681 0.2505 -0.2505 0.9681 513.0695 282.5133)" class="st6 st3 st551">Eubacterium eligens CAG:72</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M489.5,275.7l34.9,8.9c0.1-0.3,0.2-0.7,0.3-1l-34.9-8.7C489.7,275.1,489.6,275.4,489.5,275.7z"/>
+			<g>
+				<text transform="matrix(0.9696 0.2449 -0.2449 0.9696 513.925 281.7197)" class="st6 st3 st552">Eubacterium cellulosolvens</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M489.7,274.9l34.9,8.7c0.1-0.3,0.1-0.5,0.2-0.8l-35-8.6C489.8,274.4,489.8,274.6,489.7,274.9z"/>
+			<g>
+				<text transform="matrix(0.9708 0.2399 -0.2399 0.9708 515.0994 281.0429)" class="st6 st3 st553">Eubacterium dolichum CAG:375</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M489.9,274.2l35,8.6c0.1-0.3,0.1-0.5,0.2-0.8l-35-8.4C490,273.8,489.9,274,489.9,274.2z"/>
+			<g>
+				<text transform="matrix(0.9718 0.2356 -0.2356 0.9718 517.0327 280.7401)" class="st6 st3 st554">Eubacterium sp. AF22-8LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M490,273.6l35,8.4c0.1-0.2,0.1-0.5,0.2-0.7l-35-8.3C490.1,273.2,490.1,273.4,490,273.6z"/>
+			<g>
+				<text transform="matrix(0.9728 0.2315 -0.2315 0.9728 517.5115 280.0937)" class="st6 st3 st555">Eubacterium sp. TM05-53</text>
+			</g>
+		</g>
+		<g>
+			<path class="st546" d="M490.2,273l35,8.3c0.1-0.2,0.1-0.5,0.2-0.7l-35.1-8.1C490.3,272.6,490.2,272.8,490.2,273z"/>
+			<g>
+				<text transform="matrix(0.9738 0.2273 -0.2273 0.9738 518.7476 279.6289)" class="st6 st3 st556">Eubacterium sp. An11</text>
+			</g>
+		</g>
+		<g>
+			<path class="st557" d="M490.3,272.4l35.1,8.1c0.1-0.4,0.2-0.9,0.3-1.3l-35.1-7.8C490.5,271.7,490.4,272.1,490.3,272.4z"/>
+			<g>
+				<text transform="matrix(0.9751 0.2216 -0.2216 0.9751 513.4076 277.5403)" class="st6 st3 st558">Criibacterium bergeronii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st295" d="M490.5,271.4l35.1,7.8c0.1-0.4,0.2-0.9,0.3-1.3l-35.2-7.6C490.7,270.7,490.6,271,490.5,271.4z"/>
+			<g>
+				<text transform="matrix(0.9767 0.2144 -0.2144 0.9767 512.2729 276.0117)" class="st6 st3 st559">Desulfotomaculum profundi</text>
+			</g>
+		</g>
+		<g>
+			<path class="st560" d="M490.8,270.4l35.2,7.6c0.2-0.8,0.3-1.5,0.5-2.3l-35.3-7.1C491,269.1,490.9,269.8,490.8,270.4z"/>
+			<g>
+				<text transform="matrix(0.9789 0.2045 -0.2045 0.9789 501.4148 272.2769)" class="st6 st3 st561">Caldicellulosiruptor owensensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st560" d="M491.1,268.5l35.3,7.1c0.1-0.4,0.2-0.8,0.2-1.1l-35.3-6.9C491.3,267.9,491.2,268.2,491.1,268.5z"/>
+			<g>
+				<text transform="matrix(0.9808 0.1951 -0.1951 0.9808 512.4506 272.657)" class="st6 st3 st562">Caldicellulosiruptor kristjanssonii</text>
+			</g>
+		</g>
+		<g>
+			<path class="st560" d="M491.3,267.6l35.3,6.9c0.1-0.4,0.1-0.8,0.2-1.1l-35.4-6.7C491.4,267,491.4,267.3,491.3,267.6z"/>
+			<g>
+				<text transform="matrix(0.982 0.1888 -0.1888 0.982 513.5718 271.7896)" class="st6 st3 st563">Caldicellulosiruptor obsidiansis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st560" d="M491.5,266.7l35.4,6.7c0.1-0.4,0.1-0.8,0.2-1.1l-35.4-6.5C491.6,266.1,491.6,266.4,491.5,266.7z"/>
+			<g>
+				<text transform="matrix(0.9832 0.1825 -0.1825 0.9832 504.2752 268.9568)" class="st6 st3 st564">Caldicellulosiruptor bescii (Anaerocellum thermophilum)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st560" d="M491.7,265.8l35.4,6.5c0.1-0.4,0.1-0.8,0.2-1.1l-35.5-6.2C491.8,265.2,491.7,265.5,491.7,265.8z"/>
+			<g>
+				<text transform="matrix(0.9844 0.1762 -0.1762 0.9844 500.962 267.3343)" class="st6 st3 st565">Caldicellulosiruptor saccharolyticus (Caldocellum saccharolyticum)</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M491.8,264.9l35.5,6.2c0.2-1,0.4-2.1,0.5-3.1l-35.6-5.6C492.1,263.3,492,264.1,491.8,264.9z"/>
+			<g>
+				<text transform="matrix(0.9864 0.1645 -0.1645 0.9864 503.2166 266.4118)" class="st6 st3 st567">Holdemanella biformis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M492.2,262.5l35.6,5.6c0.1-0.9,0.3-1.7,0.4-2.6l-35.6-5.1C492.4,261.1,492.3,261.8,492.2,262.5z"/>
+			<g>
+				<text transform="matrix(0.9889 0.1488 -0.1488 0.9889 504.179 263.9188)" class="st6 st3 st568">Faecalibaculum rodentium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M492.5,260.4l35.6,5.1c0.1-0.8,0.2-1.6,0.3-2.3l-35.7-4.6C492.7,259.2,492.6,259.8,492.5,260.4z"/>
+			<g>
+				<text transform="matrix(0.9908 0.1352 -0.1352 0.9908 507.7448 262.1945)" class="st6 st3 st569">Faecalitalea cylindroides</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M492.8,258.5l35.7,4.6c0.1-0.8,0.2-1.5,0.3-2.3l-35.8-4.2C493,257.3,492.9,257.9,492.8,258.5z"/>
+			<g>
+				<text transform="matrix(0.9925 0.1223 -0.1223 0.9925 504.1666 259.6371)" class="st6 st3 st570">Erysipelotrichaceae bacterium</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493,256.7l35.8,4.2c0.1-0.5,0.1-1,0.2-1.6l-35.8-3.9C493.1,255.9,493.1,256.3,493,256.7z"/>
+			<g>
+				<text transform="matrix(0.9938 0.1116 -0.1116 0.9938 515.5276 259.0468)" class="st6 st3 st571">Amedibacillus dolichus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.2,255.4l35.8,3.9c0-0.4,0.1-0.8,0.1-1.3l-35.8-3.6C493.2,254.8,493.2,255.1,493.2,255.4z"/>
+			<g>
+				<text transform="matrix(0.9946 0.1037 -0.1037 0.9946 518.6678 257.9673)" class="st6 st3 st572">Absiella sp. AM27-20</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.3,254.4l35.8,3.6c0-0.4,0.1-0.8,0.1-1.3l-35.8-3.4C493.3,253.7,493.3,254.1,493.3,254.4z"/>
+			<g>
+				<text transform="matrix(0.9953 9.661058e-02 -9.661058e-02 0.9953 518.7981 256.7678)" class="st6 st3 st573">Absiella sp. AM09-45</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.4,253.4l35.8,3.4c0-0.3,0-0.5,0.1-0.8l-35.9-3.2C493.4,253,493.4,253.2,493.4,253.4z"/>
+			<g>
+				<text transform="matrix(0.9959 9.085478e-02 -9.085478e-02 0.9959 516.4695 255.4237)" class="st6 st3 st574">Erysipelotrichaceae bacterium 5_2_54FAA</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.4,252.8l35.9,3.2c0-0.3,0-0.5,0.1-0.8l-35.9-3C493.5,252.3,493.5,252.6,493.4,252.8z"/>
+			<g>
+				<text transform="matrix(0.9963 8.642638e-02 -8.642638e-02 0.9963 517.6107 254.7773)" class="st6 st3 st575">Erysipelotrichaceae bacterium CAG:64</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.5,252.1l35.9,3c0-0.3,0-0.5,0.1-0.8l-35.9-2.9C493.5,251.7,493.5,251.9,493.5,252.1z"/>
+			<g>
+				<text transform="matrix(0.9966 8.200537e-02 -8.200537e-02 0.9966 517.7236 254.0371)" class="st6 st3 st576">Erysipelotrichaceae bacterium 6_1_45</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.5,251.5l35.9,2.9c0-0.3,0-0.5,0.1-0.8l-35.9-2.7C493.6,251.1,493.6,251.3,493.5,251.5z"/>
+			<g>
+				<text transform="matrix(0.997 7.758728e-02 -7.758728e-02 0.997 517.4106 253.2641)" class="st6 st3 st577">Erysipelotrichaceae bacterium 2_2_44A</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.6,250.9l35.9,2.7c0-0.3,0-0.5,0.1-0.8l-35.9-2.6C493.6,250.4,493.6,250.6,493.6,250.9z"/>
+			<g>
+				<text transform="matrix(0.9973 7.317222e-02 -7.317222e-02 0.9973 517.8644 252.5525)" class="st6 st3 st578">Erysipelotrichaceae bacterium 3_1_53</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.6,250.2l35.9,2.6c0-0.3,0-0.5,0.1-0.8l-35.9-2.4C493.7,249.8,493.7,250,493.6,250.2z"/>
+			<g>
+				<text transform="matrix(0.9976 6.877390e-02 -6.877390e-02 0.9976 525.1032 252.316)" class="st6 st3 st579">Floccifex porci</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.7,249.6l35.9,2.4c0-0.3,0-0.5,0.1-0.8l-35.9-2.2C493.7,249.2,493.7,249.4,493.7,249.6z"/>
+			<g>
+				<text transform="matrix(0.9979 6.439471e-02 -6.439471e-02 0.9979 521.3643 251.2965)" class="st6 st3 st580">Faecalicoccus acidiformans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.7,249l35.9,2.2c0-0.3,0-0.5,0-0.8l-35.9-2.1C493.7,248.5,493.7,248.7,493.7,249z"/>
+			<g>
+				<text transform="matrix(0.9982 6.002112e-02 -6.002112e-02 0.9982 519.6531 250.437)" class="st6 st3 st581">Catenisphaera adipataccumulans</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.8,248.3l35.9,2.1c0-0.3,0-0.5,0-0.8l-35.9-1.9C493.8,247.9,493.8,248.1,493.8,248.3z"/>
+			<g>
+				<text transform="matrix(0.9985 5.565546e-02 -5.565546e-02 0.9985 523.7791 249.9274)" class="st6 st3 st582">Holdemanella porci</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.8,247.7l35.9,1.9c0-0.3,0-0.5,0-0.8l-36-1.8C493.8,247.3,493.8,247.5,493.8,247.7z"/>
+			<g>
+				<text transform="matrix(0.9987 5.129785e-02 -5.129785e-02 0.9987 521.4012 249.0412)" class="st6 st3 st583">Amedibacterium intestinale</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.8,247.1l36,1.8c0-0.3,0-0.5,0-0.8l-36-1.6C493.8,246.7,493.8,246.9,493.8,247.1z"/>
+			<g>
+				<text transform="matrix(0.9989 4.695292e-02 -4.695292e-02 0.9989 522.643 248.3521)" class="st6 st3 st584">Longicatena caecimuris</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.9,246.4l36,1.6c0-0.3,0-0.5,0-0.8l-36-1.5C493.9,246,493.9,246.2,493.9,246.4z"/>
+			<g>
+				<text transform="matrix(0.9991 4.263214e-02 -4.263214e-02 0.9991 524.7806 247.6967)" class="st6 st3 st585">Absicoccus porci</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.9,245.8l36,1.5c0-0.3,0-0.5,0-0.8l-36-1.3C493.9,245.4,493.9,245.6,493.9,245.8z"/>
+			<g>
+				<text transform="matrix(0.9993 3.833789e-02 -3.833789e-02 0.9993 517.6286 246.6585)" class="st6 st3 st586">Erysipelotrichaceae bacterium AF15-26LB</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.9,245.2l36,1.3c0-0.3,0-0.5,0-0.8l-36-1.1C493.9,244.8,493.9,245,493.9,245.2z"/>
+			<g>
+				<text transform="matrix(0.9994 3.406115e-02 -3.406115e-02 0.9994 521.7625 246.0865)" class="st6 st3 st587">Faecalicoccus pleomorphus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.9,244.6l36,1.1c0-0.3,0-0.5,0-0.8l-36-1C493.9,244.2,493.9,244.4,493.9,244.6z"/>
+			<g>
+				<text transform="matrix(0.9996 2.979290e-02 -2.979290e-02 0.9996 517.6647 245.224)" class="st6 st3 st588">Erysipelotrichaceae bacterium AM07-35-1</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M493.9,244l36,1c0-0.3,0-0.5,0-0.8l-36-0.8C494,243.6,494,243.8,493.9,244z"/>
+			<g>
+				<text transform="matrix(0.9997 2.553777e-02 -2.553777e-02 0.9997 522.5858 244.6411)" class="st6 st3 st589">Dubosiella newyorkensis</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M494,243.4l36,0.8c0-0.3,0-0.5,0-0.8l-36-0.7C494,243,494,243.2,494,243.4z"/>
+			<g>
+				<text transform="matrix(0.9998 2.129358e-02 -2.129358e-02 0.9998 523.8552 243.9369)" class="st6 st3 st556">Ileibacterium valens</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M494,242.8l36,0.7c0-0.3,0-0.5,0-0.8l-36-0.5C494,242.4,494,242.6,494,242.8z"/>
+			<g>
+				<text transform="matrix(0.9999 1.705355e-02 -1.705355e-02 0.9999 517.5567 243.0825)" class="st6 st3 st590">Erysipelotrichaceae bacterium NYU-BL-F16</text>
+			</g>
+		</g>
+		<g>
+			<path class="st566" d="M494,242.2l36,0.5c0-0.3,0-0.5,0-0.8l-36-0.4C494,241.7,494,241.9,494,242.2z"/>
+			<g>
+				<text transform="matrix(0.9999 1.282461e-02 -1.282461e-02 0.9999 519.9816 242.4068)" class="st6 st3 st591">Erysipelotrichaceae bacterium I46</text>
+			</g>
+		</g>
+		<g>
+			<path class="st592" d="M494,241.5l36,0.4c0-0.4,0-0.9,0-1.3l-36-0.1C494,240.8,494,241.2,494,241.5z"/>
+			<g>
+				<text transform="matrix(1 7.059597e-03 -7.059597e-03 1 519.189 241.5854)" class="st0 st3 st593">Pelosinus propionicus</text>
+			</g>
+		</g>
+		<g>
+			<path class="st560" d="M494,240.5l36,0.1c0-0.2,0-0.4,0-0.6h-36C494,240.2,494,240.3,494,240.5z"/>
+			<g>
+				<text transform="matrix(1 1.702247e-03 -1.702247e-03 1 525.6539 240.4997)" class="st6 st3 st594">Parvimonas micra</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

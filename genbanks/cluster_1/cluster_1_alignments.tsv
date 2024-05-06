@@ -1,0 +1,70 @@
+T1ZCF9_region vs T1ZCG6_region
+------------------------------
+Query	Target	Identity	Similarity
+AGU75560.1	AGU75570.1	0.2449	0.4694
+
+T1ZCF9_region vs A0A8B4ISZ8_region
+----------------------------------
+Query	Target	Identity	Similarity
+AGU75562.1	SQG46699.1	0.2018	0.3318
+AGU75564.1	SQG46705.1	0.2013	0.2579
+
+T1ZCF9_region vs A0A1X1JWW4_region
+----------------------------------
+Query	Target	Identity	Similarity
+AGU75564.1	ORO91700.1	0.2201	0.2956
+AGU75565.1	ORO91699.1	0.2023	0.3121
+
+T1ZCF9_region vs A0A091BL67_region
+----------------------------------
+Query	Target	Identity	Similarity
+AGU75556.1	KFN85439.1	0.2126	0.3389
+AGU75559.1	KFN85440.1	0.2421	0.4526
+AGU75560.1	KFN85439.1	0.2532	0.4506
+AGU75561.1	KFN85438.1	0.2161	0.3559
+
+T1ZCG6_region vs A0A8B4ISZ8_region
+----------------------------------
+Query	Target	Identity	Similarity
+AGU75572.1	SQG46701.1	0.2105	0.3308
+AGU75573.1	SQG46701.1	0.2097	0.3226
+
+T1ZCG6_region vs A0A1X1JWW4_region
+----------------------------------
+Query	Target	Identity	Similarity
+AGU75572.1	ORO91696.1	0.2059	0.3088
+AGU75575.1	ORO91693.1	0.2348	0.3788
+
+T1ZCG6_region vs A0A091BL67_region
+----------------------------------
+Query	Target	Identity	Similarity
+AGU75569.1	KFN85441.1	0.2353	0.4444
+AGU75570.1	KFN85439.1	0.3305	0.5314
+AGU75571.1	KFN85438.1	0.2351	0.4018
+AGU75573.1	KFN85434.1	0.2095	0.3446
+AGU75575.1	KFN85434.1	0.2053	0.3113
+
+A0A8B4ISZ8_region vs A0A1X1JWW4_region
+--------------------------------------
+Query	Target	Identity	Similarity
+SQG46697.1	ORO91697.1	0.2000	0.3324
+SQG46701.1	ORO91696.1	0.4000	0.5524
+SQG46703.1	ORO91692.1	0.2595	0.4008
+SQG46703.1	ORO91698.1	0.2277	0.3800
+SQG46704.1	ORO91693.1	0.2000	0.3643
+SQG46704.1	ORO91699.1	0.2279	0.4118
+SQG46705.1	ORO91694.1	0.3220	0.4576
+SQG46705.1	ORO91700.1	0.3415	0.5122
+SQG46706.1	ORO91701.1	0.5925	0.7356
+
+A0A8B4ISZ8_region vs A0A091BL67_region
+--------------------------------------
+Query	Target	Identity	Similarity
+
+A0A1X1JWW4_region vs A0A091BL67_region
+--------------------------------------
+Query	Target	Identity	Similarity
+ORO91693.1	KFN85436.1	0.2057	0.3262
+ORO91696.1	KFN85440.1	0.2241	0.3621
+ORO91698.1	KFN85438.1	0.2095	0.3439
+ORO91699.1	KFN85434.1	0.2013	0.3052

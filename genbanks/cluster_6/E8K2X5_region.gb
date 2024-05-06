@@ -1,0 +1,210 @@
+LOCUS       AEVD01000018            4270 bp    DNA     linear   BCT 07-JUN-2013
+DEFINITION  Streptococcus infantis ATCC 700779 contig00019, whole genome shotgun
+            sequence.
+ACCESSION   AEVD01000018
+VERSION     AEVD01000018.1
+DBLINK      BioProject: PRJNA53205
+            BioSample: SAMN00216972
+KEYWORDS    WGS; STANDARD_DRAFT.
+SOURCE      Streptococcus infantis ATCC 700779
+  ORGANISM  Streptococcus infantis ATCC 700779
+            Bacteria; Bacillota; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (bases 1 to 4270)
+  AUTHORS   Muzny,D., Qin,X., Deng,J., Jiang,H., Liu,Y., Qu,J., Song,X.-Z.,
+            Zhang,L., Thornton,R., Coyle,M., Francisco,L., Jackson,L.,
+            Javaid,M., Korchina,V., Kovar,C., Mata,R., Mathew,T., Ngo,R.,
+            Nguyen,L., Nguyen,N., Okwuonu,G., Ongeri,F., Pham,C., Simmons,D.,
+            Wilczek-Boney,K., Hale,W., Jakkamsetti,A., Pham,P., Ruth,R., San
+            Lucas,F., Warren,J., Zhang,J., Zhao,Z., Zhou,C., Zhu,D., Lee,S.,
+            Bess,C., Blankenburg,K., Forbes,L., Fu,Q., Gubbala,S., Hirani,K.,
+            Jayaseelan,J.C., Lara,F., Munidasa,M., Palculict,T., Patil,S.,
+            Pu,L.-L., Saada,N., Tang,L., Weissenberger,G., Zhu,Y., Hemphill,L.,
+            Shang,Y., Youmans,B., Ayvaz,T., Ross,M., Santibanez,J., Aqrawi,P.,
+            Gross,S., Joshi,V., Fowler,G., Nazareth,L., Reid,J., Worley,K.,
+            Petrosino,J., Highlander,S. and Gibbs,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-2010) Human Genome Sequencing Center, Baylor
+            College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+COMMENT     ##Genome-Assembly-Data-START##
+            Finishing Goal           :: Standard Draft
+            Current Finishing Status :: Standard Draft
+            Assembly Method          :: Newbler Assembler v. 2.3-04192010
+            Genome Coverage          :: 47.9x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Streptococcus infantis ATCC 700779
+            Strain source, body site: Airways
+            Inquiries should be directed to microbe@hgsc.bcm.tmc.edu
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC. This
+            sequence is generated as a part of the Human Microbiome Project
+            (HMP), funded by the National Institutes of Health (NIH), National
+            Human Genome Research Institute (NHGRI), Large-Scale Sequencing
+            Research Network and the National Institute of Allergy and
+            Infectious Diseases (NIAID) Microbial Genome Sequencing Centers
+            Program. The mission of the HMP is to generate resources to enable
+            the characterization of the human microbiota, the microbial
+            communities living within human bodies, and analyze the role of
+            these organisms in human health and disease. See
+            http://www.hmpdacc.org for more information.
+            The sequenced strain was obtained from ATCC. The genomic DNA was
+            prepared from a single bacterial isolate. The sequence generated
+            included at least 10 fold coverage of Roche/454 Lifesciences FLX
+            fragment data and at least 8 fold clone coverage of Roche/454
+            Lifesciences paired-end data. The Roche/454 Lifesciences sequence
+            was assembled using the Roche/454 Lifescience Newbler assembler.
+            This draft assembly meets the HMP draft quality standards (more
+            than 90% of the genome is included in contigs, more than 90% of a
+            core set of bacterial genes are found with > 30% identity and > 30%
+            length; more than 90% of the bases in the assembly have more than 5
+            fold sequence coverage, the contig N50 length is greater than 5kb,
+            the scaffold N50 length is greater than 20kb, and there is less
+            than 1 gap per 5kb).
+            Product names were updated in June 2013.
+FEATURES             Location/Qualifiers
+     source          1..4270
+                     /organism="Streptococcus infantis ATCC 700779"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="contig00019"
+                     /strain="ATCC 700779"
+                     /isolation_source="airways"
+                     /host="Homo sapiens"
+                     /culture_collection="ATCC:700779"
+                     /type_material="type strain of Streptococcus infantis"
+                     /db_xref="HMP:9423"
+                     /db_xref="HOMD:tax_638"
+                     /db_xref="taxon:889204"
+     gene            <1..3490
+                     /gene="essC"
+                     /locus_tag="HMPREF9423_1837"
+     CDS             <1..3490
+                     /gene="essC"
+                     /locus_tag="HMPREF9423_1837"
+                     /note="COG: COG1674"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="type VII secretion protein EssC"
+                     /protein_id="EFX35837.1"
+                     /translation="MNYLFFEDNVYPLYAGNTYQMGSSVDSNIYLPCLENIMLDVKETG
+                     VELLGKTYTYGSHQISIDEKITVSLLVVGDTEYYLLPERILYLSDKKEASIRLVDFPTE
+                     IILTFDGINKTIYSVSPYYINGERKTGKHNIQDLDQIVFEQGVGLSIQKQILSIHSLFS
+                     IETSLLPFSEVSTEDRSKEFHRSPRIILREPEDKVTIASAPTDDEGNKQSLLRLIITPL
+                     AMIVFTLLTVYFTRSGGMMFMMMGMSVITIGTSIHTYFSDKKSHKELQEQKITEYMKYL
+                     ETKYSQLADLRDEQVEALVYHFPDMSQILEMVEKTDRRIYEKTLYHFDFLSYRLGLGEI
+                     DSSFSIQYSNTELTKYNAAANQKIQELLSYYRVTKPVPITHTLTNPTGYIGTRQIVIEQ
+                     VQQMMMQLATFQSYHDLQFIPIFREEELEIWNWSRWLPHTKIKALNSRGFVYNQRTRDQ
+                     ILTSLYQIIKDRKLDSEQDKGKEKQYSPHYILFITDLSLMLDHNIMEYINEDLSYLGIH
+                     YVFVEEVLESLPEHVKTVIDYRGDKKATLLLQDGNYTNKEITPLPSVSLSEKENFARNL
+                     AGIHHIQTLRNSIPNSITFLEMYGVNKVEELELLKRWQENETFQTMAVPLGVRGRDDIL
+                     YLNIHEKAHGPHGLIAGTTGSGKSELIQSYILSLAVNYHPYEVAFLLIDYKGGGMANLF
+                     ADLPHVVGTITNLDGNQANRALVSIKAELKKRQRIFAENDVNHINQYMKLFKEGKVKEP
+                     LPHLLIISDEFAELKANQPDFMDELVSTARIGRSLGVKLILATQKPSGVVNDQIWSNSK
+                     FKIALKVQDAADSREVIKTPDAAEITQTGRAYLQVGNNEIYELFQSAWSGADYNPEGRN
+                     HVQKNTTVYEITSNGQYNAINKDLSGLVNKKEAKAIPTELDAIVENAREVFDSLDINQV
+                     ASPWLPPLEEKIYTKDIQSTNFKDYWGHSENLQPILVGYQDIPERQEQSPLYFNMEQRG
+                     HILLVSSPGFGKSTFLQNFAMDVIRKHTPEQVHFYLYDFGTSGLISISDFPHIADYFTL
+                     DETEKIMKSLRFLNREIKNRKRALSQAKATNLTQYNQLSDESFPTIFIEIDGFDSVMDA
+                     DFVDAFYDTLNVIARDGASLGIYLVVTLSRLNAMRLQLQSNFKTKISLFLFDNSDLSGV
+                     VGRSNIPLDEIKGRAIAKFDDIVQFQVLLPYSSEYYTDYIKEVRTEQETMVAAYDGPLP
+                     SGIPMLPEKVTKEVMSDILENSQDFILGLEREAVVPASFSFDRSILIASDSPAFVTNYY
+                     KLLEYHLKRLSDKYNTVILDSSQRISSQFFAGIQRFDSSLEVADVMKTILEDFRKRVAS
+                     PDQDYPKWLILIPDIAATAMVAGMNEVDFKELLTEGPRYGVTLVFAGAYQDLVTNRYDN
+                     FVKLANQLVEQVFLGVRISDQDHTRYPYIMNEPALKPNQGHILYPDRYEFVQLLEI"
+     gene            3502..3831
+                     /locus_tag="HMPREF9423_1838"
+     CDS             3502..3831
+                     /locus_tag="HMPREF9423_1838"
+                     /note="COG: COG4495"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="EFX35838.1"
+                     /translation="MKETTMLPLGSIIILKGNTKKMMIISRVIAVPVKGNIYRFDYGAC
+                     LYPEGVVGENLIYFNHEDIFKIVQEGYTNDENELMLENIAAVIDETDIPKGNVAELNEV
+                     NELGG"
+     gene            3835..>4270
+                     /locus_tag="HMPREF9423_1839"
+     CDS             3835..>4270
+                     /locus_tag="HMPREF9423_1839"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="EFX35839.1"
+                     /translation="MGEIDYNQIYSLQNQVNAHYSSISSAQSRITSIDEQLERLRTAKK
+                     SVSKIQRNVHDIRYPINHRNIQPDWHGKQKDAFLKQWETFSTEYTNFQTEMNTFYDAIC
+                     DEITRLENKKNEENGIIGWCQSQINNLGNFIDKLLHTKEGF"
+ORIGIN
+        1 tgaagctctt gtttatcatt ttcctgatat gtctcagatt ttagaaatgg tagaaaaaac
+       61 tgaccgacgt atttatgaaa aaacactcta tcactttgat tttttatctt atcgtttagg
+      121 tttaggggaa attgattcta gtttttctat tcagtattca aatactgagt taactaagta
+      181 caatgcagct gctaaccaga aaattcaaga acttctgtca tactatcgtg tgaccaagcc
+      241 ggtacctatt actcatacat taacaaatcc tacgggatat ataggaacac gacaaatagt
+      301 aattgagcaa gttcaacaaa tgatgatgca attggcgact ttccaaagct accatgattt
+      361 acagtttatc ccaatttttc gagaggaaga gttggagata tggaattgga gtcgatggtt
+      421 acctcataca aaaataaaag cactaaatag ccgtggtttt gtatacaatc aacgaactcg
+      481 cgaccaaata ttaacgtctc tctatcaaat tattaaagat agaaagttgg atagtgagca
+      541 ggataaagga aaagaaaagc aatatagtcc tcattatatt ctctttatta cagatttaag
+      601 tctgatgttg gatcacaata ttatggagta tataaatgaa gacttatctt atctaggaat
+      661 tcattatgtt ttcgtagaag aagtacttga aagtctacca gaacatgtta agacggttat
+      721 tgactatcga ggagataaaa aagctacatt attgcttcag gatgggaatt atacaaataa
+      781 agaaattaca cctcttccat ccgtaagctt atctgagaag gaaaattttg ctagaaacct
+      841 tgctggtatt catcatattc agacgttacg taattctatt ccaaatagca ttaccttcct
+      901 tgaaatgtat ggggtcaata aggttgagga actagaactt ttaaaacgat ggcaagaaaa
+      961 tgaaactttc caaacaatgg cagttccttt aggggtgcga ggtagggatg atattcttta
+     1021 tctaaatatt catgagaaag cgcatggacc tcacggttta attgctggta ctacgggttc
+     1081 agggaagtct gaacttattc agtcttatat tctttctttg gctgtgaact atcacccata
+     1141 tgaagttgcc tttctcttaa tcgactataa gggtgggggg atggcgaatc tctttgcaga
+     1201 cctccctcat gtcgttggta ctattacgaa cttggatgga aaccaggcta atcgagcttt
+     1261 ggtatctatc aaagctgaac ttaagaaacg tcagcgtatt tttgcagaga acgatgtgaa
+     1321 tcatatcaat cagtatatga aactcttcaa agaagggaag gttaaagaac cattacctca
+     1381 cttattaatc attagtgatg agtttgctga attgaaggca aatcaacctg atttcatgga
+     1441 tgaattggta tctactgctc gtattggtcg ttcattggga gttaaattaa ttttagcaac
+     1501 tcagaaacca agtggagttg tcaatgatca aatttggtcg aactctaagt ttaagatagc
+     1561 tcttaaggta caagatgctg cagactctag agaagtaatc aaaacacctg atgccgcaga
+     1621 aatcacacag acaggtagag cctatcttca agtcgggaac aatgaaattt atgagctgtt
+     1681 ccagagtgca tggtcgggtg cagattataa tccagaaggt cgaaaccatg ttcaaaaaaa
+     1741 tacaactgta tatgagatta caagtaatgg tcagtataat gccattaata aagacttgag
+     1801 tggtttagtc aataaaaaag aagcaaaggc tattccaaca gaattagatg ccattgtaga
+     1861 aaatgctcgc gaagtatttg atagtcttga tataaatcaa gtagcaagtc cttggttgcc
+     1921 accacttgaa gaaaaaatat atactaaaga tatacaatca actaacttca aagattattg
+     1981 gggtcattca gaaaatctac aaccgatttt agttggatat caagatattc ctgaaagaca
+     2041 ggaacaatcg ccactttatt tcaatatgga acaaagagga catattttat tagtttctag
+     2101 tccaggattc gggaagtcaa cttttcttca gaactttgcg atggatgtca ttcgtaagca
+     2161 tacaccggaa caagttcact tttatctcta tgactttggt accagtgggt taatctctat
+     2221 ttctgatttt cctcatattg cagattattt tacacttgat gaaactgaga aaatcatgaa
+     2281 atctttacga ttcttaaata gagagataaa aaatcgtaaa cgtgctcttt ctcaagcaaa
+     2341 agctacaaac cttacgcagt acaatcagtt atctgatgag tctttcccaa cgattttcat
+     2401 cgagatagat ggatttgata gcgttatgga tgcagatttt gtagatgcct tttatgatac
+     2461 tttaaatgtc attgctcgcg atggtgcctc tctaggaatc tatctagttg tgacactttc
+     2521 tcgtctcaat gccatgcgtc tacagttaca atctaacttt aagaccaaga tttctctatt
+     2581 cttgtttgac aatagtgatt tgtcaggagt agtaggacga tctaatattc cgctcgatga
+     2641 aatcaaaggt cgtgccatag ctaaatttga cgacatcgtc caattccaag tgctgttgcc
+     2701 atacagtagt gaatattata cagattacat aaaagaagtt cgtacagaac aagaaactat
+     2761 ggttgcagca tacgatggac cacttccttc aggtatccca atgttgccag aaaaggtaac
+     2821 caaagaggta atgtcagata tcctagaaaa cagtcaagac tttatcttgg ggcttgaaag
+     2881 agaagctgtt gttccagcat catttagctt tgaccgatct attcttattg cttcagatag
+     2941 tcctgccttt gtaacaaact actacaaatt attagagtat catctgaaac gtttgtcaga
+     3001 caagtataat acggttattc tagattctag tcaacgtatt agtagtcaat tctttgctgg
+     3061 tatccagcgt tttgatagtt ctttggaggt tgctgatgtg atgaagacga tactggaaga
+     3121 ctttaggaaa cgcgttgcgt ctccagacca ggattatcca aaatggttga ttttgatacc
+     3181 agacattgct gcgacagcta tggtagcagg gatgaatgaa gtagacttca aagagctcct
+     3241 tacagaaggt cctcgctatg gagtaacctt ggtgtttgct ggtgcttatc aggatctagt
+     3301 aacaaatcga tacgataatt ttgtcaaact agctaatcag ttagtagaac aggtctttct
+     3361 tggtgtacgt attagcgatc aagaccatac tcgctatcct tatatcatga atgagcctgc
+     3421 gcttaaacct aaccaagggc acattctgta cccagatcgt tatgaatttg ttcaactatt
+     3481 agaaatttag aaagggatac aatgaaagaa acgactatgt tgccactcgg cagtatcatt
+     3541 attttaaagg ggaatacaaa gaaaatgatg attatctcac gagtgattgc tgttcctgtt
+     3601 aagggaaata tttatcgctt tgactacggt gcttgcctat atcctgaagg agtcgtaggc
+     3661 gaaaatttga tttacttcaa tcatgaagat atttttaaga ttgttcaaga ggggtatact
+     3721 aatgatgaga atgaactcat gttagaaaat attgcggccg tgatagatga aacggatatt
+     3781 cctaaaggaa atgtggctga attgaacgaa gtaaatgaat taggaggcta agagatggga
+     3841 gaaattgatt acaatcaaat ttattctctt caaaaccagg tgaatgccca ctactctagt
+     3901 atctcatccg ctcaatctcg aatcacctcc atcgatgaac aattggaacg tcttcgtact
+     3961 gccaagaagt ctgtaagcaa aattcaaaga aatgttcacg atatcaggta tcctatcaat
+     4021 catcgcaata tccaaccaga ttggcatgga aaacaaaaag acgctttcct caagcagtgg
+     4081 gagaccttct ccaccgagta tacaaatttc caaacagaga tgaatacctt ctatgatgcc
+     4141 atctgtgatg aaatcactag actagagaac aaaaagaacg aagaaaacgg cattattggt
+     4201 tggtgccaaa gtcagattaa taatttggga aatttcatcg ataagctact acatacgaag
+     4261 gagggcttct
+//

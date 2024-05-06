@@ -1,0 +1,289 @@
+LOCUS       CP001129                7331 bp    DNA     linear   BCT 17-MAR-2017
+DEFINITION  Streptococcus equi subsp. zooepidemicus MGCS10565, complete genome.
+ACCESSION   CP001129
+VERSION     CP001129.1
+DBLINK      BioProject: PRJNA30781
+            BioSample: SAMN02603943
+KEYWORDS    .
+SOURCE      Streptococcus equi subsp. zooepidemicus MGCS10565
+  ORGANISM  Streptococcus equi subsp. zooepidemicus MGCS10565
+            Bacteria; Bacillota; Bacilli; Lactobacillales; Streptococcaceae;
+            Streptococcus.
+REFERENCE   1  (bases 1 to 7331)
+  AUTHORS   Beres,S.B., Sesso,R., Pinto,S.W., Hoe,N.P., Porcella,S.F.,
+            Deleo,F.R. and Musser,J.M.
+  TITLE     Genome sequence of a Lancefield group C Streptococcus zooepidemicus
+            strain causing epidemic nephritis: new information about an old
+            disease
+  JOURNAL   PLoS ONE 3 (8), E3026 (2008)
+   PUBMED   18716664
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 7331)
+  AUTHORS   Beres,S.B., Sesso,R., Pinto,S.W.L., Hoe,N.P., Porcella,S.F.,
+            DeLeo,F.R. and Musser,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2008) Center for Molecular and Translational Human
+            Infectious Disease Research, The Methodist Hospital Research
+            Institute, 6565 Fannin Street, Houston, TX 77030, USA
+COMMENT     Source DNA and bacteria available from American Type Culture
+            Collection (ATCC).
+FEATURES             Location/Qualifiers
+     source          1..7331
+                     /organism="Streptococcus equi subsp. zooepidemicus
+                     MGCS10565"
+                     /mol_type="genomic DNA"
+                     /strain="MGCS10565; ATCC BAA1716"
+                     /sub_species="zooepidemicus"
+                     /culture_collection="ATCC:BAA-1716"
+                     /db_xref="taxon:552526"
+     gene            <1..3489
+                     /gene="essC"
+                     /locus_tag="Sez_0535"
+     CDS             <1..3489
+                     /gene="essC"
+                     /locus_tag="Sez_0535"
+                     /note="similar to ref|ZP_02093557.1| hypothetical protein
+                     PEPMIC_00308 [Peptostreptococcus micros ATCC 33270];
+                     Possibly involved in export of the adjacent ESAT-6 family
+                     protein."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="FtsK/SpoIIIE family protein putative secretion
+                     system component EssC/YukA"
+                     /protein_id="ACG61907.1"
+                     /translation="MIYLIYDDNAYHLYSDTVYQLGPSSGSDIFLPLLEDITLSVEGSG
+                     VVLLEKSYSTGKHCVALSDEVTVTLLIFEAVTKYLLLDSSLYISGEAAAALQLLDYPSE
+                     LVLTLDSDSASCYSPVPYYLNGKWTKGKQPLKASDELVFSDGLVLSFQDQLLSVQSLYA
+                     IQTALLPLTETVAEDRASEFHRSPRIILREPEGKVTIASVPTDDEGKRQSLLKLIITPL
+                     AMIVFTGLSYVFFRGGGMLMMMMGMSVITIGSSIHSYFSDKKWHKEAQQQKIKDYLAYL
+                     DTKYVELAGYREEQIEALLYHYPNMTTILEMAQKTDRRIYEKAPYHFDFLTYRLGLGDT
+                     PASFHIDYSDSELTKHHEKAKQRVQELIAYYQVTAQVPIQNAITSPIGYIGARKVVIEQ
+                     VQQLMMQIATFQSYHDVQFIPIFREEELPLWNWSRWLPHTKLKALNSRGFVYSQRTRDQ
+                     LLTSLYQLIKERQLDSEQDKGTEKQYTPHYIVLITDMSLMLDHNIMEYINEDLSHLGIH
+                     YIFVEEVIESLPEHVKTVIDYRGDKHAQLILQEGLYLNKAFTPLQPLSMKDKEIFARHM
+                     AGINHVETLRNAIPNSVTFLEMYGVNKVEELNLLKRWKENEAYQTMAVPLGVRGRDDIL
+                     YLNLHEKAHGPHGLIAGTTGSGKSELVQSYILSLAVNYHPYEVAFLLIDYKGGGMANLF
+                     ADLPHVVGTITNLDGNQANRALVSIKAELKKRQRIFLENDVNHIDQYTKLFKEGRVKEP
+                     LPHLLIISDEFAELKANQPEFMDELVSTARIGRSLGVKLILATQKPSGVVNDQIWSNAK
+                     FKIALKVQDVADSREVIKTPDAAEITQVGRAYLQVGNNEIYELFQSAWSGADYNPKGRH
+                     TIQHETTVYEITDNGQYQAINKDLSGLDKKREAKSMPTELDAVVAEAQQLFEDLHIPKV
+                     ASPWLPPLSEKIYASDLQSTHFKDYWGQTQDLQPVLIGYQDIPEQQEQSPLYFHMEKAG
+                     HILLVSSPGFGKSTFLQGFALDVMRKQTPAQAHFYLYDFGTSGLIALSDFPHVADYFTL
+                     DETDKIMKSLRYLSEEIKTRKHALSKAKATNLNQYNQLSKDTFPALFVIIDGFDSVMDA
+                     PFVDAVYNVLNVIARDGASLGMYLVVTLSRLNTMRLQLQSNFKTKLSLFLFDNSDLSSV
+                     VGRSNIPLDDIKGRAIMKRDDIIQFQIALPYSSEYYTDYMAEVKREVEAMRVVYQGALP
+                     AAIPMLPEKVTPDMIAAMSDSAQDFVIGLEREAVVPAGFTFKKPILMASDSPAFVANYY
+                     KLLDFQLQRLADQYRTVILDPSQRIARQFFEDSQRFSTALDVGDTLRAIVEDFKKRLAA
+                     PGQDYQKWLVVIPDIAATALAAGISEEDFKQLVTEGSQYGVTLIFVGAYQDLVNNTYDN
+                     FVKLANQLIEQVFLGMRISDQSHTRYAYISNEPSLRPTQGYILYPEGYDFIQLLEI"
+     gene            3502..3831
+                     /locus_tag="Sez_0536"
+     CDS             3502..3831
+                     /locus_tag="Sez_0536"
+                     /note="similar to ref|ZP_02093556.1| hypothetical protein
+                     PEPMIC_00307 [Peptostreptococcus micros ATCC 33270]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACG61908.1"
+                     /translation="MSTVTMLPLGSIVILKGNTKKMMIIARVIAAPIKGEVYRFDYGAC
+                     LYPEGMMGDSLIYFNHDDIFKIIQEGYADDDNALMLETIAQALATTDIPKGDVSALNDR
+                     KTVED"
+     gene            3835..4269
+                     /locus_tag="Sez_0537"
+     CDS             3835..4269
+                     /locus_tag="Sez_0537"
+                     /note="similar to ref|ZP_02093555.1| hypothetical protein
+                     PEPMIC_00306 [Peptostreptococcus micros ATCC 33270]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACG61909.1"
+                     /translation="MGQVDYNQINQLQRQVDQHRASLSTATAEIASIDEKLERLRCAKA
+                     SVGAIQGDVHQIKVSVMAKRDQPDWKGERKDRLMSSWEEFSHDYRHFQLELDAYYDAIC
+                     DTITRLENQKYEQQGLIGWCQSMINSLGNEIEKLFHIREG"
+     gene            4271..4555
+                     /locus_tag="Sez_0538"
+     CDS             4271..4555
+                     /locus_tag="Sez_0538"
+                     /note="similar to ref|ZP_02093554.1| hypothetical protein
+                     PEPMIC_00305 [Peptostreptococcus micros ATCC 33270]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACG61910.1"
+                     /translation="MFGVIQLSEVVFGAHVLSLTAAKASLSDVKASFPSHQSSSKVLDL
+                     YQSEFEALSQLVAAYARLLEKDIALIAEAGQELALTDKQLGQAIGFRLQ"
+     gene            4667..6487
+                     /locus_tag="Sez_0539"
+     CDS             4667..6487
+                     /locus_tag="Sez_0539"
+                     /note="similar to ref|ZP_02093553.1| hypothetical protein
+                     PEPMIC_00304 [Peptostreptococcus micros ATCC 33270]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein CF-7 Family"
+                     /protein_id="ACG61911.1"
+                     /translation="MSALIGDSRLQGQTASSIKGYLSEVHGTLLQTLQSLMNDYSASLL
+                     LYKDGYYQIDSNSHAQLPGQVFKTLQSELRLSQAHLKDQLELLQNARAKVSDLVHYSGV
+                     SHAKTVVDYSELITDINRLDEAIIQYESNHASQDLAAFKELLASTKALIAEYSSKPKRA
+                     GSYQVGDIGQLNTIKRFATAYQGVARHLETNAKRLQAAQERDQARFEAVAAEDRASQGW
+                     VDLALSLVTIAVGVAAIVMTAGAATPLVVGAFVAGSGTVAYGASNLYEAGHNIYLGSVG
+                     DGVTVATNPLRDTLFMGNDRLYHQVGGLFTTASAALIPIGQTKSIAKGLTEFTIGEVGG
+                     FIGGQASYHGTKLLGGSEQDAKRAHLVGNILGGLAASSAARRFSLNELPTSKSFIDGMN
+                     PEDSQRYIQWNKYAKAGLSPSDRVRVLEISEKAPKIKLKSRKNRQKFFKKIEAIDKEVT
+                     RRPDPSSYLAPEYIEAHRHLFDNGAARFQRFQPSESWNNGVVGGKDGMSFWVSKDHADI
+                     IEDIAKGDNRLYETLLGFDEGYLGNDPLYRLDLSPKMVSQKGVSIPSGNESGANEWWRP
+                     EGRTYPGNMPECVIKGISTKKGEHTWNVVN"
+     gene            6469..6858
+                     /locus_tag="Sez_0540"
+     CDS             6469..6858
+                     /locus_tag="Sez_0540"
+                     /note="similar to ref|YP_001450781.1| Gene info
+                     hypothetical protein SGO_1502 [Streptococcus gordonii str.
+                     Challis substr. CH1]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACG61912.1"
+                     /translation="MERSQLTWEEVSQYEEVKGYGQQVWKHKGEYYLVREEGGIATQRV
+                     VYKLPNELFQLLDSGRKSLLEIDFYVKNNCWPPNISQEEADRLFLRDNPELLENDVDNQ
+                     KLFTRKELEELLPKGSPILASSDSD"
+     gene            6883..7290
+                     /locus_tag="Sez_0541"
+     CDS             6883..7290
+                     /locus_tag="Sez_0541"
+                     /note="similar to ref|ZP_00230000.1| hypothetical protein
+                     LMOh7858_0095 [Listeria monocytogenes str. 4b H7858]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="ACG61913.1"
+                     /translation="MKWEEYEMFNKVETPDNLYIREHNGTYYTFFELGVASVRRVFELS
+                     AADFEEYLKGLRTADEILFKAQNDCWPPTEEEKNRIMKERAKDRPMVLISNPKNQMLFT
+                     QEELRKLIPIAEQKWIDWKGKLPDDYISPLK"
+ORIGIN
+        1 gaagcactgc tgtatcatta ccctaatatg acgactattc ttgaaatggc acaaaaaaca
+       61 gatcgccgta tttatgagaa ggctccatat cattttgact ttttgaccta ccgcttgggg
+      121 ctaggtgata ctccagccag ctttcacatt gattattcag attctgagct gaccaagcat
+      181 catgaaaagg caaagcaaag ggttcaagag ctgattgctt attatcaggt gacagcacag
+      241 gtgcctattc aaaatgcgat taccagtcca atcggttata ttggagcacg caaggtcgtg
+      301 attgagcagg ttcagcagct gatgatgcag attgctacct tccagagcta tcatgatgtg
+      361 cagtttattc ctattttccg agaagaagag ctgccattgt ggaattggag ccggtggctg
+      421 cctcatacta agctaaaggc actaaatagt cgtggctttg tttatagcca gcgaacacgt
+      481 gaccaattgt tgacctcgct ttatcagctg atcaaggagc ggcaattaga tagtgagcag
+      541 gataagggga cagaaaagca atacactccg cattatatcg tgctgattac tgacatgagc
+      601 ctcatgcttg accacaatat catggaatac atcaatgagg atttgtctca tctaggcatt
+      661 cattatattt ttgttgaaga ggtcattgaa agtctccctg agcatgttaa aacagttatt
+      721 gattatcggg gagataagca tgctcagctc attttgcagg aggggctcta cctcaataag
+      781 gcctttaccc cgcttcagcc cttgtctatg aaggataagg agatttttgc tagacatatg
+      841 gcagggatta atcacgttga gaccttacgc aatgcgattc caaatagtgt gacctttctt
+      901 gaaatgtatg gcgttaacaa ggttgaggag cttaatctct taaagcgctg gaaggaaaat
+      961 gaggcctacc aaacaatggc tgttccgctt ggagtgcgtg gtcgtgatga catcttgtac
+     1021 ctaaaccttc atgaaaaagc tcatggccca catggcttga ttgcaggaac gactggatct
+     1081 ggtaaatcag agctggttca gtcttatatt ttgtccttgg cggtgaatta tcacccctat
+     1141 gaggttgcct ttttgctgat tgactacaag ggtggtggta tggccaatct ctttgctgat
+     1201 ttaccacatg tcgttggaac cattaccaac ctagatggca atcaggccaa tagggctttg
+     1261 gtatcgatta aggcagagct gaaaaagcgt cagcggattt tccttgaaaa tgatgtcaat
+     1321 catattgatc aatacactaa gctattcaag gaaggacgag ttaaggagcc cctcccacac
+     1381 ctgttaatca tcagcgatga atttgcagaa ttaaaggcca atcagccaga atttatggac
+     1441 gagctggtct caaccgcccg tattggtcgt tctcttggtg ttaagctcat tttagcaacg
+     1501 caaaagccaa gtggtgtcgt taatgaccag atttggtcga atgcgaagtt taaaattgcc
+     1561 ttgaaggttc aagatgttgc agattctcgt gaggtgatta aaaccccaga tgcagcagag
+     1621 attactcagg ttggtcgtgc ttatctccag gttggtaaca atgaaattta cgagctattc
+     1681 caaagtgcct ggtctggagc agactacaat ccaaaaggac gacataccat tcagcatgag
+     1741 acaacagtct atgaaatcac agacaatggt caataccaag cgattaacaa ggaccttagt
+     1801 ggacttgaca agaagagaga agcaaaatcc atgccaacag agctagatgc ggttgtagca
+     1861 gaggctcagc agctctttga ggacctgcat attccaaagg tggccagtcc ttggctgccg
+     1921 cccctttcag aaaaaatcta tgccagtgat ttgcaatcga cgcatttcaa ggactattgg
+     1981 ggacagacac aggacttgca gcctgttttg attggctatc aggatattcc tgagcagcaa
+     2041 gagcagtccc cgctctattt tcacatggaa aaggctgggc atatcctctt agtgtctagt
+     2101 cccggctttg ggaagtctac cttccttcaa ggctttgctt tagatgtgat gcgaaagcaa
+     2161 acaccggcac aggctcattt ttacctctat gattttggga caagcggctt gattgcgctt
+     2221 tctgattttc cacatgtggc agattacttt accctagatg agacagacaa gatcatgaaa
+     2281 tcacttcgtt atttaagtga agaaatcaag acccgtaagc atgccctatc taaggctaag
+     2341 gcaaccaacc tcaatcagta caatcaattg tccaaggaca ccttcccggc tctttttgtc
+     2401 atcattgatg gctttgatag tgtcatggac gcaccatttg tagatgctgt ctacaatgtc
+     2461 ttaaacgtta ttgcgcgtga tggggcttcc ttgggaatgt accttgttgt gaccttatca
+     2521 aggcttaata ccatgaggct acagctgcag tctaacttta agaccaagct atccctcttc
+     2581 ttgtttgata atagtgattt atcaagtgtg gttggtcgct caaatatccc actagatgat
+     2641 atcaagggac gagctatcat gaaacgtgac gacattatcc aatttcagat tgccttgcca
+     2701 tatagcagtg agtactatac agattatatg gcggaggtaa aaagagaggt cgaggcgatg
+     2761 agggttgttt atcaaggtgc tttgccagcg gctattccaa tgctgccaga aaaggtcaca
+     2821 ccagatatga tagcagccat gtcagactct gctcaggact ttgtgattgg tttggagcga
+     2881 gaggctgttg tccctgctgg ctttaccttt aaaaagccaa tactgatggc ctctgatagc
+     2941 ccagcctttg tggctaacta ttataagctg cttgattttc agttgcagcg tctggctgac
+     3001 cagtaccgta cggttatttt agatcctagt cagcgcattg caaggcaatt ctttgaggat
+     3061 agtcaacgct ttagcacagc cttagatgtt ggagacactc taagggctat tgtagaggac
+     3121 tttaaaaagc gtcttgcagc acctggtcag gattatcaaa aatggttagt tgtgattcct
+     3181 gatattgcag ctacagcgct ggcagcagga attagcgagg aagactttaa gcagcttgtg
+     3241 accgagggca gccagtatgg ggtcaccctt atctttgttg gagcttatca ggatctggtc
+     3301 aataatacct atgataactt tgtgaagctt gcaaatcagc tcattgagca ggtcttttta
+     3361 ggcatgcgga tcagtgacca aagccataca cgatatgcct atatcagcaa tgagccttca
+     3421 cttagaccga cccagggcta tatcctatac ccagaaggct atgactttat tcaattatta
+     3481 gagatttaga aaggaacaaa gatgtcaaca gttacgatgc ttccacttgg tagtattgtc
+     3541 attttaaagg gcaatactaa gaaaatgatg attattgcgc gtgtgattgc agctccaatc
+     3601 aaaggggagg tttaccgctt tgactatggt gcctgcctgt atccggaggg catgatgggg
+     3661 gatagtttga tttactttaa tcatgacgat atttttaaga ttattcaaga aggctatgct
+     3721 gatgatgaca atgctctgat gttagagacg atagcacagg ctttagcaac aacggacatt
+     3781 ccaaaaggag atgtttcagc cttaaacgat agaaagactg ttgaggacta gcttatgggg
+     3841 caagttgact acaaccagat caatcagctt caacgtcagg ttgaccagca cagggccagt
+     3901 ctatcaacgg ctacagcaga gatagcgtca atagacgaaa agctagagcg cttgcgttgt
+     3961 gccaaggctt ctgttggagc gattcaagga gatgttcatc agatcaaggt ctctgtgatg
+     4021 gctaagaggg atcagcctga ttggaaggga gaacgcaagg accgcttgat gtcgagctgg
+     4081 gaggagttct ctcatgacta tcgccacttt cagctggagc tagatgctta ttacgatgcc
+     4141 atttgtgata cgataacacg cttggagaat caaaagtatg agcagcaagg gcttatcggc
+     4201 tggtgtcaga gcatgattaa tagcttggga aatgagattg aaaagctatt tcatattagg
+     4261 gagggctagc atgtttggtg ttattcaatt atctgaggtt gtgtttgggg cgcatgtgtt
+     4321 aagcctgact gctgctaagg ctagcttgtc tgatgtcaaa gctagctttc ccagccatca
+     4381 gtcatcaagt aaggtgctag atctgtatca gtcagagttt gaagcactct ctcagcttgt
+     4441 tgctgcctat gctaggcttt tggaaaagga tattgccttg attgccgagg ctggtcaaga
+     4501 attggcccta acagataagc agttgggaca agctatagga tttagattac aataggagga
+     4561 gggtatggga tataagattc actttgaggc catcagtgcc gcccaacaaa gcacccaaac
+     4621 cacgatcagt gcttggggcg atgggatgac gagtatccag actgccatgt cagccttgat
+     4681 tggagacagt cgccttcagg gtcagaccgc tagctccatc aagggttacc tgagtgaggt
+     4741 gcatgggact ctcttacaaa ctctgcaaag cctgatgaat gattactcag ccagcctttt
+     4801 gctgtataag gacggctatt accagataga cagcaacagc catgcccagt tacccggtca
+     4861 ggtctttaag accctgcagt cagagcttcg gctctcgcag gctcacctca aggatcagct
+     4921 tgagttacta cagaatgcca gagctaaggt atcagacttg gtgcactatt ctggtgtcag
+     4981 tcatgccaag acagtggtgg attatagcga gctaatcact gatatcaatc gcttggacga
+     5041 ggccatcatt caatacgaaa gcaatcatgc cagtcaggac ttggccgcct tcaaggagct
+     5101 gttggcttcg accaaggcct tgatagcaga gtacagcagt aagcctaagc gtgctgggag
+     5161 ctatcaggtt ggggatatag gacagctcaa taccataaaa cgctttgcga cagcttatca
+     5221 gggggtggct cgtcatcttg agaccaatgc caagcgtctc caagcagctc aggaaaggga
+     5281 tcaggcccgt tttgaggcag tagccgcaga ggacagagcc agtcagggct gggtagatct
+     5341 agcgctcagc cttgtgacaa tagcggttgg ggttgcggct atcgtcatga cagcaggggc
+     5401 agcgactccc ttggtggttg gggcctttgt tgctggcagt ggtacagttg cttatggcgc
+     5461 gtcaaatcta tatgaggctg ggcacaacat ttatctaggc agcgttggcg atggggttac
+     5521 agtggctacc aatccccttc gggatacctt gttcatgggg aatgacaggc tgtaccacca
+     5581 ggttggcggc ttgtttacaa cagccagtgc agccctaatc ccgatcggac agaccaagag
+     5641 catcgccaag ggcttaacgg agttcacgat cggggaggtc ggcggcttta tcggtggcca
+     5701 agccagctat catggcacca agctcttagg cggcagtgag caagacgcca agcgcgctca
+     5761 cttagttggt aatatcctag gaggcctcgc tgcttcaagc gccgccagaa ggttcagctt
+     5821 gaatgagcta ccaacttcca aatcgtttat agatggcatg aatcctgagg atagtcagcg
+     5881 ctacattcaa tggaacaaat acgcaaaggc agggcttagt ccgtcggatc gggttcgcgt
+     5941 tctggaaatt tcggagaagg cgccgaaaat taaactaaaa agtaggaaga atcggcaaaa
+     6001 gttttttaaa aaaattgaag caattgacaa agaagttact cgccgaccag atccatcaag
+     6061 ttatttagct ccagaataca tagaagccca tcgtcatttg tttgataatg gagctgctag
+     6121 attccaaaga ttccaaccta gtgaaagttg gaacaatggg gttgttggtg gtaaggatgg
+     6181 catgagcttc tgggttagta aggatcatgc ggatattatt gaggatattg ccaagggtga
+     6241 taatcgtctc tacgagacgc tactcggctt cgacgagggt tatcttggca atgatccgct
+     6301 ctatcgcttg gatctttcgc ccaagatggt ttcacaaaaa ggtgtttcaa taccaagtgg
+     6361 taatgaatcg ggagctaatg aatggtggcg accagaaggc cgaacctatc caggtaatat
+     6421 gccagaatgt gttataaaag gtatcagtac aaagaaagga gagcatacat ggaacgtagt
+     6481 caattaacat gggaagaagt cagtcaatac gaggaagtca agggttatgg tcaacaggtg
+     6541 tggaagcata agggagaata ttatctagtc agggaagaag gaggaattgc cacacaacga
+     6601 gtagtgtata aactacctaa tgaacttttt caattattgg atagtggccg aaaatcttta
+     6661 ttagaaatag atttttatgt caaaaataac tgctggccac caaatataag tcaggaagaa
+     6721 gcagatagac tctttttaag agacaatcct gagctattag aaaacgatgt tgacaatcaa
+     6781 aagctcttta cgcgaaaaga actagaggag ttattgccga agggatcccc tattttagca
+     6841 agcagcgata gcgattaagg taataatatg ggaataacgc aaatgaagtg ggaagaatac
+     6901 gaaatgttta acaaagtaga gacgcctgat aatctttata tccgagagca taacggaaca
+     6961 tattatactt tttttgaatt gggagtagct tctgttcgcc gagtttttga gcttagtgcg
+     7021 gctgattttg aggaatattt aaaaggtctt cgcacagcag acgagattct ctttaaggct
+     7081 caaaacgact gctggccacc aacggaagaa gagaaaaatc gaataatgaa agaaagagca
+     7141 aaagatagac caatggtcct catttctaat cctaaaaatc aaatgctttt tacccaggaa
+     7201 gagctaagaa aactgattcc aattgcggag caaaaatgga tagattggaa gggaaagctg
+     7261 ccagatgatt atattagtcc tttgaagtaa tgtttaagat agcggagctg tggttagctc
+     7321 tgctatttta a
+//
