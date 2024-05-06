@@ -1,7 +1,7 @@
 
 # Thesis Code Information  
 
-This contains all the code used to generate data and cetain figures for my Master's Thesis. Quite a bit of rough work is also mixed in here as well, especially intermediate outputs that were dumped into the main folder during testing. Also some of these files notebooks and scripts didn't end up being used. Most of the code is in notebooks that were adapted from previous projects and scripts I wrote in 2022 and 2023. I also had a chronic tendancy to fill up a notebook until it was difficult to edit, and then transfered the sections I was working on into a new one, which makes the notebooks even more fragmented.  
+This contains all the code used to generate data and cetain figures for my Master's Thesis. Quite a bit of rough work is also mixed in here as well, although much has been moved to the [supplmentary repository](https://github.com/dirkgreb/supplementary_thesis_code). Most of the code is in notebooks that were adapted from previous projects and scripts I wrote in 2022 and 2023. The notebooks are a bit fragmented in terms of functionality unfortunately. See below for an overview. 
 
 ## Important Notebooks  
 
